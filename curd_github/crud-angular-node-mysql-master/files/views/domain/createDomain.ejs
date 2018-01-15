@@ -1,0 +1,85 @@
+<% include ../layout/layout %>
+
+<div class="panel panel-info">
+	<div class="panel-heading">
+		<h3 class="panel-title"><%=title %></h3>
+	</div>
+
+	
+	<!-- <div data-ng-ap="domainModule" data-ng-controller="domainController"> -->
+	<div class="container" data-ng-app="domainModule" data-ng-controller="domainController"> <!-- works -->
+
+		<!-- directive: domainModule, which will be added as angular.module("domainModule").controller("domainController", domainController); -->
+
+			<% include message %>
+
+			<form class="navbar-form navbar-left" role="search" 
+			method="POST" name="formDomain">
+				<!-- row -->
+				<div class="row">
+					<div class="form-group">
+						<label for="">Domain Name</label>
+						&nbsp;&nbsp;
+
+						<input type="text" class="form-control" 
+						placeholder="Please Enter Domain Name" 
+						name="domain_name" id="domain_name" 
+						ng-model="domain.domain_name" 
+						style="width: 100%" required>
+
+					</div>
+				</div>
+
+				<!-- row -->
+				<div class="row">
+					<div class="form-group">
+						<label for="">Hosting</label>
+						&nbsp;&nbsp;
+
+						<select name="hosting" id="hosting" ng-model="domain.hosting">
+							<option value="0">Not Hosted</option>
+							<option value="1">Hosted</option>
+						</select>
+
+					</div>
+				</div>
+
+				<!-- row -->
+				<div class="row">
+					<div class="form-group">
+						<label for="">Hosting Date</label>
+						&nbsp;&nbsp;
+
+						<input type="text" class="datepicker" name="hosting_date" ng-model="domain.hosting_date" required>
+
+					</div>
+				</div>
+
+				<!-- row -->
+				<div class="row">
+					<div class="form-group">
+						<label for="">Expiry Date</label>
+						&nbsp;&nbsp;
+
+						<input type="text" class="datepicker" name="expiry_date" ng-model="domain.expiry_date" required>
+
+					</div>
+				</div>
+
+
+				<div class="row">
+					<div class="form-group" style="padding-left: 40%">
+						<button type="button" class="btn btn-primary" 
+						ng-click="createDomain(domain)">Submit</button><!-- ng-click directory calling a function which will be added as $scope.createDomain = function(domain) {}-->
+					</div>
+				</div>
+			</form>
+	</div>
+</div>
+
+<script src="/bower_components/angular/angular.min.js"></script>
+<script src="../../javascripts/app/domain/domainModule.js"></script>
+<script src="../../javascripts/app/domain/domainService.js"></script>
+<script src="../../javascripts/app/domain/domainController.js"></script><!-- controller has dependency over module and service -->
+
+<script src="../../javascripts/app/requiredFieldValidationService.js"></script>

@@ -1,0 +1,90 @@
+<% include ../layout/layout %>
+
+	<% include pageTitle %>
+
+	<div class="container">
+
+	<div class="panel-body">
+		<!-- 
+		<div class="container"
+		data-ng-cloak -->
+		<div class="container" data-ng-app="domainModule" data-ng-controller="viewDomainByIdController"><!-- directive: domainModule, which will be added as angular.module("domainModule").controller("domainController", domainController); -->
+
+			<% include message %>
+
+				<!-- row -->
+				<div class="row">
+					<div class="form-group">
+						<label for="">Domain Name</label>
+						&nbsp;&nbsp;
+						<input type="text" class="form-control" 
+						placeholder="Please Enter Domain" 
+						name="domain" id="domain" 
+						ng-model="domainView.domain_name" 
+						style="width: 100%" required ng-readonly="true">
+
+					</div>
+				</div>
+
+				<!-- row -->
+				<div class="row">
+					<div class="form-group">
+						<label for="">Hosting</label>
+						&nbsp;&nbsp;
+
+						<!-- <textarea class="form-control" 
+						placeholder="" 
+						name="hosting" id="hosting" 
+						rows="5" 
+						ng-model="domainView.hosting" 
+						style="width: 100%" required></textarea> -->
+						<select name="hosting" id="hosting" ng-model="domainView.hosting" ng-disabled="true">
+							<option value="0">Not Hosted</option>
+							<option value="1">Hosted</option>
+						</select>
+
+					</div>
+				</div>
+
+				<!-- row -->
+				<div class="row">
+					<div class="form-group">
+						<label for="">Hosting Date</label>
+						&nbsp;&nbsp;
+
+						<input type="text" class="form-control" 
+						name="hosting_date" id="hosting_date" 
+						ng-model="domainView.hosting_date" 
+						style="width: 100%" required ng-readonly="true">
+
+					</div>
+				</div>
+
+				<!-- row -->
+				<div class="row">
+					<div class="form-group">
+						<label for="">Expiry Date</label>
+						&nbsp;&nbsp;
+
+						<input type="text" class="form-control" 
+						name="expiry_date" id="expiry_date" 
+						ng-model="domainView.expiry_date" 
+						style="width: 100%" required ng-readonly="true">
+
+					</div>
+				</div>
+
+
+		</div>
+	</div>
+	
+	</div>
+</div>
+
+<script src="/bower_components/angular/angular.min.js"></script>
+<script src="../../javascripts/app/domain/domainModule.js"></script>
+<script src="../../javascripts/app/domain/domainService.js"></script>
+<script src="../../javascripts/app/domain/viewDomainByIdController.js"></script>
+<!-- controller has dependency over module and service -->
+
+<script src="../../javascripts/app/requiredFieldValidationService.js"></script>

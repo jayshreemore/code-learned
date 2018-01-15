@@ -1,0 +1,36 @@
+Total Domain: {{domainArr.length}}
+
+<table data-ng-show="domainArr.length > 0" class="table table-striped table-hover">
+	<tr class="success">
+		<td>Domain Name</td>
+		<td>Hosting</td>
+		<td>Hosting Date</td>
+		<td>Expiry Date</td>
+		<td>Actions</td>
+	</tr>
+
+	<tr data-ng-repeat="domain in domainArr"><!--  | filter: selectedMonthFilter -->
+		<td>{{domain.domain_name}}</td>
+		<td>{{domain.hosting == "1" ? "Hosted" : "Not Hosted"}}</td>
+		<td>{{domain.hosting_date | date:'MMM dd, yyyy' }}</td>
+		<td>{{domain.expiry_date | date:'MMM dd, yyyy' }}</td>
+		<td class="info">
+			<!-- Single button -->
+			<div class="btn-group">
+				<button type="button" class="btn-btn-default dropdown-toggle" data-toggle="dropdown" data-toggle="dropdown" aria-expanded="false">
+					Edit Domain <span class="caret"></span>
+				</button>
+				<ul class="dropdown-menu" role="menu">
+					<li><a href="editDomain/{{domain.domain_id}}">Edit Domain</a></li>
+					<li><a href="viewDomain/{{domain.domain_id}}">View Details</a></li>
+					<li class="divider"></li>
+					<li>
+						<button type="button" class-"btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-domainId="{{domain.domain_id}}" data-ng-click="setCurrentDomainId(domain.domain_id)">
+							Delete Domain
+						</button>
+					</li>
+				</ul>
+			</div>
+		</td>
+	</tr>
+</table>

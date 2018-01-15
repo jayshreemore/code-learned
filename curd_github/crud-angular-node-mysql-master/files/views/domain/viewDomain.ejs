@@ -1,0 +1,35 @@
+﻿<% include ../layout/layout %>
+
+<div class="panel panel-info">
+	<div class="panel-heading">
+		<h3 class="panel-title"><%=title %></h3>
+	</div>
+
+	<div data-ng-app="domainModule" data-ng-controller="viewDomainController">
+		<div class="container">
+			<% include domainGrid %>
+		</div>
+
+		<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		  <div class="modal-dialog">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="exampleModalLabel">Are you sure, You want to delete this domain category ?</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      	<button type="button" class="btn btn-danger" data-ng-click="deleteDomain()">Delete domain Category</button>
+		      </div>
+		      <div class="modal-footer">
+		      </div>
+		    </div><!-- /.modal-content -->
+		  </div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+	</div>
+</div>
+
+<script src="/bower_components/angular/angular.min.js"></script>
+<script src="../../javascripts/app/domain/domainModule.js"></script>
+<script src="../../javascripts/app/domain/domainService.js"></script>
+<script src="../../javascripts/app/domain/viewDomainController.js"></script><!-- controller has dependency over module and service -->
