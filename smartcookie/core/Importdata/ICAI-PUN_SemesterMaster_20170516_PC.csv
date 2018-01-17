@@ -1,0 +1,4 @@
+SchoolID, BranchID, SemesterID, SemesterName, SemesterCredit, IsRegularSemester, BranchName, DepartmentName, CourseLevel, Class, IsEnabled
+ICAI-PUN,1,1,Semester- I,1,1,Cost Accounts,Accounting,INTERMEDIATE,Class-A,1
+ICAI-PUN,1,1,Semester- I,1,1,Cost Accounts,Accounting,Foundation,Class-A,1
+ICAI-PUN,1,1,Semester- I,1,1,Cost Accounts,Accounting,Final,Class-A,1

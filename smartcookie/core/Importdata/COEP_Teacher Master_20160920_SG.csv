@@ -1,0 +1,870 @@
+SchoolID, EmployeeRegCode, EmployeeName, Mobile, DeptName, Gender, EmailID, Country, City, PermanentAddress, DOB, IntEmail, PhoneNo, AppointmentDate,EmployeeType
+COEP,4100002004,Shashikant Uttareshwar Ghumbre,9423245703,Computer Engineering and Information Technology,Male,abc@gmail.com,dfhsg,dhdgh,sefsdf,1/17/2014,shashi.comp@coep.ac.in,20-25507091,8/3/2015,133
+COEP,10209001,Tripta Anand Nair,9850973313,Production Engineering and Industrial Management,Female,NULL,NULL,NULL,NULL,4/24/1978,tan.erp@coep.ac.in,20-25507281,6/21/2013,133
+COEP,30209002,Vaishali Gaikwad,9637544600,Production Engineering and Industrial Management,Female,NULL,NULL,NULL,NULL,7/20/1980,vsg.erp@coep.ac.in,20-25507281,5/10/2013,133
+COEP,400609002,Anil Dattatraya Sahasrabudhe,9423582025,Mechanical Engineering ,Male,NULL,NULL,NULL,Flat No 402  Vasant Vishwas Residency; Deokar Panand  Kolhapur ,9/2/1957,director@coep.ac.in,20-25507221,7/25/2014,132
+COEP,4100001014,Hema Kishor Munot,9423572598,Civil Engineering ,Female,NULL,NULL,NULL,Flat No-102  Chitrakut B-wing 1065/A/1 Chaturshrungi Road Shivajinagar  Pune-16,7/10/1967,hkm.civil@coep.ac.in,20-25507041,7/20/2016,133
+COEP,4100001019,Satish Ramchandra Sathe,9423582026,Civil Engineering ,Male,NULL,NULL,NULL,Satish  42 Panmala Colony  Vittal Wadi Road  Opp. Ramkrishna Ashram  Pune 411030,8/3/1955,srs@civil.coep.org.in,20-25507041,7/25/2014,133
+COEP,4100001020,Aruna Dattatraya Thube,9420426106,Civil Engineering ,Female,NULL,NULL,NULL,301-A  Smriti Villa Housing Society  1170/14  Revenue Colony  Shivajinagar  Pune-411005,7/11/1965,adt.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,410003002,Sunanda Pravin Ghanegaonkar,9823882253,Electrical Engineering ,Female,NULL,NULL,NULL,'Sumangal'Plot No. 76  Sector No. 76  Nigadi Pradhikaran           Pune:-411 044,2/10/1966,spg.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410003003,Vinodini Bhushan Bhole,NULL,Electrical Engineering ,Female,NULL,NULL,NULL,Flat No. 7  Sumant Residency  A71  Kasturba Soc. Vishrantwadi Pune 411 014,4/19/1975,vbb.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410003004,MEERA MURALI ,NULL,Electrical Engineering ,Female,NULL,NULL,NULL,"Flat No.402, Sangam Heritage, Bhoir Colony, Chinchwad, Pune-33",2/26/1971,mm.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410003008,Vijaya Sanjay Rajguru,9822849097,Electrical Engineering ,Female,NULL,NULL,NULL,Rama  Dt. Amravati,7/2/1967,vsr.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410003010,Shailaja Ravindra Kurode,8149197915,Electrical Engineering ,Female,NULL,NULL,NULL,"A206, Ojas apartment, Pashan-Baner Link Road, Pashan Pune",12/2/1963,srk.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410003012,Anjali Arun Dharme,NULL,Electrical Engineering ,Female,NULL,NULL,NULL,"Gurukripa,Anandnagar,HingneKd,Pune-51",10/16/1961,aad.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410003014,Arti Vivek  Tare,9850739571,Electrical Engineering ,Female,NULL,NULL,NULL,F-101  Wonder City  Katraj-Dehu Road  Katraj  Pune-46,3/8/1972,avt.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,41001031,Kirti  Jawale,9209309549,Civil Engineering ,Female,NULL,NULL,NULL,Pune,1/1/1900,kvj.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4101001009,Yashwant Apparao Kolekar,9422336623,Civil Engineering ,Male,NULL,NULL,NULL,Aradhawadi  Behind Tuljabhawani Temple Tuljapur Dist Osmanabad.,9/12/1968,yak.civil@coep.org.in,20-25507041,7/25/2014,133
+COEP,4101005003,Chetankumar Yashawant   Patil,992211461,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,Nandanwan Colony  Near Gayatri Shaktipeet  Bhusawal 425201,6/15/1967,cyp.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,4101005010,Uttam Madhavrao Chaskar,9850246712,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,B3-403  Hariganga  Opp. RTO  Alandi Road  Yerwada  Pune - 411 006 ,6/2/1972,umc.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,4101006008,Gajanan Vaijanath Parishwad,9822871801,Mechanical Engineering ,Male,NULL,NULL,NULL,Plot.No.07 Omkar  Dattatraya Hsg.Soc.  Sambhajinagar Kolhapur. 416012         ,3/25/1960,gvp.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410203006,Bhalchandra Nemichand Chaudhari,9423582027,Electrical Engineering ,Male,NULL,NULL,NULL,"13, Sadhvi, Swanand nagar Aurangabad",9/13/1967,bnc.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410203013,Kavita Vishindas Khushalani,NULL,Electrical Engineering ,Female,NULL,NULL,NULL,"PWD 29/06,Pimpari/17",8/8/1971,kvk@elec.coep.org.in,20-25507111,7/25/2014,133
+COEP,410225002,Kiran Vishnupant Dalvi,9922751205,Mathematics ,Male,NULL,NULL,NULL,2 B/14 Nirmal Park  Pune-Satara Road  Chavan Nagar  Dhankavadi  Pune-43.,4/21/1968,kvd.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,410225004,Shubhangi Prashant Kavishwar,9260037061,Mathematics ,Female,NULL,NULL,NULL, Co/ Prashant Harshchandra KavishwarPo.O. Udgir  Taluka Latur  Dist. Latur,7/3/1972,spk.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,4103001005,Rupa Sunil Dalvi,9822664207,Civil Engineering ,Female,NULL,NULL,NULL,"At. Post- Bilashi, Tal- Shirala, Dist- Sangli,",1/13/1971,rsd@civil.coep.org.in,20-25507041,7/25/2014,133
+COEP,4103001007,Vaishali Balkrishna Dawari,9423003060,Civil Engineering ,Female,NULL,NULL,NULL,"1712/5,Sadashiv Peth, Navbharath Housing Society,Pune-30",6/18/1973,vbd.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4103002003,Vinod Keshaorao Pachghare,9850820237,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,C-207   Akashdeep  Ganeshnagar  Sinhgad Road  Pune 411041,4/7/1967,vkp.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,4103004005,Pratibha Prashantrao Shingare,9881737322,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,A/1  Uday residency ADC G3 block  opp IT quarters  Pradhikaran  Nigadi  Pune 44,5/27/1976,pps.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,4103006002,Shrikant Bapurao Patil,9850173450,Mechanical Engineering ,Male,NULL,NULL,NULL,Hirakunj  Nai Ajadi Dam Road  Udgir  Dist Latur,9/17/1967,sbp.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,4103006003,Pradyumna Rameshchandra Dhamangaonkar,9421670869,Mechanical Engineering ,Male,NULL,NULL,NULL,C/o.Bhagwan Mahavir Marg Malkapur  Dist. Buldhana-443101 ,5/7/1963,prd@mech.coep.in,20-25507221,7/25/2014,133
+COEP,4103006004,Pritam Jeevan Mulaye,9890184940,Mechanical Engineering ,Female,NULL,NULL,NULL,"Flat No.08,Radheya Appt,Ashoknagar,Aurangabad",9/29/1978,pjm.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,4103006007,Shivalingappa Nagappa Sapali,9423582575,Mechanical Engineering ,Male,NULL,NULL,NULL,Mallika Arjun Temple Budhawar peth Akkalkot.  Solapur.,6/1/1962,sns@mech.coep.org.in,20-25507221,7/25/2014,133
+COEP,410303007,Dhananjay Balu Talange,9325117504,Electrical Engineering ,Male,NULL,NULL,NULL," Ichalkaranji, Kolhapur",12/10/1958,dbt.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410306013,Shantipal Suresh Ohol,9850503949,Mechanical Engineering ,Male,NULL,NULL,NULL,D-101 Imperial Residence  Near AgaKhan Palace  Kalyaninagar  Pune 411 006.,4/19/1971,sso.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410306014,Mohan Pandurang Khond,9809756893,Mechanical Engineering ,Male,NULL,NULL,NULL,"61,Anandnagar, Yewatmal-445001",1/1/1967,mpk.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410306019,Milankumar Ramakant Nandgaonkar,9850174795,Mechanical Engineering ,Male,NULL,NULL,NULL,Kathipura  Ward N.4  Anaangaoon Surji  Dist. Amarawati.,5/10/1969,mrn.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410306023,AJAY PANDITRAO BHATTU,9673750036,Mechanical Engineering ,Male,NULL,NULL,NULL,Flat No 24  B Wing  Sai Residency S.N.13/3 Dhayari  Pune 411041,12/29/1967,apb.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410319001,Ramesh Bhujangrao Kamble,9823892330,Physics,Male,NULL,NULL,NULL,"Amba Nagari, 5/21, Dhanori Rd., Vishrant Wadi, Pune 411 015 ",6/7/1972,rbk.physics@coep.ac.in,2025507032,7/25/2014,133
+COEP,410319002,Lata Vishwanath Bhandarkar,9422466580,Physics,Female,NULL,NULL,NULL,"8, Madhurima, Plot 54, Varadayeni Co Op Hsg. Soc., Pashan Sus Rd., Pune 411 021 ",8/20/1973,blv.physics@coep.ac.in,2025507032,10/31/2003,133
+COEP,410325003,RASHMI PRABHAKAR MORE,9850431097,Mathematics ,Female,NULL,NULL,NULL,ROOM NO.5 FIRST FLOOR MORESHWAR BHAVAN AHILYABAI CHOWK KALYAN(W). PIN 421301,1/15/1974,rpm.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,4104006009,Nagesh Kallappa Chougale,9423247208,Mechanical Engineering ,Male,NULL,NULL,NULL,A/P/Allat Tal.Shirol Dist.Kolhapur.,7/8/1968,nkc.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410406015,Shrikant Digambar Mahajan,9850119472,Mechanical Engineering ,Male,NULL,NULL,NULL,"C/O. D.Y.Mahajan,Advocate, Avadoot Road, Yawatmal.",7/31/1951,sdm@mech.coep.org.in,20-25507221,7/25/2014,133
+COEP,410406026,Shivnanda Shivling Bhavikatti,9881436663,Mechanical Engineering ,Female,NULL,NULL,NULL,"B-6/23, Kumar Angan, Airport Road, Yerwada, Pune",7/8/1966,bhavikatti@mech.coep.org.in,20-25507221,7/25/2014,133
+COEP,4105002001,Yashodhara Vikrant Haribhakta,9423567720,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,A-11  Florentine Society  SopanBaug  Near Ghorpadi  Pune-1,6/12/1973,ybl.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,4105005006,Meera Ajit Khandekar,9881244405,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,Atpost Mangaon Dist Raigad,7/22/1980,mak.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,4105008001,Prakash Dasharath Pantawane,9226232540,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,Flat No. 202  Mohan Heights  Plot No. 15  S. No. 13/4  Moraya Park  Pimple Gurav  Pune 411061,6/8/1976,pdpantawane.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,4105008002,Sunil Udaykumar Ghunage,9421386175,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,Q,1/17/1977,sug@prod.coep.org.in,20-25507281,7/25/2014,133
+COEP,4105008003,Arati Vinayak Mulay,9763214820,Production Engineering and Industrial Management,Female,NULL,NULL,NULL,Saket E-17  paranjpe Sch.  Navasahayadri  Pune 411052,11/18/1976,avm.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,4105008005,Rajiv H Basavrajappa,9850490340,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"s/o Shri Basavarajappa  # 277  1st Main  3rd Cross   BEML Layout 4th Stage, RajarajeshwarinagarBangalore-560098",12/27/1975,rbh@prod.coep.org.in,20-25507281,7/25/2014,133
+COEP,4105008006,Sudhir Madhav Patil,9822299276,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,14  Shubham Nagar  P.O.:Jaihind Colony  Walwadi  Deopur  Dhule - 424002,10/5/1976,smp.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,4105008007,Bhagwan Uttamrao Sonawane,9922132579,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,Balepir Amrai  Nagar Road  Beed -431122,5/25/1977,bus.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,410502008,Siddharth Kisan Gaikwad,9823893110,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,F.NO-22  TANVI RESIDENCY  AUNDH GAON  PUNE-411007,2/18/1974,skg@comp.coep.org.in,20-25507091,7/25/2014,133
+COEP,410502009,Rajesh Dattatraya Bharati,9850718871,Computer Engineering and Information Technology,Male,none1@gmail.com,ind,pune,"F-14 SHIVTEERTH ,SHRNAGARNAGAR,KALEWADI,PUNE-17",5/10/1979,rdb@comp.coep.org.in,20-25507091,7/25/2014,133
+COEP,410502010,Satish Shivaji Kumbhar,9860574798,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"A/p-Vadgaon Nimbalkar,Tal-Baramati,Dist-Pune,Pin-412103",7/15/1979,ssk.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,410502011,Neha Ramesh Wasatkar,NULL,Computer Engineering and Information Technology,Female,none2@gmail.com,sdfs,sdfsdf,sdgdfgd,3/20/1980,nrw@comp.coep.org.in,20-25507091,7/25/2014,133
+COEP,410502012,Deepak Dashrath Kshirsagar,8087558157,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,28/198  'Rau Niwas'  S T Colony  Near Barshi Naka  Osmanabad 413501,4/12/1983,ddk.comp@coep.org.in,20-25507091,7/25/2014,133
+COEP,410502013,Sunil Bhagwanrao Mane,9822799644,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,Ramlila Nagar  Near Ankur Hotel  Naldurg- 413602. Tal-Tuljapur  Dist-Osmanabad,6/19/1981,sunilbmane.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,410502023,ARCHANA BHASKAR PATIL,9881356246,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,"A-15, Akshay Park, Thergaon, Chinchwad, Pune-33",5/1/1981,abp.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,410525005,Ahilya Bharat Dhere,9403136703,Mathematics ,Female,NULL,NULL,NULL,9 MAHALAXMI HEIGHTS  PASHAN,10/15/1966,abd@maths.coep.ac.in,2025507211,7/25/2014,133
+COEP,4107007002,Vijay Trambak Thavale,9423577318,Metallurgy and Material Science ,Male,NULL,NULL,NULL,Shivkunj Society  S.N. 101 Janawadi  Shivajinagr  Pune 411016,11/10/1978,vtt.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,4107007003,Manisha Gulabrao Kulthe,8421601129,Metallurgy and Material Science ,Female,NULL,NULL,NULL,Laxmi nagar Old Wadgaon Rd   Chandrapur-442401,7/20/1980,mgk.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,410706018,Deepak Wamanrao Pande,9960033329,Mechanical Engineering ,Male,NULL,NULL,NULL,A/P/Khadkee  Via.Himayatnagar Dist.Nanded,3/21/1959,dwp.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410706047,Prasanta Bijayram Mishra,9921229115,Mechanical Engineering ,Male,NULL,NULL,NULL,C-104 Citadel Impress Pune-1,7/10/1945,pkm.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410717015,Nandini Venkat Iyer,9881991115,Applied Science,Female,NULL,NULL,NULL,Flat No 1  Godavari  Udyognagar  Chinchwad  Pune 411 033,1/30/1972,nvi.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,4108001021,Dr.Moni Udhaorao Khobragade,999,Civil Engineering ,Male,NULL,NULL,NULL,"At Post Chackdugda, Post Veggaon, Taluka Mul, District Chandrapur",7/29/1976,muk.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4108004002,Shilpa Prabhakar Metkar,9890574525,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,C/O P. K. Metkar  A-Block Assistant Rectors Quarter  Boys Hostel  Government Polytecnic  Pune.,6/3/1979,metkars.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,4108005008,Nivedita Pradip Wagh,9323465671,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,Jalgaon,4/18/1984,npw@instru.coep.org.in,20-25507171,7/25/2014,133
+COEP,4108005009,Ketaki Abhijeet Ghodinde,9372115504,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,Rector's Quartes   COEP Hostel  Shivajinagar   Pune -411005,10/22/1977,ssk.instru@coep.ac.in,20-25507171,4/8/2008,133
+COEP,4108006010,Vipin Kumar Tripathi,9604645208,Mechanical Engineering ,Male,NULL,NULL,NULL,35 A Shaktivihar    Behind Darpan Colony R.K.Puri  Gwalior.474011,8/17/1970,vkt.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,4108007009,Pravin Pralhad Deshpande,9372810108,Metallurgy and Material Science ,Male,NULL,NULL,NULL,B 3 /602  SHIVSAGAR SOC PHASE ONE  SUNCITY ROAD  OPP SINHGAD ROAD  PUNE 51,1/29/1962,ppd@meta.coep.org.in,20-255077261,7/25/2014,133
+COEP,4108007010,Niloy Nalinikant Nath,9850011624,Metallurgy and Material Science ,Male,NULL,NULL,NULL,"1/A , Fendas Rd, Jadhavpur, Calcutta.",4/26/1963,nkn@meta.coep.org.in,20-255077261,7/25/2014,133
+COEP,4108007011,Rajendra Gangasharan Goyal,9423534247,Metallurgy and Material Science ,Male,NULL,NULL,NULL,E-2/6 State Bank Nagar  Panchwati Off Pashan Road  Pune-411008.,4/20/1972,rkg.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,4108008004,Neela Ravindra Rajhans,9822390648,Production Engineering and Industrial Management,Female,NULL,NULL,NULL,asdw,11/14/1963,nrr@prod.coep.org.in,20-25507281,7/25/2014,133
+COEP,410803011,Rajaram Tukaram Ugale,9850023908,Electrical Engineering ,Male,NULL,NULL,NULL,At. Ugale wadi Post: Shinoli  Tal:-Ambegaon  Dist:- Pune,9/27/1974,rtu.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410803021,Ashuthosh Ashutosh Pramanik,9860241470,Electrical Engineering ,Male,NULL,NULL,NULL,EED COEP,1/1/1930,ap@elec.coep.org.in,20-25507111,7/25/2014,133
+COEP,410804016,Radhika Dhirendra Joshi,9881404632,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,422/2 3A Uma Sahanivas  Society Goghale Road Pune 16,1/6/1970,rdj@extc.coep.org.in,20-25507141,7/25/2014,133
+COEP,410804017,Vibha  Vyas,9423582257,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,flat no. 204  F block Pride Platinum  near Pancard club Baner Pune- 45,8/27/1971,vsv.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,410806017,Madhuri Girish Karnik,9766498116,Mechanical Engineering ,Female,NULL,NULL,NULL,NULL,7/23/1962,mgk.mech@coep.ac.in,20-25507221,1/2/2008,133
+COEP,410817005,Ashwini Nitin Chavan,9850259505,Applied Science,Female,NULL,NULL,NULL,"c/o Shri. A. R. Kulkarni.      Phase II, Bhagyalaxmi Residency, manikbag, Pune -41",6/13/1972,anc@maths.coep.org.in,20-25507032,7/25/2014,133
+COEP,410817016,Vidya Madhav Karve,9423577120,Applied Science,Female,NULL,NULL,NULL,"1056, B-5, Pushkar Soc., Gokhale Rd., Near Om Super Market, Pune 411 016 ",11/6/1954,vmk.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,410817022,Prashant  Sudhir  Alegaonkar,9766483726,Applied Science,Male,NULL,NULL,NULL,"8, Madhurima, Plot 54, Varadayeni Co Op Hsg. Soc., Pashan Sus Rd., Pune 411 021 ",5/10/1976,aps.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,410819003,Neelima Ajaykumar Patil,9730127289,Physics,Female,NULL,NULL,NULL,Flat No. 5  Shwetayan Samarpan  Vidya Nagar  Lane # 3  Pimpale Gurav  Pune-411 027 ,4/22/1981,pna.physics@coep.ac.in,2025507032,7/25/2014,133
+COEP,410825001,Charusheela Mukund Deshpande,9881716936,Mathematics ,Female,NULL,NULL,NULL,Flat no 10  Plot no 425/30 Avantika Apartments  TMV colony Gultekdi Pune37.,7/3/1964,hod.maths@coep.ac.in dcm@maths.coep.org.in,2025507211,7/25/2014,133
+COEP,410825006,Asawari Mukund Abhyankar,9850296822,Mathematics ,Female,NULL,NULL,NULL,1374  sadashiv peth  38-Amit Apartments  Near Chimanya Ganapati  Pune-411030. ,8/17/1980,aam.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,410901022,Ishwar Pundalik Sonar,9890272905,Civil Engineering ,Male,NULL,NULL,NULL,Flat No. A-1  PARK VIEW Plot No.27 Spine Road PCNTDA Near Lokseva Petrol Pump  Purnanagar Chinchwad  Pune 411019,3/17/1968,ips@civil.coep.org.in,20-25507041,7/25/2014,133
+COEP,410901023,Nitin Mahadeo Mohite,9552630232,Civil Engineering ,Male,NULL,NULL,NULL,Laxmi Datta Mahatma Gandhi Nagar  Naikwadi Plot  Barshi  Dist Solapur  413411,5/26/1976,nmm@civil.coep.org.in,20-25507041,7/25/2014,133
+COEP,410901024,Yashaswini Tarkesh Lomte-Patil,9225838872,Civil Engineering ,Female,NULL,NULL,NULL,C/o Dr. Shubhashrao Lomte  Aaisaheb Niwas  Yashwantrao Chavan Chowk  Morewadi  Ambajogai  Dist. Beed.,7/31/1978,ytl.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,410901025,GAYATRI SACHIN VYAS,9423864848,Civil Engineering ,Female,NULL,NULL,NULL,44  Raviwar Peth Karad Dist : Satara 415110,6/1/1978,gsv.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,410901026,ARATI SIDDHARTH PETKAR,9822598123,Town and Country Planning,Female,NULL,NULL,NULL,Flat No.108  'A' Bldg.  S.No.124/15  Shilpa Society Paud Road  Pune 411038,11/2/1979,asp.civil@coep.ac.in,9999,7/25/2014,133
+COEP,410901028,Kamalesh Shri Ramswaroop Tripathi Tripathi,9763631756,Civil Engineering ,Male,NULL,NULL,NULL,C/O Shri R.S. Tripathi  Beside Mother's Pride School   Behind Jhankar Talkies  Satna (M. P.),12/15/1973,kkt@civil.coep.org.in,20-25507041,7/25/2014,133
+COEP,410902014,Abhijit Ashok Meenakshi,9422308125,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,6-A  Shubhangam  Tirupatinagar  Warje  Pune - 411058,3/13/1981,abhijit.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,410902015,JYOTI P ARORA,NULL,Computer Engineering and Information Technology,Female,ads@gmail.com,dsgdfg,sddrf,"B2-302, YELLOW BLOSSOMS, B.T. KAWADE RD. GHORPADI, PUNE",7/24/1983,jyoti@comp.coep.org.in,20-25507091,7/25/2014,133
+COEP,410902016,Shirish Purushottam Gosavi,9763311976,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,H-7  Kumar Priyadarshan  Near Balaji Temple  Sus Road  Pashan  Pune - 21,7/25/1969,spg@comp.coep.org.in,20-25507091,7/25/2014,133
+COEP,410902017,Sachin Satish Survase,9657197739,Computer Engineering and Information Technology,Male,none3@gmail.com,ind,pune,"C/O Anil Pawar, Flat No-3, Opposite P. N. Gadgil Jewellers, Chinchwadgaon, Pune-411033",9/18/1984,sachinss.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,410902018,Piyush Shamkant Chandwadkar,NULL,Computer Engineering and Information Technology,Male,none5@gmail.com,ind,nashik,"Flat 4B, Pramegh Apt, Kalpataru Nagar, Ashoka Marga, Dwarka, Nasik.",5/5/1985,piyushc.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,410902019,Amit Dadarao Joshi,9423434138,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"41, Parwana Nagar, Bank Colony, Purna Road Nanded-431605",12/23/1982,adj.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,410902024,Shridhar P Dixit,NULL,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"C-DAC, Pune",5/15/1950,spd.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,410903015,Sadhana Vijay Jadhav,9422544892,Electrical Engineering ,Female,NULL,NULL,NULL,A-3 Swarangali  Kothrud  Pune,4/22/1969,svj.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410903016,Vijay Narhar Pande,9422915473,Electrical Engineering ,Male,NULL,NULL,NULL,11  shramasaflya colony  V.M.V. Road  Amaravati,7/30/1968,vnp.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410903017,UJJWALA MADHAV MATE,9011075901,Electrical Engineering ,Female,NULL,NULL,NULL,"1166,Budhawar Peth,Shanipar-Mandai Marg, Apposite Jilabya Maruti, Mate Wada, Pune 02.",5/9/1965,umm@elec.coep.ac.in,20-25507111,7/25/2014,133
+COEP,410903018,Vitthal Shrirang Bandal,9421017462,Electrical Engineering ,Male,NULL,NULL,NULL,"At. Bamanoli (Kudal)  Tal:- Jawali Dist:- Satara, Pin-415514",6/1/1966,vsb@elec.coep.org.in,20-25507111,7/25/2014,133
+COEP,410903019,Sanjay Shamrao Dambhare,NULL,Electrical Engineering ,Male,NULL,NULL,NULL,"At. Post- Malegaon, Tal-Saoner, Dist- Nagpur, M.S. 441107",7/11/1968,ssd.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,410904019,YOGITA MUKUND VAIDYA,9689926984,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,b4/302  colonnade  viman nagar  pune,3/15/1974,ymv@extc.coep.org.in,20-25507141,7/25/2014,133
+COEP,410905011,Shrivijay Balwant Phadke,9422063608,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,Piyusha 47/13 B  Erandavane Pune 411 004 ,1/5/1949,sbp.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,410906022,Prakash Sonyabapu Shinde,9923309415,Mechanical Engineering ,Male,NULL,NULL,NULL,Flat No. 702  Parande Woods  Parande Nagar   Dhanori Pune,12/28/1975,pss.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410906024,Dileep Namdeorao Malkhede,9422918843,Mechanical Engineering ,Male,NULL,NULL,NULL,17  Sarvodaya Colony  Congress Nagar Road  Amravati-444606,8/27/1966,dnm.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410906025,Sanjeev Damodar Suryawanshi,9423080717,Applied Science,Female,NULL,NULL,NULL,"Plot No.17,""AMEY"",Anmol Nagar,Deopur Dhule,424002",6/1/1967,sds.mech@coep.ac.in,20-25507032,7/25/2014,633
+COEP,410906027,Sangeeta Sanjay Mundra,NULL,Mechanical Engineering ,Female,NULL,NULL,NULL,"# B 303, Shivam,  Pimple Saudaghar Aundh Annex Pune-27 ",6/10/1976,ssm.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,410907012,Vidyanand Shivajirao Galphade,9860512610,Metallurgy and Material Science ,Male,NULL,NULL,NULL,C/o S M Galphade  Kanadi Road  Near Bridge  Kaji  Taluka Kaij  dist Beed 431123,2/4/1977,vsg.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,410907013,Abhishek Mukund More,9822117008,Metallurgy and Material Science ,Male,NULL,NULL,NULL,"4, Gaurav So. PDCC Bank Building, Old Sangavi, Pune 411027",10/12/1984,amm.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,410907014,Hemant Narayan Dharwadkar,9881162299,Metallurgy and Material Science ,Male,NULL,NULL,NULL,"Flat No. 4, sri Isha Residency, Gananjay society, Unit 4, Kothrud, Pune - 038",2/22/1939,hnd@coep.org.in,20-255077261,7/25/2014,133
+COEP,410907015,Rohit Subhash Ranade,9822000242,Metallurgy and Material Science ,Male,NULL,NULL,NULL,"Flat No. 14,  Building No. 3/B-2, Nirmal Park, Dhankawadi, Pune - 43 ",7/3/1979,rsr@meta.coep.org.in,20-255077261,7/25/2014,133
+COEP,410908009,Maheshwar Dinkar Jaybhaye,9822639314,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,D-1  402  Shivsagar City Phase-1  Anandnagar  Sinhgad Road  Pune-411051,1/1/1978,mdj.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,410908010,Sandip Sharad Anasane,9730030899,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,Vidyut Nagar  V.M.V. Road Post-V.M.V. Amravati-444604,12/1/1974,ssa.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,410917010,Manish Chhabanrao Agalave,9922939249,Applied Science,Male,NULL,NULL,NULL,"Smrutigandha, plot no 11,sr. no.34/1, vidyanagar, pune 411032.",1/9/1981,mca@maths.coep.org.in,20-25507032,7/25/2014,133
+COEP,410917017,Kshipra Vishal Moghe,9822746461,Applied Science,Female,NULL,NULL,NULL,208 Sunrise Apt.  Jatar Gali  Laxmigang  lashkar  Gwalior  01  MP,5/13/1982,kam.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,410917023,TANUJA JAYANT KHER,9822615826,Applied Science,Female,NULL,NULL,NULL,B101 Sudarshan ApptS. 6/5 Karvenagar  Pune 411052,5/29/1963,tjk@appsci.coep.org.in,20-25507032,7/25/2014,133
+COEP,410917026,Mahesh Ravindra Shindikar,NULL,Applied Science,Male,NULL,NULL,NULL,"Flat No. 09, Vikram Apartments, Survey No. 31, Hingane Khurd, Vitthalwadi, Sinhagad Road, Pune - 411051.",12/17/1976,smh.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,410919004,Jagdish Wamanrao Dadge,9763192104,Physics,Male,NULL,NULL,NULL,at post Ghatboral TQ.  Humnabad  Dist. Bidar  Karnataka,8/1/1977,jwd.physics@coep.ac.in,2025507032,7/25/2014,133
+COEP,410919005,Yatin Janardan Pitkar,8007890758,Physics,Male,NULL,NULL,NULL,A4-102 GANGA PAVILLION B. T. KAWADE ROAD GHORPADI PUNE 411036,9/18/1980,yjp.physics@coep.ac.in,2025507032,7/25/2014,133
+COEP,410919006,SHWETA NANDU CHAURE,9420218291,Physics,Female,NULL,NULL,NULL,A-403  Regulus Apartment  Balewadi Pune,7/25/1976,csn.physics@coep.ac.in,2025507032,7/25/2014,133
+COEP,410925007,Nilesh Dagadu Mundlik,9922431643,Mathematics ,Male,NULL,NULL,NULL,"At Lakadi, post Nirgude, Tal Indapur, Dist Pune-413105.",12/5/1982,ndm@maths.coep.org.in,2025507211,7/25/2014,133
+COEP,410925008,Neeta Vikas Shinde,9960823343,Mathematics ,Female,NULL,NULL,NULL,S.No.116/12 Balaji Park Behind Balaji Temple  Flat No 4  Pashan-Sus Rd Pune 411021,7/16/1978,nvs.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,410925009,Umesh Ramesh Swami,9970999430,Mathematics ,Male,NULL,NULL,NULL,"P-60 Baswa-Ratnai Niwas, Basweshwar nagar, Shelgi Noth Solapur, Solapur 413006",4/23/1984,urs@maths.coep.org.in,2025507211,7/25/2014,133
+COEP,411001029,ASHISH RAMDASPANT AKHARE,9403053751,Civil Engineering ,Male,NULL,NULL,NULL,"Shri. R. D. Akhare Vinayak Nagar, Shivaji Nagar Post Office, Amravati 444603",6/28/1983,ara.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411001030,Sanjaykumar Ghanashyam Sonar,9224699744,Civil Engineering ,Male,NULL,NULL,NULL,"Torana, S. No. 132/2, Near Akurdi Gurudwara, Walhekar Wadi Road, Chinchwad, Pune- 411033",5/1/1977,sgs.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411002025,JAGANNATH VITHALRAO AGHAV,9423438089,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,Dept of Comp IT COEP,4/4/1966,jva.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411002026,SOMA NILOY GHOSH,9822401192,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,FNo 1 VithalNiwas BalajiNagar Dhankawdi Pune,6/18/1979,gsn.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411002038,SURAJ TANAJI SAWANT,9850850781,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"ASHTAVINAYAK APPT., GORAKHPUR, PIRWADI, POST-SANGAMNAGAR, SATARA-415003",5/2/1985,sts.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411002040,TANUJA RAJESH PATTANSHETTI,NULL,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,"6,ATHARVA WANLESSWADI,SANGLI",2/11/1977,trp.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411002041,Jibi P Abraham,9561970885,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,203/7  Sowmya Apartments  2nd Main  6th Cross  Sanjay Nagar  Bangalore - 94,5/1/1972,ja.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411002042,Vaibhav Kashinath Khatavkar,9730951876,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"1377, kasba peth , pavale chowk , Pune - 411011",4/8/1986,vkk.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411003022,Srinivas Subbarao Baka,9579644996,Electrical Engineering ,Male,NULL,NULL,NULL,s/o Baka Subbarao  A.B.Palem  pedhanandhipadu(m.d)  Guntur(d.t) andhra pradesh,6/24/1982,sb.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,411003023,Suhas Moreshwar Kakade,9975723707,Electrical Engineering ,Male,NULL,NULL,NULL,"Plot no. 73,  Vaibhav nagar,  behind old Dighori octroi naka,  Umrer road,  Nagpur - 440034",5/31/1985,smk.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,411004020,Deeplaxmi Vithalrao Niture,9604334939,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,C-601  Ganesh Residency  Sindhu Park  Rahatani Road  Pimpale Saudagar  Pune-27,5/25/1982,dvn.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411004021,Ashwini Shrikant Gajarushi,NULL,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,"H. No.110, L. No.2, Oppo. Dnyaneshwar Temple, Subhash Nagar, Old Dhule, Dhule 424001",10/9/1983,asg.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411004022,MAHESH PINGLE PINGLE,9922999665,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"S/o J. H. Pingle , Abhang, Prabhat Colony, Narayan nagar , Barshi road, Beed-431122",9/14/1982,pmj.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411004023,PANKAJ PRAKASH TASGAONKAR,NULL,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"14,MILIND SOCIETY,JARANDESHWAR NAKA,SATARA-415001",8/23/1983,ppt.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411005013,Kalyani Anil Bhole,9975938757,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,NAVJEEVAN MEDICAL  CHALIS BIGHA  MALKAPUR  DIST BULDHANA PIN 443101.,6/15/1985,kab.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,411005014,Govind pushpak POLE,NULL,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,uhjgjh,8/26/1999,nbvc@yahoo.com,20-25507171,7/25/2014,133
+COEP,411005015,Amit Manohar Manthanwar,NULL,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,3 Sterling Apartment Warje Malwadi Pune 411052,6/26/1978,amm.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,411005026,Amruta Sachin Deshpande,9767593662,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,C/O Sachin C Deshpande  B-503  Amrut kalash Nagari  Ambegaon Br  Katraj-411046,8/16/1984,asd.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,411006044,Chandrakant Tukaram Kunjir,9011000606,Mechanical Engineering ,Male,NULL,NULL,NULL,A P. Waghapur Tal.purandar Dist. pune,6/1/1961,ctk.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,411008011,SUSHIL KUMAR BASU,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"9, Buena Monte, NCL housing Society, Pashan, Pune-08",1/1/1931,skb.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411008012,JAYANT SHANKAR KARAJAGIKAR,9421019599,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"10/110, Netaji Nagar, Wanwadi, Pune 40.",6/14/1982,jsk.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411008013,SANDEEP SHAMRAO NAME,9960198087,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"Varsha nagar Plot No. 57, B Ward, Kolhapur. 416012",6/16/1983,ssn.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411008014,Kamalakar Ganpat Patil,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"10, Satpuda Co-oprative, Housing Society, Sangvi, Pune -411027",6/22/1940,kgp.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411017027,Kavita Shirish Suranje,9730030892,Applied Science,Female,NULL,NULL,NULL,H.No.21 Collector Staff Colony  Camp Amravati-444602,8/2/1975,knj.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,411019007,Sunil Ramdas Patil,NULL,Physics,Male,NULL,NULL,NULL,A/P: Talwade  Tal: Amalner  Dist: Jalgaon  MS,6/1/1980,patilsr.physics@coep.ac.in,2025507032,7/25/2014,133
+COEP,411019008,ALKA VINAYAKRAO DESHMUKH,9890718650,Physics,Female,NULL,NULL,NULL,A/6  GANGA HEIGHTS   KHADKI   PUNE 411003,6/26/1981,deshmukhav.physics@coep.ac.in,2025507032,7/25/2014,133
+COEP,411019009,Vivek Chandrakant Mandake,9766171991,Physics,Male,NULL,NULL,NULL,A.P.mandaki Tal-purandar.Dist-pune,9/26/1986,mandakevc.physics@coep.ac.in,2025507032,7/25/2014,133
+COEP,411019010,Rohini Sandeep Chhatrala,9970504403,Physics,Female,NULL,NULL,NULL,697 1  Ramsharan Building  Landewadi  Bhosari  Pune-39,10/10/1980,cr.physics@coep.ac.in,2025507032,7/25/2014,133
+COEP,411025010,Yogita Vilas Sukale,9604863342,Mathematics ,Female,NULL,NULL,NULL,Behind Bharti vidyapeeth  Gulmohar residency   flat no:13  wing-B. Ambegaon BK.Pune-411046,5/25/1986,yvs.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,411025015,Ganesh Shivajiro Kadu,9011477672,Mathematics ,Male,NULL,NULL,NULL,C/O: Dinesh Shivaji Kadu  A/P: Rui  Tal: Rahata  Dist: Ahmednagar  Maharashtra  423109,12/14/1981,gsk.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,411101032,Kirti Vasudeo Jawale,9209309549,Civil Engineering ,Female,NULL,NULL,NULL,"24 ""Annapurna""  Prabhat colony M.J. college road  Jalgaon 425002",7/17/1985,kitujawale19@gmail.com,20-25507041,7/25/2014,133
+COEP,411102044,PRADEEP KASHINATH WAYCHAL,9820431482,Computer Engineering and Information Technology,Male,none6@gmail.com,ind,thane,"B-1902 JASMIN TOWERS,VASANT VIHAR THANE WEST",1/19/1961,pw.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411102046,Trishna Vineet Ugale,9922959183,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,"23 Ishkrupa, z.p.colony, Indira nagar nahsik 422009",9/17/1986,tjj.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411102050,Sachin Nilkanthrao Deshmukh,9423150782,Computer Engineering and Information Technology,Male,none4@gmail.com,ind,aurangabad,"Flat N3, Plot No 97, Geet Vihar, N1 A, CIDCO, Auranganad-431004 ",6/18/1971,snd.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411103024,SNEHAL VIJAY UNDE,9096957937,Electrical Engineering ,Female,NULL,NULL,NULL,C4-101 Swapnanagari Udyam Nagar Pimpri Pune-411018,8/3/1982,svu.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,411104025,VANITA RATUL AGARWAL,NULL,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,"D/O Dr. S.K. Agarwal, Prof.,Dept of Chemical Engg., NIT Rourkela, Orissa-769008",9/8/1982,vsa.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411104026,Jay Ravindra Bhatnagar,7875115195,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"501 sicily apts.sector 16 A, Nerul Navi mumbai 400706",2/25/1974,jrb.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411104027,Vaishali Vijay Ingale,8149477127,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,Ranchod nagar behind padmavati karyalai jalgaon ,1/17/1968,vvi.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411106045,Yogita Rohidas Kolte,7709663847,Mechanical Engineering ,Female,NULL,NULL,NULL,Uruli kanchan tupe wasti tal.haveli dist.pune 412202,3/19/1990,yrk.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,411106046,Hanmant Panditrao Shinde,9867576585,Mechanical Engineering ,Male,NULL,NULL,NULL,at post sawargaon via tilak nagar tal and dist.latur,7/3/1979,hps.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,411107017,SANTOSH SATAPPA HOSMANI,9762316594,Metallurgy and Material Science ,Male,NULL,NULL,NULL,"SHANTISAGAR HOUSING SOCIETY, PLOT NO. 76, MIRAJ-416410 ",5/22/1980,ssh.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,411108015,P P Chikate,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,A,8/22/1941,ppc.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411108058,HEMANT MOTIRAM CHAUDHARY,9822290067,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"PLOT NO-23/B, INDIRANAGAR, CHINCHWAD, PUNE-411033",9/4/1983,hmc.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411117028,vijay Motiram Khadse,9860003719,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,flat no.c208 ganga osian park s.no.25/1+2 rajas soc. katraj pune 46,6/25/1979,vmk.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411117029,Kaustubh Kaka Kulkarni,942346942,Applied Science,Male,NULL,NULL,NULL,9211-420,9/12/1965,kkk.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,411117030,UDAY GANESH PUTHLI,9922617140,Applied Science,Male,abc@gmail.cok,sdsdf,dfdsfk,A4 Sateesh Apartments  Prabhat Road Lae15  Pune 411004,1/14/1947,udayputhli@gmail.com,20-25507032,7/25/2014,133
+COEP,411117031,ANOOPKUMAR MAHESH SAXENA,9921896826,Applied Science,Male,NULL,NULL,NULL,"B-28, Laxmi Bungalows, Nr Dharnidhar Bungalows,  Parshwanath Township,  Navanaroda,  Ahmedabad-382346 ",6/15/1978,anoop.bits@gmail.com,20-25507032,7/25/2014,133
+COEP,411117032,MAHENDRA KAMALAKAR RANJEKAR,9422015217,Applied Science,Male,NULL,NULL,NULL,"26 Snehnagar,Near Shastri School, Old Ausa Road, Latur.",2/7/1960,mkr.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,411119012,CHARUDATT YASHWANT KADOLKAR,9970112132,Physics,Male,NULL,NULL,NULL,E13  IITG QRTRS  IITG  GUWAHATI  781039,7/24/1965,CHARU.PHYSICS@COEP.AC.IN,2025507032,7/25/2014,133
+COEP,411125017,Bhagyashri Parag Athawale,9860326560,Mathematics ,Female,NULL,NULL,NULL,D-8 Vatsalyanagari kothrud pune 38,7/9/1971,bpa.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,411201079,Shweta Yogendra Kurhade,8237441947,Civil Engineering ,Female,NULL,NULL,NULL,808 laxmi narayan alandi dewachi tal khed dist pune ,7/6/1989,kurhadeshweta@yahoo.in,20-25507041,7/25/2014,133
+COEP,411201080,Neha Ramprakash Verma,9930268914,Civil Engineering ,Female,NULL,NULL,NULL,O 203 laburnum park magarpatta city hadapsar pune 411003,1/27/1981,neha.ver27@gmail.com,20-25507041,7/25/2014,133
+COEP,411201081,sonal yashwant Khobragade,7588290347,Civil Engineering ,Female,NULL,NULL,NULL,Building no 4 Flat no.14 Damodar society bibvewadi pune 37,6/30/1987,sk.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411201082,Parag Govardhan Narkhede,9822343048,Civil Engineering ,Male,NULL,NULL,NULL,A8 303 Karishma society kothrud pune 38,4/19/1975,pgn.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411201083,Trimbak Mukund Parchure,9552207392,Civil Engineering ,Male,NULL,NULL,NULL,529 shaniwar peth mehunpura pune 30,1/14/1943,tmp.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411202051,Sunil Sitaram Shelke,9022617917,Computer Engineering and Information Technology,Male,none7@gmail.com,ind,pune,"Chandanview R N 5,Vidyanagar, Pune",1/19/1982,sunilss.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411202054,Charulata Jeevan Patil,9881232796,Computer Engineering and Information Technology,Female,none8@gmail.com,ind,pune,B 17 Kalpanamati society body gate aundh 411007,7/15/1982,cjp.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411203041,Vinaya Ashwin Ambekar,9881719328,Electrical Engineering ,Female,NULL,NULL,NULL,A 106 prime heights pashan sus road pune 21,4/8/1981,vaa.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,411301084,Sudhir Dyandeo Jagtap,9923347682,Civil Engineering ,Male,NULL,NULL,NULL,"Gandhkuti, Tapkir Nagar, Near Anand Jagdale Hosp. Kalewadi, Pimpri, 411017",3/25/1976,sudhirdjagtap@rediffmail.com,20-25507041,7/25/2014,133
+COEP,411301085,Poulomee  Ghosh,7304596600,Civil Engineering ,Female,NULL,NULL,NULL,"Flat 101, F Wing, Suyog Leher, 16/2 Jondhwa Budruk, Pune 411 048",1/16/1988,pg.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411302055,Deepali Pundlik Gawali,9022964661,Computer Engineering and Information Technology,Female,none9@gmail.com,ind,nanded,plot no 3 swagat nagar taroda kh nanded,3/17/1988,deepali.gawali88@gmail.com,20-25507091,7/25/2014,133
+COEP,411302056,Vibhavari Vilas Kamble,7588020767,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,Suvibha plot no 20 samta nagar near mechanical compund pandharpur dist solapur,3/26/1987,vvk.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411302057,Payal Digambarrao Thakare,8275057115,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,co sunil a lahane b 2 302 radhai nagari pimpale saudagar pune,1/5/1985,payalt46@gmail.com,20-25507091,7/25/2014,133
+COEP,411302058,Nathaniel Grifton Martin,9657068959,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"COEP, Pune 411 005",6/3/1955,ngm1955@gmail..cvom,20-25507091,7/25/2014,133
+COEP,411303042,Pratapkumar  Koppolu,7709739834,Electrical Engineering ,Male,NULL,NULL,NULL,"Plot No. 13, Sai Park, Daund, 413801",7/15/1988,pkk.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,411304045,Rashmika Kiran Patole,8007862347,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,trupti hospital opp adarsh classes shri hari kute marg tidke colony nashik,1/29/1989,rashmikapatole@gmail.com,20-25507141,7/25/2014,133
+COEP,411304046,Arunkumar Balwant Patki,9385106158,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"B-1 Kalpanamati Hsg.  Soc. Aundh, Pune 411007",3/2/1950,abpatki.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411304047,Swapnil Gajanan Mali,9422128579,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"Near Floamill, Keshav Colony, Chintamani N416416agar, Sangli,  Pune ",9/19/1987,sgm.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411306052,Prasad Vinayak Patil,8928462845,Mechanical Engineering ,Male,NULL,NULL,NULL,"Mohankrupa Bldg., N. T. wadi, Shivajinagar, Pune 5",8/14/1989,prasadpatil2010@rediffmail.com,20-25507221,7/25/2014,133
+COEP,411306053,Niyaj Dilavar Shikalgar,9823286386,Mechanical Engineering ,Male,NULL,NULL,NULL,"135 Mohannagar, Chinchwad, Pune 411019",4/10/1979,nds.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,411306055,Jagdeep B Doshi,9324409122,Mechanical Engineering ,Male,NULL,NULL,NULL,"703 Casuarina bldg., Merrigold Hsg, Soc.,Kalyani Nagar, Pune 411014",7/22/1948,jbd.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,411307048,Nazia Abbas Patel,9860649534,Metallurgy and Material Science ,Female,NULL,NULL,NULL,"Sinhagad Road, Parvati Water Works Colony, Bunglow 2A, Pune 411 030",5/17/1988,nazia.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,411307049,Kaustubh Ramesh Kambale,9757059643,Metallurgy and Material Science ,Male,NULL,NULL,NULL,"  Flat 7, Rajeshwar Apt., Dangat Patil Nagar, Vadgaon Bk, Sinhagad Road, Pune 411041",3/24/1988,kaurkambale@gmail.com,20-255077261,7/25/2014,133
+COEP,411307050,Uma  Sridevi Nadiminti,7629642072,Metallurgy and Material Science ,Female,NULL,NULL,NULL,"Tulip  604, Blossom and Spring Hsg. Soc. Baner Pashan Link Road, Pashan, Pune 411 045",5/29/1982,sridevi.nadiminti@gmail.com,20-255077261,7/25/2014,133
+COEP,411308063,HARIJAN  BAGCHI,9960429960,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"16/08 SHINDE NAGAR, BAVDHAN, PUNE - 411021",1/10/1946,hbagchi.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411308064,MANEETKUMAR RANGNATH DHANVIJAY,9881150055,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,B7-103  TIRUPATI CAMPUS  PHASE 2  ROAD NO. 2  TINGRENAGAR  PUNE - 411015,4/3/1974,mrd.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411308066,Mohemmed S Shaikh ,9860625758,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"Flat A/6, Sareen Miracle, S No. 12/2A, Near Kausar Bagh Hsg. Soc., Kondhawa, Pune 411048",12/7/1982,mns.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411317066,Aparna Sunil Khandekar,9822840978,Applied Science,Female,NULL,NULL,NULL,"6 Friends Nook, Baner Road, Aundh, Pune 411007",7/23/1970,ask.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,411317067,Atul Bansilal Patil ,9657703660,Applied Science,Male,NULL,NULL,NULL,"Care U N Kulkarni, 373Satpuda Hsg Soc, Old Sanghavi, Pune 411 027",5/3/1984,abp.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,411317068,Bhushan Bhagwantrao Popalkar,9975726667,Applied Science,Male,NULL,NULL,NULL,"A/P Tuljapur, Waghala,  PO Kopra, Dist. Wardha 442001",9/8/1986,bpopatkar@gmail.com,20-25507032,7/25/2014,133
+COEP,411325047,Amey Shripad Deshpande,9028772439,Mathematics ,Male,NULL,NULL,NULL,B 49 rahul park wanaj paud road kothrud pune,6/24/1986,asd.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,411325048,Jyoti Balkrushna Saraf,8380866046,Mathematics ,Female,NULL,NULL,NULL,E 603 sector no 11 spine road rich woods chikhali pradikarn pcntda pune,5/3/1988,sarafjb@gmail.com,2025507211,7/25/2014,133
+COEP,411325049,Amol Vasantrao Sonawane,9420000166,Mathematics ,Male,NULL,NULL,NULL,C/O: Shekhar Kuber  14  Eagle CHS  Karve Road  Near Shivaji Statue  Kothrud  Pune-38.,1/31/1988,sav.maths@coep.ac.in,2025507211,7/25/2014,633
+COEP,411401088,AKANKSHA VIJAY AGRAWAL,7389476744,Civil Engineering ,Female,NULL,NULL,NULL,"9, SHREE DHANU COMPLEX, ULHAS NAGAR, MANEWADA ROAD. NAGPUR. 440027",3/31/1987,ava.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411401089,ALKA YOGESH PISAL,9619587723,Civil Engineering ,Female,NULL,NULL,NULL,"SIDDHAI KARANJE TARF, PLOT NO. 9, SURRVEY NO. 364/124/2A, SARVODYA NAGAR, SATARA, MAHARASHTRA 415002",9/17/1980,ayp.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411404049,Madhusudan V Atre,9945612121,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"208 Vars Fantasy Apt., 33 Kodihalli 1st Main, HAL 2nd Stage, Bangalore 560008",6/29/2014,madhusudanvatre@gmail.com,20-25507141,7/25/2014,133
+COEP,411404052,PRAKASH RAMCHANDRA APTE,9820426774,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,E-10 SAI VIHAR RESIDENCY SUS- SUTARWADI LINK ROAD PASHAN PUNE -411021,3/23/1947,prapte.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411425049,Kapil Dattaray Joshi,NULL,Mathematics ,Male,NULL,NULL,NULL,"Mrigasheerasha,13 Kshipra Sahanivas, Karvenagar, Pune-411052  ",7/23/1947,kdj.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,411428027,KIRTI PRAKASH JANWE,9860212922,Town and Country Planning,Female,NULL,NULL,NULL,"104, SAI RANG APPARTMENT, KASHID MARG,BEHIND KALPATARU ESTATE, PIMPLE GURAV,PUNE 411061",7/25/1985,kirtijanwe@gmail.com,9999,7/25/2014,133
+COEP,411428028,AMRUTA RAMESH DESHPANDE,7741967221,Town and Country Planning,Female,NULL,NULL,NULL,"flat no. 9, p-383, new scientist's hostel pashan pune 411021",1/6/1987,ard.civil@coep.ac.in,9999,7/25/2014,133
+COEP,4176002002,Arun Anant Sawant,9423582029,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,abc,7/17/1952,aas.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,4176004003,Chaya Vijay Joshi,NULL,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,"41, sankalp sahaniwas, shivajinagar, pune-5",12/31/1951,cvj@extc.coep.org.in,20-25507141,7/25/2014,133
+COEP,4178004012,Prakash Wamanrao Wani,NULL,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"485 narayan peth, pune",5/30/1953,pww@extc.coep.org.in,20-25507141,7/25/2014,133
+COEP,417917024,JAYANT AMBADAS KHER,9881715836,Applied Science,Male,NULL,NULL,NULL,B-101Sudarshan Appartments 6/5 Karvenagar Pune-411052,10/13/1955,jak.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,4186001011,Suhasini Nandakishor Madhekar,9822325683,Civil Engineering ,Female,NULL,NULL,NULL,55 Prashant Society Anmol  Paud Road  Pune 411 038,10/4/1962,snm@civil.coep.org.in,20-25507041,7/25/2014,133
+COEP,4186008008,Bharatkumar Bhagatraj Ahuja,9423582028,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,R 5/7  Parmar Trade Center   Sadhu Vaswani Chowk  Pune-411001,4/21/1962,bba.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,418712009,Raghunath Shivajirao Jadhav,9890032640,Library ,Male,NULL,NULL,NULL,"Flat 14, Chowrang Residancy, Saswsad Road, Satavwadi, Hadapsar, Pune 28",3/9/1958,librarian.library@coep.ac.in,20-25507191,7/25/2014,133
+COEP,4189001001,Mahadev  Sambhaji Randive,9850029066,Civil Engineering ,Male,NULL,NULL,NULL,"At.Tandore,Post Siddhapur, Tal - Magalwada , Dist- Solhapur",6/1/1962,msr@coep.org.in,20-25507041,7/25/2014,133
+COEP,4189001002,Sukhanand Sopan Bhosale,9423520655,Civil Engineering ,Male,NULL,NULL,NULL,Creative Wood  Flat No. 15  Opposite New Millennium School  New Sangavi  Pune - 41127,5/10/1963,ssb.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4189001016,Mahadeo Shambhaji Ranadive,9850029066,Civil Engineering ,Male,NULL,NULL,NULL,"At.Tandore, Post-Sidhapur, Tal-Magalwedha, Dist- Solhapur",6/1/1962,msr@civil.coep.org.in,20-25507041,7/25/2014,133
+COEP,4189004004,Priti Paresh Rege,9860073552,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,B-702  '10 Kasturkunj' ICS colony Ganeshkhind Road Shivajinagar  Pune 411007,3/4/1962,ppr.extc@coep.org.in,20-25507141,7/25/2014,133
+COEP,4189004011,Mukul Sharad Sutaone,9923560608,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,a/9  tirth apts.  rambag colony  paud rd.  pune,8/18/1964,mss@extc.coep.org.in,20-25507141,7/25/2014,133
+COEP,4190004013,Ashok Madhusudan Sapkal,NULL,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"maitreya bag soc., paud rd., pune",6/15/1961,ams.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,4190007008,Neelam Rajkumar Anand,9823148175,Metallurgy and Material Science ,Female,NULL,NULL,NULL,A3/103 Oxford Village Wanowrie Pune 411040.,8/26/1960,nra.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,4191001017,Pratap Manohar Raval,9422506124,Civil Engineering ,Male,NULL,NULL,NULL,"105,Guruwar Peth Peth, Pune",6/1/1964,pmr@civil.coep.org.in,20-25507041,7/25/2014,133
+COEP,4191004010,Madhuri Arunkumar Joshi,9822013631,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,a/4  dwarka apts.  university rd.  pune 411016,12/11/1954,maj.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,4191007005,Manoj Jagannath Rathod,9423584820,Metallurgy and Material Science ,Male,NULL,NULL,NULL,C-401 Shrikrishnashray 73 AB56 Kasba Peth  Pune 411011,11/21/1963,mjr.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,4192001003,Bhalchandra Ganapatrao Birajdar,9422011178,Civil Engineering ,Male,NULL,NULL,NULL,"Ishwar Near Govt Reast Hosuse,Ausa-413520,Dist Latur",5/20/1966,bgd@civil.coep.org.in,20-25507041,7/25/2014,133
+COEP,4192001004,Nitin Balkrishana Chaphalkar,9420696953,Civil Engineering ,Male,NULL,NULL,NULL,206  Simla Housing Society Sahakarnagar No -2 Pune  411009,9/23/1966,nbc.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4192004001,Vandana Shridhar Inamdar,5425454,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,SasASAS,9/3/1967,vhj@comp.oep.org.in,20-25507091,7/25/2014,133
+COEP,4192004008,Shrinivas Padmakar Mahajan,9423005235,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,Capt P.M.Mahajan Golegaon udyog kendra   Selu - 431503,4/15/1971,spm.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,4193001013,Subhasish Manabendra Mukhopadhyay,9823393641,Civil Engineering ,Male,NULL,NULL,NULL,"109, Gulmohar Apartment,Tilaknagar,Nagpur",9/8/1963,smm.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4193004006,Prashant Purushottam Bartakke,9422526931,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,C-12  SRUSHTI  S.No. 82/11  12 & 32  33  Near Guruganeshnagar  KOTHRUD  PUNE - 411038.,11/30/1972,ppb.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,4193004009,Shripad Prabhakar Mohani,9423577731,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,D-101  Olive Apartment  Dattanagar  Pune-411046,2/26/1970,spmohani.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,4194005002,Sanjaykumar Limaji Patil,9422212948,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,43  Pasaydan  Vidyanagari  Dhule 424 005,11/9/1968,slp.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,4194006001,Chandrashekhar Manikrao Sevatkar,1234,Mechanical Engineering ,Male,NULL,NULL,NULL,"1/10 Vidharbha Hsg. Soc. Mainde Chowk, Yavatmal 445001",9/17/1970,cms.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,4195004007,Rajendrakumar Anantrao Patil,3,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,NULL,9/3/1964,rap.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,4195004014,Vidya Nitin More,9860624158,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,57/527  Gokhale Nagar  Pune16,6/1/1969,vnm.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,4195005001,Sudhir Dattatraya Agashe,9890229539,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,Flat No.7  Om Niketan-B Bibwewadi  Pune 411037,12/20/1965,sda.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,4195005004,Pramod Digambar Shendge,NULL,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,C-104  Rolling Hills-II  Baner Pashan Link Road  Baner  Pune-45,3/31/1968,pds.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,419506021,Vikrant  keshav Haribhakta,9422084462,Mechanical Engineering ,Male,NULL,NULL,NULL,A-11 Florentine coop Society  Sopan baug Ghorpadi Pune 1,8/16/1972,vkh@mech.coep.org.in,20-25507221,7/25/2014,133
+COEP,4196001006,Balkrishna Maruti Dawari,125469873,Civil Engineering ,Male,NULL,NULL,NULL,Flat No 10  Nirmal Park 'A'Hsg Soc.   Dhanakwadi Pune- 43,7/27/1970,bmdawari.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4196001008,Namdeo Adkuji Hedaoo,9850210297,Civil Engineering ,Male,NULL,NULL,NULL,"At.Post.Tal- Armori, Dist -Gadchiroli, Pin Code No 411208",11/20/1968,nah.civil@coep.org.in,20-25507041,7/25/2014,133
+COEP,4196001010,Shripad Dattatraya Kulkarni,9420483438,Civil Engineering ,Male,NULL,NULL,NULL,Flat No. 601  Bldg. B  Aryabhatta Housing Society  Walvekar Nagar  Pune-411009,10/12/1961,sdk.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4196001015,Snehal Rajeev Pathak,980669498,Civil Engineering ,Female,NULL,NULL,NULL,E-17  Apt 205  Brahma Memories  Bhosale Nagar  Pune 411007  ,7/3/1961,srp.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4196003001,Rajendra Ramkrushnarao Joshi,9850990470,Electrical Engineering ,Male,NULL,NULL,NULL,"18 East, Saraswati Colony, Aurangabad,431001.",3/17/1964,hod@civil.coep.org.in,20-25507111,7/25/2014,133
+COEP,4196006006,Arvind Atmaram Latey,9850884771,Mechanical Engineering ,Male,NULL,NULL,NULL,"A/P.Tellara, Tal.Tellara,Dist.Akola",8/17/1956,aal.mech@coep.ac.in,20-25507221,3/22/1996,133
+COEP,4196007007,Shashikant Tukaram Vagge,9820769960,Metallurgy and Material Science ,Male,NULL,NULL,NULL,S.no.44/4A/1A Vidyanagar  road n.3  Pimple Gurav  Pune 411 027.,6/1/1967,stv.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,419601027,Rajendra Ramkrishnarao Joshi,9422312079,Civil Engineering ,Male,NULL,NULL,NULL,Samarth Nagar  Aurangabad,3/17/1964,rrj.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,419606020,Raju Narayanrao Ladhawe,9420427639,Mechanical Engineering ,Male,NULL,NULL,NULL,"C/o.Jaganath Bhudhawari, Near jaganath temple,,Nagpur 440 002",5/23/1965,rnl.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,4197001018,Ravindra Pandurang Thanedar,9822021624,Civil Engineering ,Male,NULL,NULL,NULL,Flat No. 22  Bhakti Residency Keshavanagar Chinchawad Pune 411033,11/29/1962,rpt.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4198001012,Sandeep Anil Meshram,9325354317,Civil Engineering ,Male,NULL,NULL,NULL,Flat No 44 Sanraj  Venuone Housing Society  Narendra Nagar  Nagpur-15,10/15/1968,sam.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,4198002005,Santosh Nanarao Ghotkar,9922460095,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,R.H.No. 05  Venkateshwara Home  Behind Bharati Vidyapeeth  Ambegaon  Katraj  Pune-46,6/16/1970,sng.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,4198005005,Rohini Prashant Mudhalwadkar,9673844528,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,Flat. No.4  24/11   Ganesh darshan Hsg. society  Shivajinagar  Pune-411005 ,11/16/1969,rpm.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,4198005007,Dayaram Nimba Sonawane,9822888944,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,At.Post.Gondgaon. Tal. Bhadgaon Dist.Jalgaon  Pin-424103,7/1/1975,dns.instru@coep.ac.in,20-25507171,7/25/2014,133
+COEP,4198007001,Suvarna Uday Dangarikar,9822862141,Metallurgy and Material Science ,Female,NULL,NULL,NULL,402 Mangalmurti Bharatkunj Society  opp. New Karnatak High School  Erandwane  Pune - 38,7/21/1975,sud.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,4198007004,Sandeep Prabhakar Butee,9422019150,Metallurgy and Material Science ,Male,NULL,NULL,NULL,B2-401  Ganga Orchard  Pingle Vasti  Mundhwa Road  Pune-411036,9/27/1968,spb.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,4198007006,Narendra Babanrao Dhokey,9422057442,Metallurgy and Material Science ,Male,NULL,NULL,NULL,K.B.Dhokey   Plot no 48  Jaitala Rd. Pragatinagar  Nagpur-16,5/2/1969,nbd.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,419803005,Girish Ganpatrao Shirsikar,NULL,Electrical Engineering ,Male,NULL,NULL,NULL,"saguna nivas, sadashiv peth pune",7/20/1964,ggs@elec.coep.org.in,20-25507111,7/25/2014,133
+COEP,419803009,Anant Prataprao Deshpande,9850776283,Electrical Engineering ,Male,NULL,NULL,NULL,"Flat No11,A-3 Wing,Yeshopuram,link road Chinchwad,pune-33",2/10/1963,apd.elec@coep.ac.in,20-25507111,7/25/2014,133
+COEP,419807016,SUDHIR DATTA AGSHE1,9890229539,Metallurgy and Material Science ,Male,NULL,NULL,NULL,PUNE,12/20/1965,SDA.INSTRU@COEP.AC.IN,20-255077261,7/25/2014,133
+COEP,419817002,Manisha Yogesh Khaladkar,9822504230,Applied Science,Female,NULL,NULL,NULL,81-A Giridarshan Society  Aundh-Bner Road  Pune 411007,4/19/1969,myk@appsci.coep.org.in,20-25507032,7/25/2014,133
+COEP,4199002006,Vahida Babasaheb Multani,0,Computer Engineering and Information Technology,Female,d@comp.oep.org.in,ind,dfd,trrg,5/15/1968,vahida@comp.oep.org.in,20-25507091,7/25/2014,133
+COEP,4199006005,Govind Narayan Kulkarni,9421051963,Mechanical Engineering ,Male,NULL,NULL,NULL,At.Post.Pandharpur.Dist.Solpur,8/4/1966,gnk@mech.coep.org.in,20-25507221,7/25/2014,133
+COEP,4199006011,Navneet Prasad Dale,NULL,Mechanical Engineering ,Male,NULL,NULL,NULL,6  RAUNAQ APARTMENT  GULMOHAR PARK  I.T.I. ROAD  AUNDH  PUNE 411007,11/19/1970,npd.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,419902007,Vahida Zakirhusen Attar,NULL,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,ABCD,5/15/1968,vahida.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,419906012,Sujit Suresh Pardeshi,9850407263,Mechanical Engineering ,Male,NULL,NULL,NULL,Chaman Niwas  Nagar Manmad Road  At.Post.Sakuri  Tal.Rahata Dist. A.nagar.,5/18/1974,ssp.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,419906016,Santoshkumar Vasavtrao Wagh,9423582525,Mechanical Engineering ,Male,NULL,NULL,NULL,At/Post: Wadi-Adampur   Tal.Telara  Dist. Akola.,12/11/1967,svw.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,419906054,Nihal Dyanchand Dhote,9822876719,Mechanical Engineering ,Male,NULL,NULL,NULL,"A-403 Surabhi Township, Airport Road, Vishrantwadi, Pune 4110015",6/20/1970,ndd.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,420504018,Deepali Rajendra Sale,9822513184,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,"flat no.9,haffkine's residential qurters,pimpri,pune-18 ",4/7/1976,dvs@extc.coep.org.in,20-25507141,7/25/2014,134
+COEP,420902020,Harshita Vibhor Garg,NULL,Computer Engineering and Information Technology,Female,none9@gmail.com,ind,pune,"A-8, Flat no 6, Yash Sankul, Pimple Saudagar, Pune",12/28/1978,hvg.comp@coep.org.in,20-25507091,7/25/2014,134
+COEP,420902021,Aparna Rani Santra,9595662967,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,"House No. 583/22,  Street No. 10 A, Ashish Nagar East, Risali, Bhilai, C.G-490006",1/11/1982,aparna.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,420903020,Prof N Gopalakrishnan,NULL,Electrical Engineering ,Male,NULL,NULL,NULL,"Flat No.4 Shanti Kunj , Bhoir Colony,Chinchwad, Pune",1/20/1941,ngk@elec.coep.org.in,20-25507111,7/25/2014,134
+COEP,421002039,Neha B Gautam,NULL,Computer Engineering and Information Technology,Female,none41@gmail.com,ind,pune,"C/O Balkrishna Tripathi  1003,Lalbahadur shastri ward,  Kushwaha Nagar,Kuthla,Katni",7/13/1984,nbt.comp@coep.ac.in,20-25507091,7/25/2014,134
+COEP,421104043,VINAYAK BHARGAV BAPAT,9423004239,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"1196 GAWADE COLONY, OPP. CHINCHWAD TATA MOTORS, CHINCHWAD PUNE 33  ",10/11/1951,entc16@coep.ac.in,20-25507141,7/25/2014,134
+COEP,421303043,sachin arun pansare,9503605500,Electrical Engineering ,Male,NULL,NULL,NULL,"irrigation colony,rahata  tal - rahata, dist- ahmednagar,pin 423107  ",8/14/1988,sachin007.pansare@gmail.com,20-25507111,7/25/2014,134
+COEP,430817027,NAMRATA SHASHIKANT SARAF,9881464722,Applied Science,Female,NULL,NULL,NULL,104 Dnyandeep Apt. Swanand Soci-1 sahakar Nagar No-2 Pune 411009,9/25/1984,nss@appsci.coep.org.in,20-25507032,7/25/2014,135
+COEP,430925016,Nirupama Shrikrishna Bhave,NULL,Mathematics ,Female,NULL,NULL,NULL,"33/20, 4th Lane, Prabhat Road, Pune 411004",1/3/1948,nsb.maths@coep.ac.in,2025507211,7/25/2014,135
+COEP,431005012,Sujata Sudhir Agashe,9850429344,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,"Flat no. 7, Omniketan B,  Bibwewadi",11/12/1968,sujata.agashe@yahoo.com,20-25507171,7/25/2014,135
+COEP,431302060,Rajni Moona,999999999,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,COEP,9/1/2013,abc@coep.ac.in,20-25507091,7/25/2014,133
+COEP,440021006,PRASHANT GHANASHYAM SAIL,NULL,Exam cell ,Male,NULL,NULL,NULL,"Omkar Soc., Flat No.2, Vaiduwadi, Hadapsar, Pune - 411 013",3/1/1972,sailpg.office@coep.ac.in,020-25507017,7/25/2014,136
+COEP,440413002,Sharada Limba Gabhale,9689608376,Student Section ,Female,NULL,NULL,NULL,Shri hanse classic flat no 6 33/2 tingare nagar pune 32,6/4/1976,slg.office@coep.ac.in,20-25507062,7/25/2014,136
+COEP,440511012,Vijaya Anil Jadhav,9096576232,Establishment ,Female,NULL,NULL,NULL,GMC Angan Plot no.113 flat no.10 purna nagar chinchwad 411019,7/7/1971,vaj.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,440511031,Amrita Appasaheb Pacharne,9970718281,Establishment ,Female,NULL,NULL,NULL,A-30 Bansal city gangotri park old dighi bhosari road pune 39,8/23/1983,amrutapacharne@gmail.com,20-25507007,7/25/2014,136
+COEP,440609002,Bindu Mathew Mathew,9860839771,Administration ,Female,NULL,NULL,NULL,"Sukhwani Woods,c-11,Dapodi pune-411012",4/15/1976,diroff@coep.ac.in,20-25507281,7/25/2014,136
+COEP,440611010,Umesh Chaban Tupe,9822500673,Establishment ,Male,NULL,NULL,NULL,Sr.no.166 malwadi hadapsar pune 411028,9/15/1980,uct.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,440621001,Vidya Shivaji Bad,9988373954,Exam cell ,Female,NULL,NULL,NULL,Kalewadi Kokne Nagar Shri krishna Colony.pimpri pune 17,5/2/1983,vidhya.examcell@coep.ac.in,020-25507017,7/25/2014,136
+COEP,440621004,Jagruti Rajendra Kulkarni,9922937460,Exam cell ,Female,NULL,NULL,NULL,Dhruv darshan U-5 S.No. 26 Nigdi Pune 411044,3/28/1976,jagruti28kulkarni@yahoo.co.in,020-25507017,7/25/2014,136
+COEP,440721002,Dnyaneshwar Devendra Jadhav,9423858331,Exam cell ,Male,NULL,NULL,NULL,At/Po-Khanapur Tal-Wai   Dist-Satara Pin Code No - 412803,6/7/1986,mauli.examcell@coep.ac.in,020-25507017,7/25/2014,3687
+COEP,441001074,SUBHASH BANSILAL CHAVAN,9226142002,Civil Engineering ,Male,NULL,NULL,NULL,"D-13,STATE BANK NAGAR,NR.CHAITRABAN,BIBWEWADI,PUNE-37",9/5/1949,savitrey@gmail.com,20-25507041,7/25/2014,136
+COEP,441021005,Dilip Pandharinath Jagtap,9850096812,Exam cell ,Male,NULL,NULL,NULL,"D-517,Pawar Enclave,Pune-Solapur Road,Opp,Mega Centre,Hadapsar,Pune-411013",6/7/1959,jagtapdilip57@yahoo.com,020-25507017,7/25/2014,136
+COEP,441101048,Dhananjay Digamber Kulkarni,9881917670,Civil Engineering ,Male,NULL,NULL,NULL,16 shakar bank coloney kedgaon T&D Ahamednagar-410004,9/29/1975,kulkarnidhanu@gmail.com,20-25507041,7/25/2014,136
+COEP,441105029,Madhusudan Shantaram Fulpagar,9096521788,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"Shevantiraj,Plot 27, Sonanagar Savedi Ahamadnagar",7/15/1980,madhu_f@rediffmail.com,20-25507171,7/25/2014,136
+COEP,441109003,Snehal D Bhambere,9922685310,Administration ,Female,NULL,NULL,NULL,flat no 10/7 apte colony bhosari pune 39,9/22/1987,pro@coep.ac.in,20-25507281,7/25/2014,136
+COEP,441109006,Santosh Hirabai Khopade,7588593457,Administration ,Male,NULL,NULL,NULL,At post Mawdi K.P. Tal Purandar Dist pune,3/5/1983,santoshkhopade83@rediffmail.com,20-25507281,7/25/2014,136
+COEP,441111027,Poonam Hanumant Kumbhar,9767729836,Establishment ,Female,NULL,NULL,NULL,Servant Quarters coep pune 5,5/9/1987,poonamkumbhar33@gmail.com,20-25507007,7/25/2014,136
+COEP,441111038,Kashinath Siddaram Ghongade,9175517901,Establishment ,Male,NULL,NULL,NULL,college of engineering servant quarters shivaji nagar pune 5,10/13/1977,rj94031@gmail.com,20-25507007,7/25/2014,136
+COEP,441111047,Ankush Laxman Kamble,9623457782,Establishment ,Male,NULL,NULL,NULL,college of engineering servant quarters pune 5,6/10/1985,ankush1646@gmail.com,20-25507007,7/25/2014,136
+COEP,441111049,Vijay Ramchandra Potdar,9623457783,Establishment ,Male,NULL,NULL,NULL,college of engineering boad club servant quarters pune 5,12/15/1974,potdar4732@gmail.com,20-25507007,7/25/2014,136
+COEP,441111053,Sourabh Amar Phutane,8793356398,Establishment ,Male,NULL,NULL,NULL,6/U guruwar peth mitganj near police chouki pune 42,6/9/1986,sap.support@coep.ac.in,20-25507007,7/25/2014,136
+COEP,441111054,Dhyanchand Chandsingh Sankat,NULL,Establishment ,Male,NULL,NULL,NULL,B.U.Bhandari sky line hos.soc.plot no.67 flat no f 12 pune alandi road digi datta nagar pune 15,6/10/1951,dcs.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,441121051,SACHIN VINAYAK MANE,9011619239,Exam cell ,Male,NULL,NULL,NULL,NULL,6/15/1988,sachin1.mane@gmail.com,020-25507017,7/25/2014,136
+COEP,441209007,Kuldip Th.C.S.Pathania Pathania,9850670981,Administration ,Male,NULL,NULL,NULL,F-4/13 Army Welfare Cooperative hos.soc.ltd. salunke vihar kondhwa khurd pune 22,4/15/1950,gm@coep.ac.in,20-25507281,7/25/2014,136
+COEP,441313003,UMESH VISHNULAL JAISWAL,9890683506,Student Section ,Male,NULL,NULL,NULL,AT POST KAUSADI TQ JINTUR DIST PARBHANI,4/5/1975,umeshjaiswal@077gmail.com,20-25507062,7/25/2014,136
+COEP,441313004,abubakar mohamed shaikh,9850709080,Student Section ,Male,NULL,NULL,NULL,110/610 santh tukaram nagar pimpri pune 18,12/10/1965,abushaikh60@yahoo.com,20-25507062,7/25/2014,136
+COEP,441321055,SENAMAHARAJ PANDHARINATH THOMBRE,9975479938,Exam cell ,Male,NULL,NULL,NULL,"SHREELAXMI NIWAS APPT, FLAT 2, S. NO. 36/14/B2, VANARAI COLONY, DHANKAWADI, PUNE 411043",2/15/1981,senamaharaj.examcell@coep.ac.in,020-25507017,7/25/2014,136
+COEP,441404053,anand shivajirao gaikwad,8055225013,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,sai kamal vihar flat no 18 b wing datta nagar dighi pune 15,3/11/1976,anandgauri1976@gmail.com,20-25507141,7/25/2014,136
+COEP,441408067,priti sushant pawar,9049328959,Production Engineering and Industrial Management,Female,NULL,NULL,NULL,flat no 103 maruti hights right bhusari colony opposite pmt depot paud road kothrud pune 38,12/5/1981,pritipawar81@gmail.com,20-25507281,7/25/2014,136
+COEP,447809005,Dilip Pandhrinath Jagtap,9850096812,Administration ,Female,NULL,NULL,NULL,sr.no86/3b flat no.d517 pawar enclave pune solapur road opp.mega center hadapsar pune411013,6/7/1959,ao@coep.ac.in,20-25507281,7/25/2014,136
+COEP,447911002,Anagha Nandkishor Borase,9881988513,Establishment ,Female,NULL,NULL,NULL,B-2 606 Atul Nagar Near vinayak hospital Benglore mumbai highwar warje pune 51,8/9/1954,anb.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,4480009001,Girish Balasaheb Joshi,9423469940,Administration ,Male,NULL,NULL,NULL,"Trirumal , Sant Dnyaneshwar Nagar,DP Road,Behind Govt,I.T.I Beed,431122",9/4/1959,girish_joshis@yahoo.co.in,20-25507281,7/25/2014,136
+COEP,448208047,RAJAN LINGAPPA TELANGI,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,At.Po.KOPARE via NDA KHADAKVASALA Tal-HAVELI DIST-PUNE,6/1/1962,rlt@yahoo.com,20-25507281,7/25/2014,136
+COEP,448311009,Rajendra Pandurang Chavan,9860075128,Establishment ,Male,NULL,NULL,NULL,Sr.no.56/2/11 kawade nagar pimpale gurav near ganesh mangal kendra pune 411061,10/17/1965,rpc.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,448513001,Alka Shirish Gaware,9850026299,Student Section ,Female,NULL,NULL,NULL,"A-1/907, Atulnagar, Warje, Pune - 411 052",10/8/1959,gawareas@office.coep.org.in,20-25507062,7/25/2014,136
+COEP,448611023,Hanumant Raghunath Kumbhar,9623457781,Establishment ,Male,NULL,NULL,NULL,Servant Quarters coep pune 5,6/1/1961,hrk.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,449311001,Meena Sunil Shah,9158421991,Establishment ,Female,NULL,NULL,NULL,12/3/C1 vasant vihar soc.near sangam press kothrud pune 38,5/6/1969,mss.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,449311003,Rajendra Krishnaji Joshi,9552607784,Establishment ,Male,NULL,NULL,NULL,plot no.36th nitya nand co.op.housing soc.dhankawadi pune 411043,8/8/1961,rkj.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,449311011,Padmakar Rayappa Kamble,9503603820,Establishment ,Female,NULL,NULL,NULL,coep sarvant Qutars no.3 Hostel campus Shivajinagar Pune 5,6/1/1953,prk.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,449321003,Yogita Gopal Chavan,9921408795,Exam cell ,Female,NULL,NULL,NULL,"Amruta Vihar Society, Kirkatwadi,Pune-411024",10/6/1969,chavanyg.office@coep.ac.in,020-25507017,7/25/2014,136
+COEP,449409004,MEGHANA MAHENDRA JOSHI,9422530004,Administration ,Female,NULL,NULL,NULL,"373/C SHANIVAR PETH , NANDAN CO-OP. HOUSING SOCIETY, PUNE 30",7/12/1970,joshi.mmjoshi.meghana@gmail.com,20-25507281,7/25/2014,136
+COEP,449411005,Radhika Madhav Shendkar,9881159209,Establishment ,Female,NULL,NULL,NULL,131 somwar peth opp.trishundya ganpati temple pune 411011,10/25/1965,rms.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,449411006,Parshuram Santu Kodre,9657140592,Establishment ,Male,NULL,NULL,NULL,"Sr.No.54 Gandhi Chowk,Mundhwa Pune 36",10/19/1960,psk.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,449511004,Chandrakant Narayan Korhale,9552122864,Establishment ,Male,NULL,NULL,NULL,Sr.No 14/1/2 Thite wasti kharadi pune 14,5/25/1971,cnk.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,449511007,Balkrishna Keru Chavan,9689275966,Establishment ,Male,NULL,NULL,NULL,250 shukrawar peth pune 411002,9/2/1969,bkc.office@coep.ac.in,20-25507007,7/25/2014,136
+COEP,449908015,VISHWAS VITTHAL MANDE,9422521339,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,At.Po.Madhevadgaon         Tal-Shrigonda                 Dist-Ahmednagar,11/8/1965,vvm.prod@coep.ac.in,20-25507091,7/25/2014,136
+COEP,450111063,Ganesh Hanmant More,9822174577,Establishment ,Male,NULL,NULL,NULL,"Sakharam Kate Chawl, Dapodi, Pune 12",1/30/1982,society3@coep.ac.in,20-25507007,7/25/2014,137
+COEP,450711065,Rahul Mohan Bhosale,9822914852,Establishment ,Male,NULL,NULL,NULL,"84/162 Shashtrinagar, Paud Road, Kothrud, Pune 38",4/1/1978,rmb.store@coep.ac.in,20-25507007,7/25/2014,137
+COEP,450717059,Rahul Mohan Bhosale,9822914852,Applied Science,Male,NULL,NULL,NULL,"84/165, Shashtri nagar, paud Road, Kothrud, Pune 38",4/1/1978,rahulbhosale1478@gmail.com,20-25507032,7/25/2014,137
+COEP,450811064,Pavan Kishore Tak,9579952235,Establishment ,Male,NULL,NULL,NULL,"Staff Qtrs, 10,COEP, Pune",6/11/1985,takpavan@yahoo.co.in,20-25507007,7/25/2014,137
+COEP,451107018,Gopal Mahipat Kulkarni,9226063881,Metallurgy and Material Science ,Male,NULL,NULL,NULL,Nisargsunder Apt  Kothrud Pune-29,6/1/1953,gmk1653@gmail.com,20-255077261,7/25/2014,137
+COEP,458308045,DILIP GANESH KARHADKAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"FLAT NO.22, YASHODHAN APARTMANT,467,SHANIWARPETH, PUNE-30",1/9/1954,dgk@yahoo.com,20-25507281,7/25/2014,137
+COEP,458711061,Sandhya Rajendra Shinde,9975087586,Establishment ,Female,NULL,NULL,NULL,"Shri Rajyog Hsg. Soc, F506, Bibwewadi, Pune 37  ",10/23/1964,society1@coep.ac.in,20-25507007,7/25/2014,137
+COEP,458911062,Shubhada Vijay Kadekar,9623018175,Establishment ,Female,NULL,NULL,NULL,"Rahul Park, Flat 2, Anandnagar, Sinhagad Road, Pune 51",11/18/1968,society2@coep.ac.in,20-25507007,7/25/2014,137
+COEP,459403031,SAJJANLAL MUNNALAL PARDESHI,9373956056,Electrical Engineering ,Male,NULL,NULL,NULL,"GENBAMOZE NAGAR, VISHRANTWADI, YERAWADA, PUNE",3/12/1962,msp.lab@coep.ac.in,20-25507111,7/25/2014,137
+COEP,459405021,TANAJI BABURAO RUPNAR,9421025865,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,AT/POST BANEGAON TAL-NORTH SOLAPUR DIST SOLAPUR,6/1/1964,rupnar.tanaji@yahoo.in,20-25507171,7/25/2014,137
+COEP,459406043,MARUTI MURALI SHINDE,9881509388,Mechanical Engineering ,Male,NULL,NULL,NULL,77 ATTARNAGAR   VIJAPUR ROAD   SOLAPUR,4/1/1966,mms.lab@coep.ac.in,20-25507221,7/25/2014,137
+COEP,460008035,JAGANNATH SHIVRAM BADE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"AT.PO.AKHATWADE,TAL-SHEVGAON,DIST-AHMEDNAGAR",6/1/1961,jsb@yahoo.com,20-25507281,7/25/2014,138
+COEP,460508016,Aarti Amit Paygude,9767856688,Production Engineering and Industrial Management,Female,NULL,NULL,NULL,"15/6B ""Aashirwad""  Snehankit Society  Warje Naka  Karvenagar  Pune-29",8/7/1981,aap.prod@coep.ac.in,20-25507281,7/25/2014,138
+COEP,460907047,Abhijit Arun Bhopale ,9764432506,Metallurgy and Material Science ,Male,NULL,NULL,NULL,"B9, Prabhakar Apt  Bhelke Ngr, Kothrud, Pune 38",1/13/1983,abhijit.bhopale.13@gmail.com,20-255077261,7/25/2014,138
+COEP,461003025,PALLAVI YOGESH PATIL,465454656,Electrical Engineering ,Female,NULL,NULL,NULL,KATRAJ,10/8/1985,pallavi.mane@coep.ac.in,20-25507111,7/25/2014,138
+COEP,461101042,SUHAS SHANKAR PETKAR,7709242878,Civil Engineering ,Male,NULL,NULL,NULL,"PLOT NO. 10, MALI COLONY, SHIVAJI NAGAR,JAIL ROAD, NASHIK ROAD.",3/16/1988,suhaspetkar16@yahoo.com,20-25507041,7/25/2014,138
+COEP,461102047,Madhavi Sandip Bhosale,9763729724,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,14 ahilya housing society yerawada pune 411006,2/17/1976,msb.comp@coep.ac.in,20-25507091,7/25/2014,138
+COEP,461102048,Jayashree Shreyas Gosavi,9623566101,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,Flat no.604 A-1 Building Atul nagar near bangalore express highway warje s.n.79b pune 411052,7/25/1983,jsg.comp@coep.ac.in,20-25507091,7/25/2014,138
+COEP,461102049,Kiran Sudam Pawar,9890882983,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,B1 Laxmi vihar society near maha laxmi temple hadapsar pune 28,4/28/1986,ksp.comp@coep.ac.in,20-25507091,7/25/2014,138
+COEP,461104033,Manisha Arjun Salvi,NULL,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,"B-3, 103, Anita Residency, Katraj-Kondhva Road, Katraj, Pune-411046",6/5/1975,manishasalvi@hotmail.com,20-25507141,7/25/2014,138
+COEP,461105030,Ashish Krshna Kadam,9768345029,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"204,Aruna CHS Kharegaon Kalawa Thane",10/6/1989,ashish6oct@gmail.com,20-25507171,7/25/2014,138
+COEP,461108062,APEKSHA PRAKASH BOCHARE,7709746684,Production Engineering and Industrial Management,Female,NULL,NULL,NULL,"At post Shiroli (BK),Tq. Junnar, Dist. Pune - 410511",9/11/1990,apeksha123bochare@gmail.com,20-25507281,7/25/2014,138
+COEP,461301087,rita haribhau waghmare,9175399349,Civil Engineering ,Female,NULL,NULL,NULL,abbas pura achalpur tq achalpur dist amravati pin 444806,12/1/1989,rita.waghmare1989@gmail.com,20-25507041,7/25/2014,138
+COEP,461304048,gajanan virbhadra bihade,8275108095,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,atpost jawala bk tq sengaon dist hingoli pin 431513,9/8/1989,g.sbihade77@gmail.com,20-25507141,7/25/2014,138
+COEP,461304050,smita mahadeo wadekar,9158117928,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,sr no 5 sambhaji chowk opposite R K industries keshav nagar mundhawa pune pin 411036,10/29/1982,wadekar_smita@yahoo.in,20-25507141,7/25/2014,138
+COEP,461304051,vipul arun wankhade,9970150814,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,sr. no. 133 saikripa soc. chinchwad wallekarawadi pune 411033,6/3/1987,vipulwankhade6208@gmail.com,20-25507141,7/25/2014,138
+COEP,461317078,deepak diliprao patil,9970946060,Applied Science,Male,NULL,NULL,NULL,at rui(south) post samgavi tq ahmedpur dist latur pin 413515,6/16/1991,pdeepak12345@gmail.com,20-25507032,7/25/2014,138
+COEP,461405044,shital premdas patil,8149916185,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,dr ambedkar nagar dorli road yavatmal pin 445001,12/8/1989,shitalpatil123@gmail.com,20-25507171,7/25/2014,138
+COEP,461417076,Pritam Suresh Barbhuvan,9527267886,Applied Science,Male,NULL,NULL,NULL,"B/24, Lane # 3, Gangotri Nagar, Navecha Road, Pimple Gurav, Pune 411 061",5/3/1983,pritam_barbhuvan@yahoo.co.in,20-25507032,7/25/2014,138
+COEP,467902037,Rohidas B Adsul,NULL,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"561, Nana Peth, Patryachi Chawl, Pune - 411002",6/2/1955,adsulrb10.comp@coep.ac.in,20-25507091,7/25/2014,138
+COEP,467908040,SURYAKANT DATTATRAYA PAWAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"S.No.51/6/7,BHAIRAVNAGAR, DHANORO ROAD,PUNE-15",3/7/1957,sdp@rediff.com,20-25507281,7/25/2014,138
+COEP,467908041,BABAN RAMCHANDRA KOLAP,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"S.No.69/3,SAI PARK ROAD, BHIMASHANKARNAGAR, DIGHI PUNE-15",4/3/1955,brk@yahoo.com,20-25507281,7/25/2014,138
+COEP,468102029,Shivaji Ganpat Jadhav,NULL,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"8 Mula Road, Bhaiyya wadi, Khadki, Pune - 411003",12/12/1957,jadhavsg10.comp@coep.ac.in,20-25507091,7/25/2014,138
+COEP,468306035,Anil Vamanrao Jagtap,9850442908,Mechanical Engineering ,Male,NULL,NULL,NULL,46/2 Kharadi Road Chandan Nagar Pune-411 014,7/1/1959,avj.lab@coep.ac.in,20-25507221,7/25/2014,138
+COEP,468308033,DATTATRAYA MARUTI MOKASHI,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"PANDURANG SHINDE CHAL, OLD SANGVI, PUNE-27  KUMBHARWADA",4/2/1965,dmm@yahoo.com,20-25507281,7/25/2014,138
+COEP,468308043,ANIL PANDURANG KHANEKAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"S.No.83/11,LAL BAHDUR SHASTRI ROAD,SHASTRINAGAR,KOTHRUD,PUNE-29",7/31/1960,apk@yahoo.com,20-25507281,7/25/2014,138
+COEP,468501061,Tukaram Rupaji Shingade,8308311574,Civil Engineering ,Male,NULL,NULL,NULL,"Kathapur,Near Power house Tal:-Ambegaon Dist:-Pune",6/2/1957,str.civil@coep.ac.in,20-25507041,7/25/2014,138
+COEP,468502031,Balasaheb Shripati Chivhe,NULL,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"Mukkambare, Post Degaon, Bhor Taluka, Pune",9/19/1958,chivhebs10.comp@coep.ac.in,20-25507091,7/25/2014,138
+COEP,468506028,VASANT UMAJI MADHE,9527450622,Mechanical Engineering ,Male,NULL,NULL,NULL,"A/P SHINOLI, AMBEGAON,PUNE",5/13/1966,kailastaware@gmail.com,20-25507221,7/25/2014,138
+COEP,468506030,GANESH PANDURANG PAWAR,9403763370,Mechanical Engineering ,Male,NULL,NULL,NULL,31 Chaudhari Nagar Munjaba Wasti Dhanori Pune-411 015,3/2/1965,abce@gmail.com,20-25507221,7/25/2014,138
+COEP,468508020,DASHRATH TUKARAM MADHE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"At.Po.Dighi, Adarshnagar, S.No.73, Pune-15",6/1/1967,dtm@gmail.com,20-25507281,7/25/2014,138
+COEP,469001041,ANIL DYANESHWAR TARU,9325132265,Civil Engineering ,Male,NULL,NULL,NULL,"983, KASBAPETH,NEAR NATRAJ MITRAMANDAL, PUNE-11",12/7/1967,adt@coep.ac.in,20-25507041,7/25/2014,138
+COEP,469003029,NANDKUMAR LAXMAN GIRI,9881615704,Electrical Engineering ,Male,NULL,NULL,NULL,"AT POST-JAIGAON,  TAL-KHATAV,DIST-SATARA",6/1/1968,sng.lab@coep.ac.in,20-25507111,7/25/2014,138
+COEP,469003030,INDU PARAG MUNDHE,NULL,Electrical Engineering ,Female,NULL,NULL,NULL,,1/6/1966,ipm.lab@coep.ac.in,20-25507111,7/25/2014,138
+COEP,469008042,SHAHAJI SADHU DEOKULE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"JAIMALANAGAR, SANGVI, PUNE-27",6/1/1960,ssd@yahoo.com,20-25507281,7/25/2014,138
+COEP,469008054,SANJAY BHIMRAO UBALE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"ROOM NO.144, ANNA BHAU SAHTE NAGAR,NIGDI,PUNE-44",5/9/1969,sbu@yahoo.com,20-25507281,7/25/2014,138
+COEP,469201045,Suhas Balkrishna Ghantellu,9422024941,Civil Engineering ,Female,NULL,NULL,NULL,Shree.Swami Samarth Society F.No.10 3rd floor Vikas Colny Landewadi Bhosari Pune 411039.,4/10/1992,sbg.civil@coep.ac.in,20-25507041,7/25/2014,138
+COEP,469208019,SHIRISHKUMAR GOVIND WAGHMARE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"S.No.56/2,Ashirwad, Kawadenagar, near Ganesh Mangal Kendra, Navi Sangvi, Pune-27",5/19/1972,sgw@yahoo.com,20-25507281,7/25/2014,138
+COEP,469208031,MAHADEO PUNAJI LANGHI,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"S.No.31/2,Shivramnagar, Pimpale gurav near Church,Pune-27",8/30/1971,mpl@yahoo.com,20-25507281,7/25/2014,138
+COEP,469208055,SUBHASH LAXMAN DHAGE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"FLAT no.12, MAHALAXMI HSG SOCIETY, BIJLINAGAR ,CHINCHWAD,PUNE-33",6/2/1966,sld@yahoo.com,20-25507281,7/25/2014,138
+COEP,469305016,SUNIL DADABHAU CHORAMALE,9850054122,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,115-SOPANNAGER SASWAD TAL-PURANDHAR  DIST.PUNE,3/17/1970,sdc.lab@coep.ac.in,20-25507171,7/25/2014,138
+COEP,469305017,VISHNU RAMCHANDRA MAKAR,9850532612,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,AT/POST SHIVANE TAL. HAVELI DIST. PUNE-411023,6/1/1966,vra@yaoo.in,20-25507171,7/25/2014,138
+COEP,469306034,Prakash Shankar Thombare,NULL,Mechanical Engineering ,Male,NULL,NULL,NULL,P.186 Shaskiya Wasahat Shastri Nagar Yerawada Pune-411 006,7/11/1958,pst.lab@coep.ac.in,20-25507221,7/25/2014,138
+COEP,469308036,SUNIL MURLIDHAR PAWAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"114,RASTA PETH, PUNE-411011",7/13/1957,smp@yahoo.com,20-25507281,7/25/2014,138
+COEP,469402027,SANJAY BABANRAO BORATE,9763952505,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,PUNE,5/12/1968,bsb@coep.in,20-25507171,7/25/2014,138
+COEP,469408023,BASHIR JAMALBHAI PINJARI,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"At.Po.Jejuri, Behind Bank of Baroda, Jejuri tal-Purandar Dist-Pune 412303",6/1/1963,bjpinjari@yahoo.com,20-25507281,7/25/2014,138
+COEP,469408044,SHANKAR NARAYAN MERGU,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"S.No.42/10,Flat no.101,B-Wing, Lakshadweep Vihar,Pimpale Gurav,Pune-27",6/13/1958,snm@yahoo.com,20-25507281,7/25/2014,138
+COEP,469501071,Kamlakar Anna More,9881832607,Civil Engineering ,Male,NULL,NULL,NULL,"At. Post:- Modhave, Tal:- Baramati, Dist:- Pune. ",6/1/1970,kam.civil@coep.ac.in,20-25507041,7/25/2014,138
+COEP,469601043,Kishor Ananta Hanwate,8275372633,Civil Engineering ,Male,NULL,NULL,NULL,Flat No. K-205 LaxmiPuram Phase II Sr.No.157/A/2 Adarashnagar Mental Corner Yerwada Pune 411006.,4/18/1972,hanwate.kishor@gmail.com,20-25507041,7/25/2014,138
+COEP,469602033,Sukhadeo Bhikaji Bhong,0,Civil Engineering ,Male,NULL,NULL,NULL,"A/p:Nimgaon Ketki,Tal:Indapur,Dist:Pune.",2/14/1970,sbb@coep.ac.in,20-25507041,7/25/2014,138
+COEP,469604042,Madhuri Pandurang Deokar,9763387472,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,"shalini plaza, Gawde Bhoir lane, Chinchwad, Pune 33",1/26/1965,entc03@coep.ac.in,20-25507141,7/25/2014,138
+COEP,469702036,Laxman Baban Bhosale,NULL,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"Mukkam Post Mamurdi (Dehu Road), Haveli Taluka, Pune",8/27/1975,bhosalelb10.comp@coep.ac.in,20-25507091,7/25/2014,138
+COEP,469708017,VISHWANATH PANDURANG DANDAWATE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"At.Po.Talegaon Dhamdhere, Tal-Shirur Dist-Pune",2/15/1971,vpdandawate@gmail.com,20-25507281,7/25/2014,138
+COEP,469708018,HARICHANDRA RAMCHANDRA JAWALKAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,AT.Po.KHANAPUR Tal-HAVELI DIST-PUNE,10/26/1968,hrj@yahoo.com,20-25507281,7/25/2014,138
+COEP,469708022,CHANDRAKANT SAKHARAM NADEKAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"Shri Anand Park, Flat no.4, Gulmohar colony, Pimpale gurav Pune-27",5/10/1970,csn@gmail.com,20-25507281,7/25/2014,138
+COEP,469806039,Ranganath Jagannath Poul,9763341883,Mechanical Engineering ,Male,NULL,NULL,NULL,g-4 bangla no.5 gov.quarter airport road yerawada pune-6,6/18/1976,rjp.lab@coep.ac.in,20-25507221,7/25/2014,138
+COEP,469806048,HEMANT BABANRAO AHIVALE,9922749472,Mechanical Engineering ,Male,NULL,NULL,NULL,O/179 GOVT.COLONY SHASTRI NAGAR YERWADA PUNE-411006,6/1/1967,hemant.ahiwale@rediffmail.com,20-25507221,7/25/2014,138
+COEP,469808027,Vitthal Changdev Choure,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"MAHADEVNAGAR, MANJARI ROAD, PO-MANJARI FARM, PUNE-412307",11/5/1965,vcc@Yahoo.com,20-25507281,7/25/2014,138
+COEP,469817039,Ravindra Nagorao Bari,9422064555,Civil Engineering ,Male,NULL,NULL,NULL,A - 10 /37 Ruston Colony  Secotr No. 27 - A  Nigadi Pradhikaran   Nigadi  Pune 411 044,6/21/1970,rnb.civil@coep.ac.in,20-25507041,7/25/2014,138
+COEP,469903026,SANJAY KRISHNAJI SALVE,9960831414,Electrical Engineering ,Male,NULL,NULL,NULL,AT POST SUPEDHAR(DIMBHE COLONY) TAL AMBEGAON DIST PUNE,10/8/1970,sks.lab@coep.ac.in,20-25507111,7/25/2014,138
+COEP,469903027,MAHADEV SAMBHAJI KANHERE,9420320465,Electrical Engineering ,Male,NULL,NULL,NULL,AT POST KUMBHEG TAL KARAMALA DIST SOLAPUR,6/1/1964,smk.lab@coep.ac.in,20-25507111,7/25/2014,138
+COEP,469908021,DEEPAK SAKHARAM LONKAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"Dipanjali, plot no.143, Deodhar colony, Kedgaon Station Tal-Daund Dist-Pune",1/1/1969,dsl.lab@coep.ac.in,20-25507281,7/25/2014,138
+COEP,469908024,BHARAT BABAN KAMBALE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,Patil wada AT.Po.Vadgaon Maval Tal-Maval Dist-Pune,10/6/1961,bbk@yahoo.com,20-25507281,7/25/2014,138
+COEP,469908026,DATTU BANSI GULAVE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"JUNE LAXMINAGAR, PIMPALE GURAV,PUNE -27",12/22/1961,dbg@yahoo.com,20-25507281,7/25/2014,138
+COEP,469908029,MOHAN  HANUMANT YADAV,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"29/30, Panbazar, Secundrabad, Hyderabad ,500003",7/31/1962,mhy@gmail.com,20-25507281,7/25/2014,138
+COEP,469908056,BHIMRAO RAGHUNATH CHAVAN,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,AT.KATAVI PO.TALEGAON DABHADE TAL-MAVAL    DIST-PUNE,1/12/1958,brc@yahoo.com,20-25507281,7/25/2014,138
+COEP,471111051,Amitkumar Madhukar Ambhore,9370070441,Establishment ,Male,NULL,NULL,NULL,Sainath nagar majari stud farm solapur road pune 28,5/21/1980,amit.ambhore@rediffmail.com,20-25507007,7/25/2014,139
+COEP,471411067,Gangadhar Narayan Bhandare,9421015652,Establishment ,Male,NULL,NULL,NULL,"Survey # 53/3/1,Krishal Nagar, B T Kawade Road,Mundhwa, Pune-411036",1/10/1978,gbhandare@gmail.com,20-25507007,7/25/2014,139
+COEP,479703039,PANDHARINATH PANDURANG TAKAWALE,NULL,Electrical Engineering ,Male,NULL,NULL,NULL,,1/1/1900,pbt.support@coep.ac.in,20-25507111,7/25/2014,139
+COEP,480114002,Laxman Bhimaji Bhalchim,8275375020,Gymkhana ,Male,NULL,NULL,NULL,"Bhimashankar Nagar  Kiwle, Dehuroad, Pune",7/8/1973,gymkhana@coep.ac.in,20-25507066,7/25/2014,140
+COEP,480507045,Vikram Sillu Galiyal,9960266012,Metallurgy and Material Science ,Male,NULL,NULL,NULL,Room NO. 278  Indira Vasahat  Ganeshkhind  Aundh  Pune   ,12/1/1977,vikram.meta@coep.ac.in,20-255077261,7/25/2014,140
+COEP,480512011,Amit Kisan Salunke,9767916131,Library ,Male,NULL,NULL,NULL,"Govt. Qtrs. R 3 Shivajinagar, Pune 5",7/7/1978,liabrary11@coep.ac.in,20-25507191,7/25/2014,140
+COEP,480603034,MAHENDRA GOPAL SOLUNKE,9545985927,Electrical Engineering ,Female,NULL,NULL,NULL,"GOVT. CLASS 4 QUERTERS, COLLEGE OF ENGINEERING, PUNE, SHIVAJINAGAR, PUNE 411 005",5/6/1980,mgs.support@coep.ac.in,20-25507111,7/25/2014,140
+COEP,480611056,Dattatraya Ratan Pawar,9604386476,Establishment ,Male,NULL,NULL,NULL,"flat no. 8, kedar corner, Jadhavnagar, Vadgaon Pune 41",10/1/1953,gymkhana2@coep.ac.in,20-25507007,7/25/2014,140
+COEP,480611060,Satish Chandrakant Bhapkar,NULL,Establishment ,Male,NULL,NULL,NULL,"A/P Dive, Tal. Purandar, Dist Pune,  Bhapkar mala",6/27/1972,boatclub6@coep.ac.in,20-25507007,7/25/2014,140
+COEP,480611066,Balasaheb Laxman Kamble,9850772264,Establishment ,Male,NULL,NULL,NULL,"Staff Qtrs. R N 1,  Shivajinagar, Pune 5",7/1/1954,boatclub10@coep.ac.in,20-25507007,7/25/2014,140
+COEP,480811059,Satish Dashrath Kachi,8975906207,Establishment ,Male,NULL,NULL,NULL,"Kachi Vasti, S. No, 49, Sangamwadi, Pune 3",8/4/1969,boatclub5@coep.ac.in,20-25507007,7/25/2014,140
+COEP,480911057,Rajesh Sopan Bhalekar,9922751157,Establishment ,Male,NULL,NULL,NULL,"Boat club new qtrs.  COEP, Pune",12/11/1971,boatclub1@coep.ac.in,20-25507007,7/25/2014,140
+COEP,481001068,Vaibhav Rajendra Phadtare,9637713056,Civil Engineering ,Male,NULL,NULL,NULL,"At.Post. Surwad, Tal:- Indapur, Dist:- Pune. ",1/3/1984,vrp.bwc@coep.ac.in,20-25507041,7/25/2014,140
+COEP,481011058,Ashutosh Hanumant Kumbhar,9762168290,Establishment ,Male,NULL,NULL,NULL,"Servant Qtrs.  COE, Pune 5",4/20/1991,askumbhar91@gmail.com,20-25507007,7/25/2014,140
+COEP,481303044,DIPALI SHASHIRAJ PATIL,7588490356,Electrical Engineering ,Female,NULL,NULL,NULL,atpost balinge tq karveer dist kolhapur pin 416010,5/6/1984,deepalipatil1368@gmail.com,20-25507111,7/25/2014,140
+COEP,481305040,Jyotika Suryakant Bagade,8177958674,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,"82 Kalal Peth, Loha tal, Dist. Nanded 431708",5/25/1980,abcd@yahoo.com,20-25507171,7/25/2014,140
+COEP,481306057,anil ramchandra ghume,9922110883,Mechanical Engineering ,Male,NULL,NULL,NULL,59 gultekdi dholemada pune 37,7/15/1960,0@gmail.com,20-25507221,7/25/2014,140
+COEP,481306058,ramdhan ankush tambade,8805498929,Mechanical Engineering ,Male,NULL,NULL,NULL,at post chichwan tq wadwani dist beed 431124,7/8/1989,ramdhantambade@gmail.com,20-25507221,7/25/2014,140
+COEP,481308068,sanjay manohar kamble,9623985525,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,101 dhananjay society nda road behind  sanjivani hospital near bhaji mandai uttam nagar pune 43 ,10/24/1967,00@gmail.com,20-25507281,7/25/2014,140
+COEP,481314006,Naval Rajendra Supekar,9049789789,Gymkhana ,Male,NULL,NULL,NULL,"561 Guruwar Peth, Kastur Chowk, Amar Prasad Apt. Pune 411002",3/20/1983,navalsupekar@yahoo.co.in,20-25507066,7/25/2014,140
+COEP,481315001,rakesh rama pujari,9545432228,Training and Placement ,Male,NULL,NULL,NULL,at post ghosarwad tq shirol dist kolhapur pin 416107,7/6/1988,rpujari937@gmail.com,20-25507147,7/25/2014,140
+COEP,481317075,GANESH SHARAD JOSHI,NULL,Applied Science,Male,NULL,NULL,NULL,"5 PANINI SOCIETY, SANT NAGAR, ARANYESHWAR, PUNE 9",11/17/1971,ABC@HAYOO.COM,20-25507032,7/25/2014,140
+COEP,481401086,sandeep changdeo gidde,9975467289,Civil Engineering ,Male,NULL,NULL,NULL,1154 shivkrupa niwas at post modnimb tq madha dist solapur pin 413301,9/5/1985,giddesandeep@gmail.com,20-25507041,7/25/2014,140
+COEP,481405041,Nitin Sudam Salve,9975031237,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"At. Post Madhe Vadgaon,Tal Shrigonda, Dist. Ahmednagar, 413726",5/1/1981,nssalve81@gmail.com,20-25507171,7/25/2014,140
+COEP,481405043,Vinayak Vasant Bhavari,9773619955,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"9/10, Anand-deep Bldg. 4, Pendse Nagar, Road No. 2, Behind Andhra Bank, Dombivali E, 421201",8/26/1981,vinayak_bhavari@yahoo.com,20-25507171,7/25/2014,140
+COEP,487808032,BALU MORU TAPKIR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,AT.Chowisawadi Po-Charholi bk.Tal-Haveli Dist-Pune,6/10/1954,bmt@rediff.com,20-25507281,7/25/2014,140
+COEP,487901047,PANDURANG BABURAO LOKHANDE,9604570533,Civil Engineering ,Female,NULL,NULL,NULL,"WANAWADI GAON,108,PUNE-40",9/1/1954,pbk.civil@civil.ac.in,20-25507041,7/25/2014,140
+COEP,487903035,BHOLENATH BABURAO KAMBALE,9604859167,Electrical Engineering ,Male,NULL,NULL,NULL,"SERVE NO.5,BACK SIDE ON CONTOMENT BANK, KESHAVNAGAR, MUNDHWA , PUNE",11/25/1957,bbk.support@coep.ac.in,20-25507111,7/25/2014,140
+COEP,488014003,Kisan Dadu Avghade,9921150029,Gymkhana ,Male,NULL,NULL,NULL,"804,Servant's Quarter, Opposite District Court, COE Pune-5",3/1/1955,gymkhana1@coep.ac.in,20-25507066,7/25/2014,140
+COEP,488101060,SAKHARAM GOVIND KONDHAVALE,8275754292,Civil Engineering ,Male,NULL,NULL,NULL,"SHANKHAR JOSHI CHAL,SARVE NO 77,WARD NO.3 DAPODI,PUNE-12 P",6/2/1959,sgk.civi@coep.ac.in,20-25507041,7/25/2014,140
+COEP,488101075,suryakant tukaram salunke,9823524031,Civil Engineering ,Male,NULL,NULL,NULL,"post khadakwasala,tal.haveli,pune-24",6/1/1953,sts.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,488103037,RAMDAS SOPAN GOPALE,9822553316,Electrical Engineering ,Male,NULL,NULL,NULL,"SOMATNE FATA, TAL MAVAL, DIST:- PUNE",6/1/1954,rsg.support@coep.ac.in,20-25507111,7/25/2014,140
+COEP,488103038,KANCHAN SHAMLAL SALUNKE,NULL,Electrical Engineering ,Female,NULL,NULL,NULL,"SUKHSAGAR NAGAR, KATRAJ, PUNE",6/1/1954,kss.support@coep.ac.in,20-25507111,7/25/2014,140
+COEP,488106032,Bhimrao Manohar Taru,NULL,Mechanical Engineering ,Male,NULL,NULL,NULL,A/p Bawarapur Taluka  Haveli Dist. Pune-412 202,3/20/1956,bmt.support@coep.ac.in,20-25507221,7/25/2014,140
+COEP,488108037,MAHADEV GOPALA BARAVKAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,At.PO.Narayan Bet         Tal-Daund Dist-Pune,6/1/1955,mgb@rediff.com,20-25507281,7/25/2014,140
+COEP,488108046,SHIVAJI RANABA PASHANKAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"H.No.29,NIMHAN ALI, KUMBHARWADA,PASHAN, PUNE-8",6/1/1953,srp@rediff.com,20-25507281,7/25/2014,140
+COEP,488108048,KRISHNA MALHARI KIRVE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,AT.PO.KASARSAI            TAL-MULSHI DIST-PUNE,6/2/1955,kmk@rediff.com,20-25507281,7/25/2014,140
+COEP,488108049,BHARAT LAXMAN DAGADE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,PO-BAVDHAN BK. Tal-MULASHI DIST-PUNE-21,6/15/1955,bld@ediff.com,20-25507281,7/25/2014,140
+COEP,488201050,ashok vithal phatak,9881735932,Civil Engineering ,Male,NULL,NULL,NULL,"erandawana,pune-4",11/14/1957,avp.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,488201059,vishnu tulshiram kamathe,9850773611,Civil Engineering ,Male,NULL,NULL,NULL,"1029,ravivar peth,saswade wada,pune-2",2/15/1956,tvk.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,488201063,Gajanan Maruti Taru,9881056302,Civil Engineering ,Male,NULL,NULL,NULL,"984,Sadashivpeth Pune-30",5/21/1954,gmt.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,488201072,Rajendra Khanderao Sorate,9049408705,Civil Engineering ,Male,NULL,NULL,NULL,"609,Kasbapeth,Pune-11",7/12/1962,rks44.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,488202028,chandrakant Shankar Sonawane,NULL,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"Engineering college Servant Quarters, Room no. 19 shivajinagar, Pune-411005.",10/2/1957,sonawanecs10@coep.ac.in,20-25507091,7/25/2014,140
+COEP,488205024,MADHUKAR BAPU BHAWARI,9021241728,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"Coep servent qutr/no.15. college of Enginnering,pune-411005",10/6/1960,bmb.instru@coep.ac.in,20-25507171,7/25/2014,140
+COEP,488208028,PRADEEP PANDURANG BANDRE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"Neeljyoti society, 31/715, Gokhalenagar, Pune-16",6/10/1959,ppb@rediff.com,20-25507281,7/25/2014,140
+COEP,488208052,ARUN SHIVRAM BHISE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"NUTAM MAHARASHTRA SOC.SAHAKARNAGAR, PADMAWATI, H.No.640,PUNE-9",6/1/1955,asb@rediff.com,20-25507281,7/25/2014,140
+COEP,488303033,PAVLAS KISAN BORDE,8805076144,Electrical Engineering ,Male,NULL,NULL,NULL,"INDIRA VASAHAT, AUNDH ROAD, PUNE 411 007",11/24/1956,pkb.support@coep.ac.in,20-25507111,7/25/2014,140
+COEP,488304041,Anant Dattatraya Kathavate,8007594267,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"131 Shivdarshan, R No.1, Parvati, Pune 9",11/9/1965,entc01@coep.ac.in,20-25507141,7/25/2014,140
+COEP,488306031,Satish Madhav Shevkar,9822546933,Mechanical Engineering ,Male,NULL,NULL,NULL,14/B Amit Heights  sasane Nagar Hadapsar Pune-411 028,10/29/1961,sms.support@coep.ac.in,20-25507221,7/25/2014,140
+COEP,488306051,Ashok Genappa Dhamanekar,9881423978,Mechanical Engineering ,Male,NULL,NULL,NULL,"Govt. polytechnic hostel, B Bldg, Pune 16",7/18/1959,mech13@coep.ac.in,20-25507221,7/25/2014,140
+COEP,488402030,Ramchandra Sonba Bangal,NULL,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"1005,Rajendranagar,vivek joshi apartment, room no. 805 ,8th floor,Pune-411030 ",12/2/1960,bangalrs10@coep.ac.in,20-25507091,7/25/2014,140
+COEP,488408051,NARAYAN HARIBHAU PAWAR,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"ANUJA A-SOCIETY,FLAT NO.3 S.No.25, HINGNE KHURD,PUNE-51",12/19/1960,nhp@rediff.com,20-25507281,7/25/2014,140
+COEP,488501040,Pandurang Shivram Botre,9623582040,Civil Engineering ,Male,NULL,NULL,NULL,"Mukkam Yelwadi, Post Dehugaon,Taluka Rajguru Nagar, Dist Pune. ",7/13/1958,psb.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,488501062,Tukaram Rupaji Shingade,8308311574,Civil Engineering ,Male,NULL,NULL,NULL,"Kathapur,Near Power house Tal:-Ambegaon Dist:-Pune",6/2/1957,str22.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,488501076,Tanaji Vaman Pawar,9764324750,Civil Engineering ,Male,NULL,NULL,NULL,"A/P Shivane,  Tal Haveli, Dist Pune 29",6/1/1955,civil01@coep.ac.in,20-25507041,7/25/2014,140
+COEP,488506029,Krishna Trimbak Bhokare,9850061643,Mechanical Engineering ,Male,NULL,NULL,NULL,Sr.No. 49/1 Kothrud Ganesh Colony Pune-411 029,8/16/1958,ktd.support@coep.ac.in,20-25507221,7/25/2014,140
+COEP,488506040,Anand Shankarrao Mete,9561873838,Mechanical Engineering ,Male,NULL,NULL,NULL,217/8a pur grasta wasahat erandwana pune-4,9/22/1965,asm.support@coep.ac.in,20-25507221,7/25/2014,140
+COEP,488508025,BABU ANNA LOKHANDE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"Pimpale gurav, Vaidu vasti, Pune-27",3/1/1964,bal@rediff.com,20-25507281,7/25/2014,140
+COEP,488508050,SHAM RAMCHANDRA SHINDE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"1240,KASBA PETH, PUNE-11",6/28/1962,srs@rediff.com,20-25507281,7/25/2014,140
+COEP,488508057,SURESH DASHRATH KUTE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,AT.PO.MOSHI TAL-HAVELI  DIST-PUNE,6/1/1957,sdk@rediff.com,20-25507281,7/25/2014,140
+COEP,488512005,Sanjivani Dattatraya Jadhav,9860229147,Library ,Female,NULL,NULL,NULL,"Durvankur, Ashoka Hsc Soc, Thergaon, Pune 33",5/28/1965,liabrary6@coep.ac.in,20-25507191,7/25/2014,140
+COEP,488606033,Ramkrushna Gangaram Nachare,9881181931,Mechanical Engineering ,Male,NULL,NULL,NULL,12/16 Patil Bunglow in front of Fergusson College Shivaji Nagar Pune-411 004,1/20/1962,rgn.support@coep.ac.in,20-25507221,7/25/2014,140
+COEP,488608038,ARUN BHIMRAO ROKADE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"Sainiknagar,         Vishrantwadi Pune-15",8/15/1967,abr@rediff.com,20-25507281,7/25/2014,140
+COEP,488712006,Sunanda Siddheshwar Shelar,NULL,Library ,Female,NULL,NULL,NULL,"323 Ramakant Karnik Nagar, Sholapur 413006",6/1/1956,library7@coep.ac.in,20-25507191,7/25/2014,140
+COEP,488906049,Shankar Hari Nikam,9822415410,Mechanical Engineering ,Male,NULL,NULL,NULL,"A/P Apshing, Tal:Satara, Dist. Satara",1/1/1955,mech01@coep.ac.in,20-25507221,7/25/2014,140
+COEP,488912007,Suresh Dattatraya Bhange,9881103386,Library ,Male,NULL,NULL,NULL,"Sant Tukaram ngr, S No. 218, Bhosari, Pune 39",6/1/1966,library8@coep.ac.in,20-25507191,7/25/2014,140
+COEP,489001064,Kishor Jagdish Tak,9326600953,Civil Engineering ,Male,NULL,NULL,NULL,"Servant quarter coep,Pune-05",11/11/1958,kjt33.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489002053,Shrimant Govindrao Koli,8805672330,Computer Engineering and Information Technology,Male,none1@gmai.com,ind,pun,"WB4/10/203 Masulkar Colony, Pimpri, Pune 18",8/14/1958,comp15@coep.ac.in,20-25507091,7/25/2014,140
+COEP,489006037,Kailas Dinkar Taware,9503172417,Mechanical Engineering ,Male,NULL,NULL,NULL,Joshi chawl  Ward No.3  Dapodi Pune-411 012,4/18/1964,kdt.support@coep.ac.in,20-25507221,7/25/2014,140
+COEP,489006042,RAVINDRA NAMDEO RENGADE,9763900486,Mechanical Engineering ,Male,NULL,NULL,NULL,A/P GODRE   TAL:JUNNAR   DIST:PUNE  PIN:410502,6/25/1966,annarengade@gmail.com,20-25507221,7/25/2014,140
+COEP,489006050,Sandeep Madhukar Taru,9822385936,Mechanical Engineering ,Male,NULL,NULL,NULL,"Saiprem Apt. plot 98. S No. 34/2, Tingre Nagar, Pune 32",2/27/1969,mech02@coep.ac.in,20-25507221,7/25/2014,140
+COEP,489008030,VISHNU KRISHNA MORAMARE,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,At-UKSAN PO-KARANJGAON TAL-MAVAL DISt-PUNE,6/1/1959,vkm@rediff.com,20-25507281,7/25/2014,140
+COEP,489008034,MANOHAR ANANTA GAIKWAD,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"NAMOVIHAR,E/105,SATAVNAGAR,HANDEWADI ROAD,HADAPSAR,PUNE-28",5/27/1962,mag@rediff.com,20-25507281,7/25/2014,140
+COEP,489108039,CHANDRAKANT  RAMU KADAM,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"HARIKRISHNA PARK, PLOT NO.23, S.No.30,DHANORI PUNE -15",12/7/1965,crk@rediff.com,20-25507281,7/25/2014,140
+COEP,489301067,Shailendra Ganpatrao Ramod,9890931596,Civil Engineering ,Male,NULL,NULL,NULL,"Lagadchal,Kalas Alandiroad Pune-15",11/17/1970,sgr33.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489302035,Jagannath Ramchandra Shingade,9823789282,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,AT Post Chandoli BR Tal. Ambegaon Dist Pune (Kale Mala) ,7/18/1967,jrs.comp@coep.org.in,20-25507091,7/25/2014,140
+COEP,489305023,SHRIKANT RAGHUNATH BANSOD,9822553564,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"GURUDEO NAGER, SR.7 AKURDI PUNE -35",4/14/1963,srikant.bansod@gmail.com,20-25507171,7/25/2014,140
+COEP,489306038,Shankar Bhaurao Chapate,9527390040,Mechanical Engineering ,Male,NULL,NULL,NULL,A/p Chapate Wadi(Kanase) Tal.Ambegaon Dist.Pune-410516,4/8/1972,sbc.support@coep.ac.in,20-25507221,7/25/2014,140
+COEP,489401073,Sunil Dashrath Awatade,9767717500,Civil Engineering ,Male,NULL,NULL,NULL,"S.N.176/6 Vijaynagar,Manjri Bk.Tal:- Haveli Dist:-Pune",10/22/1965,sda33.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489402052,Mahindra Martand Shinde,7507704781,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,"Hiramal Mozhe Nagar, S No. 155/2, Yervada, Pune 7",3/15/1960,comp10@coep.ac.in,20-25507091,7/25/2014,140
+COEP,489412012,Sudhakar Bhagwan Raikar,9373329477,Library ,Male,NULL,NULL,NULL,"A/P Dhayari, Raikar nagar, Pune 41",8/20/1965,library12@coep.ac.in,20-25507191,7/25/2014,140
+COEP,489601066,Sukhadeo Bhikaji Bhong,9960813956,Civil Engineering ,Male,NULL,NULL,NULL,A/p Nimgaon Ketki Tal:-Indapur Dist:-Pune,2/14/1970,sbb22.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489701049,RAJU RAMDAS NIKAM,9049294902,Civil Engineering ,Male,NULL,NULL,NULL,SOMESHWAR WADI PASHAN PUNE 21,6/23/1977,rrn.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489701069,Balkrushna Deoram Bidkar,9921280957,Civil Engineering ,Male,NULL,NULL,NULL,"At:- Moi, Post:- Kuruli, Tal:- Khed, Dist:- Pune.",8/21/1964,bdb44.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489701070,Shalini Tukaram Kherade,9881989809,Civil Engineering ,Female,NULL,NULL,NULL,"1131,Kenjalewada,Dnyaneshwar paduka chowk,Pune-16",2/2/1954,stk55.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489703036,DEVIDAS LAXMAN CHINCHANKAR,9764780622,Electrical Engineering ,Male,NULL,NULL,NULL,"PCMC COLONY, SAMBHAJINAGAR, WAKADEWADI, PUNE 3",8/15/1966,dlc.support@coep.ac.in,20-25507111,7/25/2014,140
+COEP,489703040,VIJAY SAHADU HOLE,9823166211,Electrical Engineering ,Female,NULL,NULL,NULL,"SERVE NO. 53/58, SAINATH NAGAR, JAYHIND CHOIK, JANKIKUNJ BANGLOW, WADGAON SHERI, PUNE 411 014.",6/1/1963,vsh.support@coep.ac.in,20-25507111,7/25/2014,140
+COEP,489706036,Sampat Kalidas Gilbile,9921332711,Mechanical Engineering ,Male,NULL,NULL,NULL,Wadmukwadi Charoli Bk Tal. Haveli. Dist.Pune,2/20/1968,skg.support@coep.ac.in,20-25507221,7/25/2014,140
+COEP,489714004,Ganpat Prabhakar Burde,9689875428,Gymkhana ,Male,NULL,NULL,NULL,"A/P Charavali  BK, Tal HAveli, Dist Pune",6/1/1967,gymkhana5@coep.ac.in,20-25507066,7/25/2014,140
+COEP,489801046,Dinkar Shivaji Budhavle,9881057364,Civil Engineering ,Male,NULL,NULL,NULL,Mukam-kotavde  post-nerli  taluka-kadegaon  dist-sangli.,6/1/1968,dsb.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489802034,SANJAY KRISHNA NALE,9890658680,Establishment ,Male,NULL,NULL,NULL,"SOMESHWAR PARK,CHATRIBAN SOCIETY,NEW SANGAVI.PUNE-27",9/29/1963,skn@coep.org.in,20-25507007,7/25/2014,140
+COEP,489808053,AJAY CHAND BAID,NULL,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"16/2,KARUNA HSG.SOCEITY, YERWADA, PUNE-6",6/19/1975,acb@rediff.com,20-25507281,7/25/2014,140
+COEP,489901044,KAUSALYA ADINATH FUNDE,8605242923,Civil Engineering ,Female,NULL,NULL,NULL,"HADAPSAR 15 NO.,NILGANGA CHAL,PUNE-28",12/13/1969,kaf.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489901065,Baban Bapu Jadhav,9011452100,Civil Engineering ,Male,NULL,NULL,NULL,A/P Alsand Tal:- Vita Dist:-Sangli,3/5/1967,bbj44.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,489902032,Manisha Prabhakar Banekar,9850658764,Computer Engineering and Information Technology,Female,NULL,NULL,NULL,"343,rasta peth,apposite KEM hospital,Mahale Wada,Pune-411011",8/3/1974,banekarmp10@coep.ac.in,20-25507091,7/25/2014,140
+COEP,489903032,SUNANDA DNYANESHWAR JADHAV,8308511429,Electrical Engineering ,Female,NULL,NULL,NULL,"SERVE NO. 106, CHANDRAKALA HIGHTS , FLAT NO. A 1/5, VAIDUWADI, HADPASAR PUNE 13.",1/13/1969,sdj.support@coep.ac.in,20-25507111,7/25/2014,140
+COEP,489905022,LAXMAN SHANKAR GAIKWAD,9763331150,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,AT/POST SUSGOAN TAL- MULSI DIST PUNE,6/2/1970,lsg.instru@coep.ac.in,20-25507171,7/25/2014,140
+COEP,489906041,ARJUNRAO VITHTHAL WANAVE,9421717514,Mechanical Engineering ,Male,NULL,NULL,NULL,A/P LAKADI   POST NIRGUDE   TAL:INDAPUR   DIST:PUNE,12/16/1975,avv.support@coep.ac.in,20-25507221,7/25/2014,140
+COEP,490205025,BIMRAO DADU KALE,9604703562,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,ANJALI NAGAR KATRAJ PUNE411046,6/1/1966,KBD.instru@coep.ac.in,20-25507171,7/25/2014,141
+COEP,500004031,Prakash Vasant Bhosale,9421786648,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,Wadgaon Sheri sr no 5620 Mauli Appt.  Pune,12/26/1968,pvb.lab@coep.ac.in,20-25507141,7/25/2014,633
+COEP,500017044,M. Madhukar  kshirsagar,NULL,Metallurgy and Material Science ,Female,NULL,NULL,NULL,At.post: Lonand Tal : Khandala  Dist : satara.Maharastra  ,1/13/1970,mmk.meta@coep.ac.in,20-255077261,7/25/2014,633
+COEP,50017042,Abhijit  Arun  Bhopale,9764432506,Metallurgy and Material Science ,Male,NULL,NULL,NULL,Flat no-09 Prabhakar Apt Bhelke nag  er Kothrud Pune-411038  ,1/13/1983,aab.meta@coep.ac.in,20-255077261,7/25/2014,633
+COEP,50017048,Tanajee Vaman Pawar,9764324750,Civil Engineering ,Male,NULL,NULL,NULL,At/post Shivne  Ta. Haveli  Dist. Pune - 23  Kamthe Vasti.,6/1/1955,tvp.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,500510012,Sujata Manohar Dalvi,9922961275,Accounts ,Female,NULL,NULL,NULL,AP-Jejuri Tal-Purandhar Dist-Pune,9/12/1968,Su_jata@Yahoo.co.in,20-25507010,7/25/2014,633
+COEP,500517050,VINESH VIKRAM SALUNKE,9921053389,Exam cell ,Male,NULL,NULL,NULL,Engg College Servant Quarters Pune    ,11/8/1976,vinesh.examcell@coep.ac.in,020-25507017,7/25/2014,3675
+COEP,500710003,Vijay Dattatraya Pawar,9423207496,Accounts ,Male,NULL,NULL,NULL,AP-Shirsatwadi (Walchandnagar)  Tal-Indapur  Dist-Pune Pin-413114,9/10/1984,pawarvd.office@coep.ac.in,20-25507010,7/25/2014,633
+COEP,500810001,VASANT BUDDHIRAM GONTE,9765089304,Accounts ,Male,NULL,NULL,NULL,Raut Baug Housing Complex  C-1/54 Dhankawadi  Pune 411 043,6/5/1957,acco@coep.ac.in,20-25507010,7/25/2014,633
+COEP,500810002,RAMAKANT RAMCHANDRA ATHAVALE,9422319348,Accounts ,Male,NULL,NULL,NULL,"Flat No: 7, 3rd Floor, Shanti Sagar Apartments, 1140, Sadashiv Peth, Near Geeta Dharma Mandal,  PUNE 411 030",8/27/1957,am@coep.ac.in,20-25507010,7/25/2014,633
+COEP,500810004,ASHOK BHIMASHANKAR SUTAR,9325853910,Accounts ,Male,NULL,NULL,NULL,"C-353,RAJSHAW NAGAR,VIJAPUR ROAD, SOLAPUR-413004",10/11/1979,sutar_accountant@yahoo.co.in,20-25507010,7/25/2014,633
+COEP,500910005,Sachin Narayan Jadhav,9579667199,Accounts ,Female,NULL,NULL,NULL,"At- Khanapur( Deshmukhnagar)Post- Ozarde, Tel- Wai, Dist- Satara.Pin Code-412803",12/3/1984,sachin5532@gmail.com,20-25507010,7/25/2014,633
+COEP,501008061,SWAMINATH RAMCHANDRA LENDGHAR,9923526751,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"SERVE NO 112/8B, SUTARWADI, PASHAN, PUNE -411021",6/1/1952,lendgar.lab@coep.ac.in,20-25507281,7/25/2014,633
+COEP,501104028,AFRIN JAINUL BADIWALE,8855851756,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,"KOROCHI MAL,PATIL VASAHAT,KOROCHI",11/1/1985,affy1427@gmail.com,20-25507141,7/25/2014,633
+COEP,501104037,VISHAL TUKARAM WAGHMARE,9881113765,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,35 AJANTA SOC. SOMNATH NAGAR VADGAONSHERI.PUNE14,8/25/1982,waghmarevishal25@gmail.com,20-25507141,7/25/2014,633
+COEP,501110015,Anuradha Santosh Pagdaloo,9011493340,Accounts ,Female,NULL,NULL,NULL,c/o pushpa b.gaikwad m-24/2197 mhb colony near yerawada post pune 6,11/18/1980,annu_pune18@yahoo.co.in,20-25507010,7/25/2014,633
+COEP,501110016,Meenashi Ganesh Bendre,9881570804,Accounts ,Female,NULL,NULL,NULL,Om 134/35 near parashar soc.opp.balaji hospital nagar road pune 14,11/28/1983,meenakshijachak28@gmail.com,20-25507010,7/25/2014,633
+COEP,501110017,Vikas Narayan Borawake,9890189061,Accounts ,Male,NULL,NULL,NULL,"63, serum institute road, shree ganesh vihar colony hadapsar pune 411028",6/2/1981,borawakevn.office@coep.ac.in,20-25507010,7/25/2014,633
+COEP,501117033,VIPUL SHIVAJI RAJE,9767748495,Applied Science,Male,NULL,NULL,NULL,"SAHYADRI NAGAR, SR.NO.2/3 DHANKAWADI PUNE-411043",8/13/1982,vsr.lab@coep.ac.in,20-25507032,7/25/2014,633
+COEP,501117034,APEKSHA PRAKASH BOCHARE,7709746684,Applied Science,Female,NULL,NULL,NULL,A/P SHIROLI B.K   TAL:JUNNAR  DIST:PUNE  410511,9/11/1990,apb.prod@coep.ac.in,20-25507032,7/25/2014,633
+COEP,501117035,MEGHA BALIRAM WAWRE,9372400117,Civil Engineering ,Female,NULL,NULL,NULL,64/5 SECTOR 25 L.I.G.COLONY SINDHUNAGAR NIGADI PRADHIKARAN NIGADI PUNE-411044,8/24/1981,meghawawre@gmail.com,20-25507041,7/25/2014,138
+COEP,501117037,Pradnya Kirankumar Giri,9823337897,Applied Science,Female,NULL,NULL,NULL,26 Kasba peth  yugmshri Apt  Pune 411011,12/16/1984,pradnyagosavi2001@gmail.com,20-25507032,7/25/2014,138
+COEP,501217062,KANCHAN SANTOSH SUKRE,9764226027,Applied Science,Female,NULL,NULL,NULL,"ANAND PARK,HOUSING SOCIETY,A-BUILDING,FLAT NO.7,GANESHNAGAR, VADGAONSHERI,PUNE-14",12/1/1980,kanchan_sukre@yahoo.com,20-25507032,7/25/2014,633
+COEP,501217063,Kanchan Santosh Sukre,9765226037,Applied Science,Female,NULL,NULL,NULL,"Anand Park Flat 7,   Ganesh Ngr, Wadgaon Sheri, Pune 411014",12/1/1980,Sukreks.office@coep.ac.in,20-25507032,7/25/2014,633
+COEP,501306056,Prasad Vinayak Patil,8928462845,Mechanical Engineering ,Male,NULL,NULL,NULL,"A/P-Kekhale, Tal- Panhala, dist-Kolhapur",8/14/1989,pvp.mech@coep.ac.in,20-25507221,7/25/2014,633
+COEP,501308065,Vaidehi  Dhawale,8390901338,Production Engineering and Industrial Management,Female,NULL,NULL,NULL,"404 Mandar, Prasun Dham hsg. Soc., Thergaon, Pune 411033",7/7/1982,vaidehi.dhawale@yahoo.co.in,20-25507281,7/25/2014,633
+COEP,501310018,ANISHA ATUL DHONGADE ,NULL,Accounts ,Female,NULL,NULL,NULL,23E/20 PASCHIMA NAGARI NEAR CITY PRIDE KOTHRUD KOTHRUD PUNE 411052,10/9/1967,anisha9698@gmail.com,20-25507010,7/25/2014,633
+COEP,501310020,sanju sayappa siddh,9960405069,Accounts ,Male,NULL,NULL,NULL,atpost dudhgaon khanbagh near ganesh mandir tq miraj dist sangli pin 416315,6/1/1979,sanjaysiddh123@gmail.com,20-25507010,7/25/2014,633
+COEP,501317064,HARIJAN  BAGCHI,9960429960,Applied Science,Male,NULL,NULL,NULL,"16/08 SHINDE NAGAR, BAVDHAN, PUNE - 411021",1/10/1946,hbagchi.prod@coep.ac.in,20-25507032,7/25/2014,633
+COEP,501317065,NATHANIEL GRAFTON MARTIN,9657068959,Applied Science,Male,NULL,NULL,NULL,"24,CALUMENT ST.ROCHESTER NY 14610",1/1/1900,,20-25507032,7/25/2014,633
+COEP,501317070,SUMIT SANJAY KALE,9762987644,Applied Science,Male,NULL,NULL,NULL,S.NO-215 H.NO-714 RAYGAD COLONY GANGANAGAR PHURSUNGI,1/29/1990,kale.sumit29@gmail.com,20-25507032,7/25/2014,633
+COEP,501317071,dssd dsdds ddddds,9096508753,Applied Science,Male,NULL,NULL,NULL,fdddaas,5/31/1986,hghgj@gmail.com,20-25507032,7/25/2014,633
+COEP,501317072,PANDURANG RAGHUNATH YADAV,7709976337,Applied Science,Male,NULL,NULL,NULL,"A/P:-ARVI, TAL:-KOREGAON,DIST:-SATARA",9/27/1989,pryadavphy@gmai.com,20-25507032,7/25/2014,633
+COEP,501317073,vinayak mahadev kudache,7709784018,Applied Science,Male,NULL,NULL,NULL,budhwar peth near khan hospital miraj dist sangli,8/22/1984,vinayakkudache@09gmail.com,20-25507032,7/25/2014,633
+COEP,501417077,amol prakashrao fande,9766774845,Applied Science,Female,NULL,NULL,NULL,ravi nagar gabhane plot morshi tq morshi amravati pin 444905 ,9/5/1988,apfande@gmil.com,20-25507032,7/25/2014,633
+COEP,507717056,Pradip Laxman Bhachal,9423238720,Applied Science,Male,NULL,NULL,NULL,"B 12, Bhelke Residency , Bhelke Nagar, Kothrud",12/3/1955,plb.lab@coep.ac.in,20-25507032,7/25/2014,633
+COEP,507803028,HIRALAL TUKARAM VIBHUTE,9975881390,Electrical Engineering ,Male,NULL,NULL,NULL,"AT POST VAIRAG, TAL BARSHI DIST SOLAPUR",10/4/1956,htv.lab@coep.ac.in,20-25507111,7/25/2014,633
+COEP,507910009,Vidya Baliram Kannav,9011072588,Accounts ,Female,NULL,NULL,NULL,"OM Swaroop,Gulmohar Colny,Kothrud,Pune-39",8/6/1956,accc@coep.ac.in,20-25507010,7/25/2014,633
+COEP,507917053,Vasant  Sopan  Tapkir,NULL,Applied Science,Female,NULL,NULL,NULL,"At Post Chovisawadi.Ch bk.,  ",6/1/1956,vst.meta@coep.ac.in,20-25507032,7/25/2014,633
+COEP,507917058,lalasaheb khanderao waghmare,9637390008,Civil Engineering ,Female,NULL,NULL,NULL,152 ranwade wada nr.gurudwara aundhgaon-7,6/1/1960,wlk.civil@coep.ac.in,20-25507041,7/25/2014,140
+COEP,508010019,NARAYAN ABAJI JADHAV,9860024772,Accounts ,Male,NULL,NULL,NULL,HOUSE NO-170 BAUDH VASTI SARVE NO-1 PASHAN PUNE-21,3/21/1956,coepoffice@naj.com,20-25507010,7/25/2014,633
+COEP,508017038,BABAN Maruti DEOKATE,9767133526,Physics,Male,NULL,NULL,NULL,At- Pimpri (Pethkar wadi) Tak & post Indapur  DIST. Pune.,6/8/1958,bmd.physics@coep.ac.in,2025507032,7/25/2014,140
+COEP,508117038,Dilip Laxman Bhambere,NULL,Metallurgy and Material Science ,Male,NULL,NULL,NULL,"Flat 10/7, apte colony,bhosari,pune-39",12/7/1961,dlb.meta@coep.ac.in,20-255077261,7/25/2014,633
+COEP,508204040,SHUBHASH RAMCHANDRA KAMBLE,9270672369,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"A/P MAJARI BUDRUK ,BHOI CHAL,TAL-HAVELI, DIST- PUNE",6/1/1959,srk.support@coep.ac.in,20-25507141,7/25/2014,633
+COEP,508205018,MAHENDRA LAXMAN KOSHTI,9595674935,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"COLLEGE OF ENGG,SERVENT QUARTERS,PUNE-411005",7/16/1961,sdc.instru@coep.ac.in,20-25507171,7/25/2014,633
+COEP,508210008,Nandkumar Vasant Siddhatekkar,NULL,Accounts ,Male,NULL,NULL,NULL,"34/280 Maharshinagar, Pune-37",6/20/1959,Sidd_co@yahoo.co.in,20-25507010,7/25/2014,633
+COEP,508217043,Dipak  Savkar   Agale,NULL,Applied Science,Female,NULL,NULL,NULL,"At.post : Salumbre,Tal : Maval,  Dist : Pune-412101,Maharastra  ",6/26/1961,dsa.meta@coep.ac.in,20-25507032,7/25/2014,633
+COEP,508217054,Audumbar  Chimaji  Gaikwad,NULL,Applied Science,Female,NULL,NULL,NULL,"Anand Niwas, 230, Mundhawa",6/1/1957,acg.meta@coep.ac.in,20-25507032,7/25/2014,633
+COEP,508308059,SALIM GAFUR SHAIKH,NULL,Production Engineering and Industrial Management,Female,NULL,NULL,NULL,"ROHAN APP SERVE NO 51/122, ROOM NO -15, BHAIRAV NAGAR, PUNE -15",6/1/1962,saikhsalim.prod@coep.ac.in,20-25507281,7/25/2014,633
+COEP,508417057,Balu  Shankar  Shevkari,NULL,Applied Science,Female,NULL,NULL,NULL,"Khandobacha Mal, Mukkam Post Chakan, Tal Rajgurunagar, Dist: Pune  ",1/4/1955,bss.meta@coep.ac.in,20-25507032,7/25/2014,633
+COEP,508504038,UTTAM KRUSHNA MUNGASE,9767791818,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"A/P KELGAO,AALANDI DEVACHI, TAL-KHED, DIST-PUNE",4/1/1957,ukm.support@coep.ac.in,20-25507141,7/25/2014,633
+COEP,508604034,Sunil Dattatraay Kavade,9763739750,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"Shewanta Appt . Dhayarigaon, Pune-41",12/27/1963,sdk.lab@coep.ac.in,20-25507141,7/25/2014,633
+COEP,508617038,TARABAI SHASHIKANT WALHEKAR,9960879339,Physics,Female,NULL,NULL,NULL,SURVEY NO. 23/9  VAGHMARE BUILDING DHANKAWDI BALAJINAGAR  PUNE-43,6/1/1958,tsw@coep.ac.in,2025507032,7/25/2014,140
+COEP,508617046,Ram Vishwanath Kale,9623727066,Mathematics ,Male,NULL,NULL,NULL,Ram V. Kale  C/O: Chandrashekhar Kalyan Shetty  1046/1  Vijaynagar  Ganesh Colony  Kalewadi  Pimpri  Pune-17  ,6/1/1967,hod.maths@coep.ac.in,2025507211,7/25/2014,138
+COEP,509004035,NANDA CHANDRAKANT DHIGHIKAR,9665928426,Electronics and TeleCommunication Engineering ,Female,NULL,NULL,NULL,"276 BUDHAWAR PETH,PUNE02",10/10/1962,ncd.support@coep.ac.in,20-25507141,7/25/2014,633
+COEP,509110006,RAVINDRA RAMCHANDRA ROKADE,NULL,Accounts ,Male,NULL,NULL,NULL,"Reva Complux  Sanjay Park, Lohagoan,Pune-32",5/19/1966,VIJAYCOEP@YAHOO.CO.IN,20-25507010,7/25/2014,633
+COEP,509117055,N. S. Bamane,NULL,Applied Science,Female,NULL,NULL,NULL,Engg College Servant Quarters Pune    ,9/16/1969,snb.meta@coep.ac.in,20-25507032,7/25/2014,633
+COEP,509207046,Nanda Sitaram Solanki,9822316275,Metallurgy and Material Science ,Female,NULL,NULL,NULL,,2/26/1969,nss.meta@coep.ac.in,20-255077261,7/25/2014,633
+COEP,509210007,Nirmala Bapu Ugale ,7276115082,Accounts ,Female,NULL,NULL,NULL,"Servant Quarters, Room No.7,COEP Hostel Campus,Shivajinagar Pune-05",10/7/1967,vijaycoep@yahoo.com,20-25507010,7/25/2014,633
+COEP,509308060,KANTARAM SHANKAR KADAM,7709412745,Production Engineering and Industrial Management,Male,NULL,NULL,NULL,"AT KAWADI MALWADI POST-MANJARI FARM, TQ - HAVELI, DIST. PUNE- 412307",6/1/1960,ksk.lab@coep.ac.in,20-25507281,7/25/2014,633
+COEP,509310014,SUNITA RAVINDRA JAGTAP,9763782543,Accounts ,Female,NULL,NULL,NULL,"D-408, AMAR SAMRUDDHI, NEAR AKASHWANI, HADAPSAR, PUNE0- 28",10/29/1966,jagtapsr@coep.office.org.in,20-25507010,7/25/2014,633
+COEP,509317051,Nandlal  Ganpat  Waikar,NULL,Applied Science,Male,NULL,NULL,NULL,"At.Post Daund , Pansare vasti, Daund, Nr tele.exachange   ",7/10/1971,ngw.meta@coep.ac.in,20-25507032,7/25/2014,633
+COEP,509404032,SANJIV MURLIDHAR KHOLLAM,9850874812,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"SNO.26,BOPODI,PUNE 411020,NEAR VISHAL PRO. STORE",2/13/1961,smk.support@coep.ac.in,20-25507141,7/25/2014,633
+COEP,509410013,RAMCHANDRA BHASKAR TAPASE,9373006741,Accounts ,Male,NULL,NULL,NULL,"68/2 B, Ramling Nagar, Bijapur Road, Solapur",8/1/1971,ramtapase@rediffmail.com,20-25507010,7/25/2014,633
+COEP,509417047,Mohan  Raghunath Kadu ,NULL,Applied Science,Female,NULL,NULL,NULL,"At. Post Wadgaon, Tal.Maval, Dist. Pune-412106  ",11/9/1969,kmr.meta@coep.ac.in,20-25507032,7/25/2014,633
+COEP,509504039,RAJESH GANGAPRASAD PARDESHI,9764356060,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"GOVT. QUATERS ROOM NO. 9, SHIVAJINAGAR PUNE 05",4/24/1971,rgp.support@coep.ac.in,20-25507141,7/25/2014,633
+COEP,509517041,Rajendra Baburao Ladkat,NULL,Applied Science,Female,NULL,NULL,NULL,"B4 flat,siddhivinayak kesher bldg,  431,Somwar peth ,Pune-411011  ",8/25/1966,rbl.meta@coep.ac.in,20-25507032,7/25/2014,633
+COEP,509517045,Bharat Sitaram WAGHMARE,9860805054,Physics,Male,NULL,NULL,NULL,Manaji Baug  Bhoite Chawl Bopodi Pune,6/1/1965,bsw.physics@coep.ac.in,2025507032,7/25/2014,140
+COEP,509517049,BAPU DADU BHALERAO,9822167498,Physics,Male,NULL,NULL,NULL,At Post Loni Kalbhor  Tal Haveli Pune-412201,6/1/1963,bdb.physics@coep.ac.in,2025507032,7/25/2014,138
+COEP,509617039,Rajeshree Mahadeo Mirgane,9689927195,Applied Science,Female,NULL,NULL,NULL,Nandadeep Colony  Nadhenagar Kalewadi  Pune 411017,6/15/1966,rmm.appsci@coep.ac.in,20-25507032,7/25/2014,633
+COEP,509704029,Dilip Aba Pise,9881331639,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"24/12, Sch 12 sec 21, nigadi 44",6/1/1961,dap.lab@coep.ac.in,20-25507141,7/25/2014,633
+COEP,509704030,Subhash Subhash Bamne,9422000152,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,167/37 PMC Colony Ghokale Nagar  Pune,6/19/1997,smb.lab@coep.ac.in,20-25507141,7/25/2014,633
+COEP,509704036,Kamlakar Sambhaji Waghmare,9325014378,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,"Mauli Appt. Wadgaon Sheri, Pune",6/2/1964,ksw.lab@coep.ac.in,20-25507141,7/25/2014,633
+COEP,509717040,GANESH KEDARNATH KASHID,9763659048,Applied Science,Male,NULL,NULL,NULL,1089 Raviwar Peth   Pune 411002,8/23/1963,gkk.appsci@coep.ac.in,20-25507032,7/25/2014,140
+COEP,509910010,Sangita Surendra More,9823256785,Accounts ,Female,NULL,NULL,NULL,"1210,kasba peth, pune-411011",5/2/1967,ssmoray@rediffmail.com,20-25507010,7/25/2014,633
+COEP,509910011,Madhuri Prashant Kamble,9823336454,Accounts ,Female,NULL,NULL,NULL,"Sr.No.32,Dr.P.K.Nagar, Bhagyarekha Bldg.Near Shani temple,Ambegoan,Bharati Vidyapeeth,Pune- 46",5/17/1972,mp1712@rediffmail.com,20-25507010,7/25/2014,633
+COEP,509917052,Sanjay  Haribhau  Hingne,NULL,Applied Science,Female,NULL,NULL,NULL,"At.post :Fhursungi,Tal: Haveli,  ",10/17/1965,shh.meta@coep.ac.in,20-25507032,7/25/2014,633
+COEP,509917058,SEEMA KISAN SALUNKE,NULL,Applied Science,Female,NULL,NULL,NULL,"C.O.E.P.QUARTER,SHIVAJINAGAR,PUNE-5",9/23/1973,kss.civil@coep.ac.in,20-25507032,7/25/2014,633
+COEP,510412008,Ramdas Baban Dhadwad,9922238176,Library ,Male,NULL,NULL,NULL,"Bhalekar Nagar, Pune 27",7/12/1971,rbd2329@rediffmail.com,20-25507191,7/25/2014,634
+COEP,511312013,rajesh balasaheb phalke,9096833899,Library ,Male,NULL,NULL,NULL,serve no 16 sahakar colony lokhandi pool road gondhale nagar hadapsar pune 28,3/16/1987,rajeshphalke07@gmail.com,20-25507191,7/25/2014,634
+COEP,511312014,devidas ganpat phonde,9011585530,Library ,Male,NULL,NULL,NULL,pimple gurav sath koti road omkar colony pune 27 ,6/1/1967,000000@gmail.com,20-25507191,7/25/2014,634
+COEP,511312015,sajed shaikh haji shaikh ,9503250372,Library ,Male,NULL,NULL,NULL,"at post sultanpura kandhar, tq kandhar dist nanded pin 431714",5/20/1989,shaikhsajedskh@gmail.com,20-25507191,7/25/2014,634
+COEP,517812004,Subhash Ganpat Sutar,9527333411,Library ,Male,NULL,NULL,NULL,"A/P Mamurdi  Tal Haveli, Dehuroad, Pune 412101",6/22/1956,liabrary3@coep.ac.in,20-25507191,7/25/2014,634
+COEP,518412002,Suman Bandu Nagane,NULL,Library ,Female,NULL,NULL,NULL,"Sadesatara nali,  Hadapsar, Pune  ",2/27/1953,library1@coep.ac.in,20-25507191,7/25/2014,634
+COEP,518412010,Gajanan Maruti Bhurke,9767897764,Library ,Male,NULL,NULL,NULL,"Radhika Sahavas Colony, Vadgaon BK,  Pune 47",1/1/1900,library10@coep.ac.in,20-25507191,7/25/2014,634
+COEP,519512001,Rahimtulla Shikandar Shaikh,8308312200,Library ,Male,NULL,NULL,NULL,"788, E ward, line bazar, kolhapur 6",2/1/1973,rahimtullashaikh01@gmail.com,20-25507191,7/25/2014,634
+COEP,519912003,Mahesh Bajirao Pasalkar,9922460330,Library ,Male,NULL,NULL,NULL,"Kondhawa Gate,  NDA. Khadakvasala, Pune 23",8/14/1971,library2@coep.ac.in,20-25507191,7/25/2014,634
+COEP,520411048,Rajani Namdeo Pol,9764073919,Establishment ,Female,NULL,NULL,NULL,2/41 pmc colony wakadewadi pune 3,7/8/1978,rnp.office@coep.ac.in,20-25507007,7/25/2014,133
+COEP,520511020,Sanjay Sudam Maral,32949924,Exam cell ,Male,NULL,NULL,NULL,At/po-Donje  Tal-Haveli  Dist.-Pune Pin-411041,6/1/1966,ssm.support@coep.ac.in,020-25507017,7/25/2014,3687
+COEP,520511030,Nitin Ramchandra Atik,9657116660,Establishment ,Male,NULL,NULL,NULL,"88/4, Gujrath Colony, Kothrud, Pune - 411029",5/13/1979,n_atikcoep@yahoo.in,20-25507007,7/25/2014,635
+COEP,520611032,Abhijeet Vijay Jadhav,9822267809,Establishment ,Male,NULL,NULL,NULL,"Flat No.31, Type III, Central Excise Colony, In front of Ruby Hospital, Sasoon Road, Pune-411001",1/3/1981,avj.office@coep.ac.in,20-25507007,7/25/2014,635
+COEP,520711033,Vinod Ganpat Mali,9730475892,Establishment ,Male,NULL,NULL,NULL,"College of Engineering Hostel Campus, Servant Quarters, Shivaji Nagar, Pune-411005",10/5/1988,192.vinod@gmail.com,20-25507007,7/25/2014,635
+COEP,520811055,Amit Chandrakant Bambale,9561176660,Establishment ,Male,NULL,NULL,NULL,"Survey No. 122, Behind PMC school,Sutarwadi Pashan, Pune -21",7/4/1988,amitbambale@gmail.com,20-25507007,7/25/2014,635
+COEP,520911035,Mahmad Razzak Shaikh,9370016020,Establishment ,Male,NULL,NULL,NULL,"Sr.No.130Dandekar Pool,Desai vitbhatti Near Pune 30",2/5/1966,mrs.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,520911039,Ramdas Babu Chavan,7350053224,Establishment ,Male,NULL,NULL,NULL,Yashvant Nagar Yerawada Bhosale Wasti Pune 6,8/15/1965,rbc.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,520911050,Laxmibai Prakash Pardeshi,9823574310,Establishment ,Female,NULL,NULL,NULL,"D.S.P. Banglow, Servant Quarters, Opp. Modern College, Shivajinagar, Pune 411005",5/8/1968,lpp.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,521214005,Amruta Nikhil Deshpande,9049236167,Gymkhana ,Female,NULL,NULL,NULL,"Flat B503, Silvermist, Rahatani, Pimple Saudagar, Pune 411 017",5/22/1987,amrutaparashar@rediffmail.com,20-25507066,7/25/2014,133
+COEP,521311070,namdeo shantaram bhavari,8275754702,Establishment ,Male,NULL,NULL,NULL,atpost gohe bk vitthalwadi tq ambegaon dist pune pin 410509,6/1/1983,bhawarinamdeo16@gmail.com,20-25507007,7/25/2014,635
+COEP,521311071,VIDYA UTTAM BHARATI,9011516701,Establishment ,Female,NULL,NULL,NULL,SUKHWANI CLASSIC FLAFT NO 22 OPPOSITE PODAR INTERNATIONAL SCHOOL CHINCHWAD GAON PUNE PIN 411033,6/18/1974,bharativ.office@coep.ac.in,20-25507007,7/25/2014,635
+COEP,521411068,vandana  vishnu yedage,9552685832,Establishment ,Female,NULL,NULL,NULL,,1/1/1979,vandanayedage8789@gmail.com,20-25507007,7/25/2014,635
+COEP,527411029,Baban Dinkar Taware,9921950758,Establishment ,Male,NULL,NULL,NULL,"College of Engineering Hostel, Room No.1, Servant Quarters, Pune -411005",2/27/1952,bdt.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,527411043,Namdeo Rangnath Choudhari,9730428910,Establishment ,Male,NULL,NULL,NULL,"Mundhwa, Keshavnagar, Shinde Vasti, Satyajyot Chowk, Pune-411036",3/1/1953,nrc.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,527811025,Prakash Sadashiv Bahirat,NULL,Establishment ,Female,NULL,NULL,NULL,coep servant Qutars Room No.06 Shivajinagar Pune 5,3/14/1959,psb.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,527911021,Suresh Dattu Chavan,NULL,Establishment ,Male,NULL,NULL,NULL,coep sarvant Qutars Room No.17  Shivajinagar Pune ,3/20/1960,sdc.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,528111034,Sant Bahadur Nepali,NULL,Establishment ,Male,NULL,NULL,NULL,COEP Servant Qutars Room NO.11 Shivajinagar Pune 5,3/25/1957,sbn.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,528311014,Mahadev Kondiba Dhawade,9850998484,Establishment ,Male,NULL,NULL,NULL,coep sarvant Qutars Room No.8 Hostel Campus Shivajinagar Pune 5,12/9/1963,dmk.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,528511013,Ganpat Kundlik Mali,9421017442,Establishment ,Male,NULL,NULL,NULL,"coep Hostel Campus,Room No.2 Shivaginagar Pune 5",9/3/1957,gkm.office@coep.ac.in,20-25507007,7/25/2014,635
+COEP,528511018,Samindrabai Mahadev Landge,NULL,Establishment ,Female,NULL,NULL,NULL,"Kawade Wadi, Koregaon Park, Pune 411001",4/19/1964,sml.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,528511019,Sambhaji Narayan Phadtare,9763614154,Establishment ,Male,NULL,NULL,NULL,"At/po -Kuse Gaon, Tal-Daund, Dist.Pune, Pin-412219",9/8/1961,snp.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,528611016,Abdul Ismail Shaikh,8698648544,Establishment ,Male,NULL,NULL,NULL,"S.No.26,Near Bhimjyot Mitra Mandal, Bopodi, Pune 411020",3/2/1958,ais.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,528611042,Balkrishna Daulat Kothari,9850603466,Establishment ,Male,NULL,NULL,NULL,coep servant Qutars Room No.4 Hostel Campus Shivajinagar Pune 5,6/1/1959,bdk.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,528711022,Kamalabai Gopichand Pangulkar,NULL,Establishment ,Female,NULL,NULL,NULL,"341/5, Kooldevata Soc., Niljyoti Appartment, Gokhale Nagar, Pune-411016",4/22/1957,kgp.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,528911037,Vilas Manik Varpe,8605860432,Establishment ,Female,NULL,NULL,NULL,coep Sarvent Qutars Room No.6 Hostel Campus Shivajinagar Pune 5,4/9/1966,vmv.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,529011026,Madhukar Tulsiram Wadware,9767204590,Establishment ,Male,NULL,NULL,NULL,"Soundraya Colony, A-12, Nakhate Vasti,Behind Aditya Multi Speciality Hospital, Rahatni, Pune - 411017",2/10/1952,mtv.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,529011046,Bhau Ganpat Lande,9209019020,Establishment ,Male,NULL,NULL,NULL,AT.Post.Tambad Tal.Bhor Dist Pune 06,5/15/1953,bgl.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,529111017,Kondibhau Damu Lokhande,9881504072,Establishment ,Male,NULL,NULL,NULL,AT. Siddheghavan Post.Bhaul Tal.Khed  Dist Pune ,6/1/1964,kdl.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,529211069,namdeo raghu rawate,NULL,Establishment ,Male,NULL,NULL,NULL,vishrant wadi dhanori munjaba vasti serve no 24/11 ganesh colony ganpati mandira jawal pune 15,6/2/1963,00000@gmail.com,20-25507007,7/25/2014,635
+COEP,529311045,Madhukar Ganpati Lad,9325562918,Establishment ,Male,NULL,NULL,NULL,Luxmi Nivas Malwadi Kalasgaon Post.Dighi Pune 15 ,5/15/1955,mgl.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,529711024,Vaibhav Sudam Sutar,9850690478,Establishment ,Male,NULL,NULL,NULL,"At/Po-Kesnand, Tal.-Haveli, Dist.-Pune, Pin-412207",12/24/1977,vss.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,529711028,Vittal Tukaram Patil,9604550334,Establishment ,Male,NULL,NULL,NULL,Kshitij App.B10 Vidya Nagar Sapras Khadki Pune 3,6/1/1961,vtp.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,529911008,Dilip Gulabrao Dodke,9657073549,Establishment ,Male,NULL,NULL,NULL,AT.Post. Jejuri Tal.Purandar Dist.Pune 412303,6/1/1961,dgd.office@coep.ac.in,20-25507007,7/25/2014,635
+COEP,529911015,Nandkumar Mahadev Kadam,7620476654,Establishment ,Male,NULL,NULL,NULL,coep sarvant Qutors Room No.20 COEP Campus Shivajinagar Pune 5,8/19/1964,nmk.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,529911044,Prakash Baburao Shinde,9623425477,Establishment ,Male,NULL,NULL,NULL,Coep Hostel Campus Room No 8.Shivajinagar Pune 5,12/1/1957,pbs.support@coep.ac.in,20-25507007,7/25/2014,635
+COEP,531005019,Jayesh Ashok Shinde,9096430496,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"Flat no:601,Umab Bldg, Mahalaxmi Nagar,Bibwewadi, Pune:411037",7/31/1985,jayesh.instru@coep.ac.in,20-25507171,7/25/2014,2668
+COEP,531005020,UMESH RAMESHLAL MUNOT,9423791237,Exam cell ,Male,NULL,NULL,NULL,Plot No. 24 A  Motinagar   Kedgaon   Ahmednagar,5/20/1987,umesh.instru@coep.ac.in,020-25507017,8/5/2016,2668
+COEP,531005028,ASHOK SHRIRAM KULKARNI,9689919217,Virtual Lab,Male,NULL,NULL,NULL,"B-5 Om Niketan Sever no 679/3B, Near Bharat Jyoti Bus Stop, Bibwewadi , Pune -37",11/7/1950,ask.vlab@coep.ac.in,99999,7/25/2014,2668
+COEP,531204044,Soumeel Ujjwal Chiplunkar,9028746137,Electronics and TeleCommunication Engineering ,Male,NULL,NULL,NULL,S. No. 52/26 A Maurya Garden A 10 Kothrud Pune ,10/31/1990,soumil.chiplunkar@gmail.com,20-25507141,7/25/2014,2668
+COEP,531217061,PRACHI DATTATRAY SHINDE,7385098203,Applied Science,Female,NULL,NULL,NULL,"NAMDEO NAGAR, VADGAON SHERI, PUNE",10/23/1988,prachishinde1988@rediffmail.com,20-25507032,7/25/2014,2668
+COEP,531302059,Dhairyashil Vasudeo Shevale,9665710465,MIS Department,Male,NULL,NULL,NULL,NULL,7/15/1988,shevale2020@coep.ac.in,7107,5/27/2016,2668
+COEP,531302062,SWATI SURESH SHINDE,9096041453,MIS Department,Female,NULL,NULL,NULL,NULL,2/8/1989,swatishinde89@gmail.com,7107,7/25/2014,2668
+COEP,531305031,Poonam Balkrishna Ushile,8149206442,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,"Flat no 6,Mayura society, near jai bhavani stop, paud road, kothrud ,pune",4/19/1989,poonamushile@gmail.com,20-25507171,7/25/2014,2668
+COEP,531305032,Shubhangi Bhanudas Nemade,9423566296,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,"1170/13B,Gitasmruti,Revenue colony,Shivajinagar,J.M.Road,Pune",2/20/1988,shubhangi.nemade@gmail.com,20-25507171,7/25/2014,2668
+COEP,531305033,Prashant Ashok Lokhande,8007221819,Virtual Lab,Male,NULL,NULL,NULL,"Shri Ramprasad ho. so.,Near parvati,Pune",3/22/1989,lokhande.prashant40@gmail.com,99999,7/25/2014,2668
+COEP,531305034,Gaurav Rajendra Kothawade,9028202163,Virtual Lab,Male,NULL,NULL,NULL,"Sect no.138/1 Nr.Vridhashram Grudwara Road,Walhekarwadi,  Akurdi,Pune-411033",10/4/1990,gkothawade4@gmail.com,99999,7/25/2014,2668
+COEP,531305035,Gokul Kautik Pawar,9766476931,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"se4ctor no. 138/1, Nr. Vrudhashram Gurudwara road,walhekarwadi, pune-411033",8/27/1986,gkpawar.pawar@gmail.com,20-25507171,7/25/2014,2668
+COEP,531305036,Harshal Pramod Chaudhari,9423411068,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"Flat no-5 Mitkar Bangalo, near Citiotel,Shivajinagar Pune",12/9/1987,hppc09@gmail.com,20-25507171,7/25/2014,2668
+COEP,531305037,Laxmikant Purushottam Kumbhare,8237001318,Virtual Lab,Male,NULL,NULL,NULL,"C/o. N.R.Kulkarni,  497/27, PCNT,Nigdi, Pune-44",6/18/1988,laxmikantpk@gmail.com,99999,7/25/2014,2668
+COEP,531305038,Pravin Shivaji Rasal,7276672832,Instrumentation and Control Engineering ,Male,NULL,NULL,NULL,"Shri.Dattatray marutiroa,SNO.138/1,Nr vrudhashram gurudwara Walhekarwadi,Chd/Pune-411033",2/10/1988,pravin.rasal1@gmail.com,20-25507171,7/25/2014,2668
+COEP,531305039,Sushil Vijay Medhe,9730276979,Applied Science,Male,NULL,NULL,NULL,"Monisha Niwas,opp.Vridha-Anand ashram,behind Akurdi railway station,chinchwad ,Pune",5/10/1989,sushil.medhe@gmail.com,20-25507032,7/25/2014,2668
+COEP,531317074,PANDURANG RAGHUNATH YADAV,7709976337,Applied Science,Male,NULL,NULL,NULL,AT POST  ARVI TAL- KOREGAON SATARA  415116,9/27/1989,pryadavphy@gmail.com,20-25507032,7/25/2014,2668
+COEP,531403045,SHANTARAM KISAN DOND,9270273316,Electrical Engineering ,Male,NULL,NULL,NULL,"CHEHEDI, NASHIK ROAD,422101",10/12/1987,shandond12@gmail.com,20-25507111,7/25/2014,2668
+COEP,531403046,PRASHANT NAMDEO GAWANDE,9158889581,Electrical Engineering ,Male,NULL,NULL,NULL,"1/A, SATYABODH HOUSING SOCIETY SUNDARBAG COLONY DAPODI PUNE 411012",12/7/1988,gawande.prashant@yahoo.com,20-25507111,7/25/2014,2668
+COEP,531403047,SHANTANU SHARAD RISBUD,9767527497,Electrical Engineering ,Male,NULL,NULL,NULL,"A-9, AVISHKAR GARDEN, SAHAKAR NAGAR NO.2 PUNE 9",6/6/1988,shantanu.risbud@gmail.com,20-25507111,7/25/2014,2668
+COEP,531403048,SATISH MADHUKAR  JADHAV,9970949048,Electrical Engineering ,Male,NULL,NULL,NULL,"BHIM KUNJ SOCIETY, MANGAL MURTI NAGAR, JAIL ROAD, NASHIK ROAD. NASHIK 422101",9/29/1986,satish.jadhav.29@gmail.com,20-25507111,7/25/2014,2668
+COEP,531405042,Shivani  Satish  Naik,9890229539,Instrumentation and Control Engineering ,Female,NULL,NULL,NULL,Emerson Export Engineering Centre  Emerson Tower  Matrix Complex  Near College of Engineering Pune  Shivajinagar  Pune - 411 005  India,3/7/1986,Shivani.Naik@Emerson.com,20-25507171,7/25/2014,2668
+COEP,540014001,Sadanand Surendra Gosavi,9850102966,Gymkhana ,Male,NULL,NULL,NULL,"342 Rasta Peth  Flat no. 10. 3 floor, Sharda Plaza  Pune 411011",4/16/1979,gosavi_sadanand@yahoo.com,20-25507066,7/25/2014,133
+COEP,541321057,Ramesh Malu Waghmare,8275453737,Exam cell ,Male,NULL,NULL,NULL,At-Kunki Po-Patoda(BK)Tal-jalkot Dist-Latur,12/11/1988,w.ramesh358@gmail.com,020-25507017,7/25/2014,3675
+COEP,541415002,satish ramdasji halde,9673048810,Training and Placement ,Male,NULL,NULL,NULL,c/o r k halde(ret.postman)gurudeo nagar digras tq digras dist yavatmal pin 445203  ,12/18/1984,satishhalde1812@gmail.com,20-25507147,7/25/2014,3675
+COEP,548601077,Anuradha Avinash Dharwadkar,9371053962,Civil Engineering ,Female,NULL,NULL,NULL,"Flat 11, Anand Terrace, Rambaug Colony, Paud Road, Pune 38",6/8/1957,anuradha.dharwadkar@gmail.com,20-25507041,7/25/2014,3675
+COEP,551221052,Shirish Narayanrao Hiswankar,9422702727,Exam cell ,Male,NULL,NULL,NULL,42 ramtara hos soc shahanoorwadi aurangabad 431005,4/29/1966,nanuhiswankar@gmail.com,020-25507017,7/25/2014,3687
+COEP,551221053,Gayatri Akshay Shinde,9765070170,Exam cell ,Female,NULL,NULL,NULL,B 702  Dsi Orchard  Near Hotel Govind Garden   Pimpale Saudagar  Pune 411027,10/28/1985,gayatri_examcell@coep.ac.in,020-25507017,7/25/2014,3687
+COEP,551221054,SURYAKANT KONDIBHAU LOKHANDE,9527016920,Exam cell ,Male,NULL,NULL,NULL,"SIDHEGAWHAN,BUHUL,  TAL KHED,  DIST PUNE",6/5/1989,examcell@coep.ac.in,020-25507017,7/25/2014,3687
+COEP,551321056,Suryakant Kondibhau Lokhande,9527016920,Exam cell ,Male,NULL,NULL,NULL,"At: Siddhegavan, Post: Bahul, Tal: Khed, Dist: Pune",6/5/1989,ecell@coep.ac.in,020-25507017,7/25/2014,3687
+COEP,551421058,pranita sunil musale,8605017573,Exam cell ,Female,NULL,NULL,NULL,188/2 ayodhya nagari b 15 wakad pune 57,4/24/1972,p.tej72@rediffmail.com,020-25507017,7/25/2014,3687
+COEP,561111036,chandrakant vishwambar vedpathak,9921196440,Establishment ,Male,NULL,NULL,NULL,gurudatta soc.triveni nagar post rupi nagar tal haveli dist pune 41,6/25/1964,cvv.support@coep.ac.in,20-25507007,7/25/2014,132
+COEP,561111040,Suvarna Balbhim Ranaware,9921158299,Establishment ,Female,NULL,NULL,NULL,Trishul soc. jyoti gardan saswad tal purandar dist pune,3/17/1973,sbr.support@coep.ac.in,20-25507007,7/25/2014,132
+COEP,561111041,Ujwala Hiraman Bhalerao,9922269305,Establishment ,Female,NULL,NULL,NULL,at post waghapur tal purandar dist pune,2/21/1978,uhb.support@coep.ac.in,20-25507007,7/25/2014,132
+COEP,561111052,Vivek Madhav Dhumal,7588943832,Establishment ,Male,NULL,NULL,NULL,At ranjanwadi post pangari tal.bhor dist pune ,10/2/1987,vivek.dhumal4@gmail.com,20-25507007,7/25/2014,132
+COEP,10910001,Snehal Pandurang Bansode,9960530079,Civil Engineering ,Female,NULL,NULL,NULL,NULL,9/10/1987,spb.civil@coep.ac.in,20-25507041,7/14/2014,133
+COEP,10810001,Nishchay Mhatre,7738141808,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,NULL,12/24/1988,nishchay.comp@coep.ac.in,20-25507091,1/1/2014,133
+COEP,411401091,Sariput Madhavrao Nawghare,9420321390,Civil Engineering ,Male,NULL,NULL,NULL,NULL,5/1/1981,smn.civil@coep.ac.in,20-25507041,7/14/2014,133
+COEP,411425050,Pravin Sayare,9372696857,Mathematics ,Male,NULL,NULL,NULL,NULL,5/24/1988,pps.maths@coep.ac.in,2025507211,7/24/2014,133
+COEP,31310001,Test,1231546565,Student Section ,Male,NULL,NULL,NULL,NULL,9/17/2014,test@coep.ac.in,20-25507062,9/17/2014,NULL
+COEP,411425052,Majithia Jatin Trikam,9545860090,Mathematics ,Male,NULL,NULL,NULL,NULL,8/8/1987,jtm.maths@coep.ac.in,2025507211,9/10/2014,133
+COEP,410826001,PRAKASH DASHARATH PANTAWANE,0,Planning ,Male,monalipantawane@gmail.com,,,"15, SAYALI, LAXMI NAGAR, OLD SANGAVI, PUNE - 27",6/8/1976,pdpantawane.prod@coep.ac.in,20-25507067,7/25/2014,133
+COEP,411401090,PIYUSHA SADANAND HIRPURKAR,0,Civil Engineering ,Female,,,,,5/16/1989,psh.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411401093,deepthi vijayakumar ,0,Civil Engineering ,Female,deepthinvijayakumar@gmail.com,,,,12/12/1982,dv.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411401094,rahul dinesh shukla,0,Civil Engineering ,Male,,,,,1/1/1986,rahulspa@gmail.com,20-25507041,7/25/2014,133
+COEP,411402063,RAHUL BALIRAM ADHAO,7276224050,Computer Engineering and Information Technology,Male,NULL,NULL,NULL,NULL,3/8/1989,rba.comp@coep.ac.in,20-25507091,8/14/2015,133
+COEP,411402064,JIGNESHBHAI MITHABHAI MANGUKIYA,0,Computer Engineering and Information Technology,Male,,,,"FLAT NO 3, MANOHAR SOCIETY, 40A BHAU PATIL ROAD, BOPODI PUNE. 411020",1/7/1990,jmm.comp@coep.ac.in,20-25507091,8/14/2015,133
+COEP,411402065,PREETI - KALE,0,Computer Engineering and Information Technology,Female,kalep.comp@coep.ac.in,,,"9, Aditya Residency,498 Parvati Road, Pune",1/5/1990,kalep.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411404054,VARADA POTNIS KULKARNI,0,Electronics and TeleCommunication Engineering ,Female,,,,,11/9/1985,varadapotnis@gmail.com,20-25507141,7/25/2014,133
+COEP,411406059,shrikant gajanan pawar,0,Mechanical Engineering ,Male,,,,,5/23/1951,sgp.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,411407051,pranay abhimanue bagde,9730776807,Metallurgy and Material Science ,Male,,,,,4/18/1988,pranaybagde@gmail.com,20-255077261,7/25/2014,133
+COEP,411408073,VAISHALI - PATANE,0,Production Engineering and Industrial Management,Female,patnev.prod@coep.ac.in,,,Production Dept COEP,7/16/1969,patanev14.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,411408074,balaji nagorao sontakke,0,Production Engineering and Industrial Management,Male,,,,,1/5/1979,sontakke.balaji@gmail.com,20-25507281,7/25/2014,133
+COEP,411417079,SANTOSH SUNILRAO FATALE,0,Applied Science,Male,,,,,5/25/1990,sfatale002@gmail.com,20-25507032,7/25/2014,133
+COEP,411417085,Pramod V Lele,0,Applied Science,Male,,,,"I 402, Park Express, Baner Balewadi Link Road,  Pune 411045",8/31/1955,pvl@gmail.com,20-25507032,7/25/2014,133
+COEP,411425051,shital dilip solanki,0,Mathematics ,Female,,,,,5/7/1987,sds.maths@coep.ac.in,2025507211,7/25/2014,133
+COEP,411428029,ASMITA KARTIKAY SAPRA BHARADWAJ,0,Applied Science,Female,bhardwaj.nandita@gmail.com,,,"A-302 Surobhi Enclave, Aundh, Nadraj Road Pune.",1/5/1977,ab345@cornell.edu,20-25507032,7/25/2014,133
+COEP,451301092,balaji rajkumar kalburge,0,Civil Engineering ,Male,,,,,5/3/1985,balaji.kalburge@gmail.com,20-25507041,7/25/2014,137
+COEP,461304056,dattatray jagannath kadam,0,Electronics and TeleCommunication Engineering ,Male,,,,,10/2/1975,kadamdj39@gmail.com,20-25507141,7/25/2014,138
+COEP,461317083,samadhan tukaram sarwale,0,Applied Science,Male,,,,Atp: methwade Tal:sangola ,11/23/1986,sts.lab@coep.co.in,20-25507032,7/25/2014,138
+COEP,461317086,Shubhangi Dhanaji Jadhav,0,Computer Engineering and Information Technology,Female,,,,"SHIVAJINAGAR, PUNE",6/30/1990,sdj.comp@coep.ac.in,20-25507091,7/25/2014,138
+COEP,461411072,amol prakashrao fande,0,Establishment ,Female,apfande@gmail.com,india,amravati,"morshi, amravati maharashtra, ",9/5/1988,apf.office@coep.ac.in,20-25507007,7/25/2014,138
+COEP,481303049,amey annasaheb more,0,Electrical Engineering ,Male,,,,,8/10/1985,aam.lab@coep.ac.in,20-25507111,7/25/2014,140
+COEP,481303050,ganesh yashwant pawar,0,Electrical Engineering ,Male,,,,,12/17/1978,gyp.lab@coep.ac.in,20-25507111,7/25/2014,140
+COEP,481303051,jaidatta babasaheb more,0,Electrical Engineering ,Male,,,,,11/5/1976,aa@gmail.com,20-25507111,7/25/2014,140
+COEP,481304055,LATA VIJAY BUNDELE,0,Electronics and TeleCommunication Engineering ,Female,,,,,6/1/1969,0000000000@GMAL.COM,20-25507141,7/25/2014,140
+COEP,481317081,prashant gajanan potdar,0,Applied Science,Male,,,,,12/2/1975,pgp.lab@coep.ac.in,20-25507032,7/25/2014,140
+COEP,488117084,dnyneshwar ramchandra kanade,0,Applied Science,Female,,,,,9/5/1958,bbb@gmail.com,20-25507032,7/25/2014,140
+COEP,50017080,deepak tukaram DESHPANDE,0,Applied Science,Male,,,,,3/31/1987,ddddd@gmail.com,20-25507032,7/25/2014,633
+COEP,50017082,aaaaa  ,0,Applied Science,Female,,,,,1/1/1900,aaa@gmail.com,20-25507032,7/25/2014,633
+COEP,501405045,Nikita Laxman Shinde,0,Virtual Lab,Female,gpgbiotech07@gmail.com,,,"7/25 Somwar Peth,Police Line.Pune",4/30/1991,shinde.nikita32@gmail.com,99999,7/25/2014,633
+COEP,531407052,vaishali sushil poddar,0,Metallurgy and Material Science ,Female,,,,,6/12/1981,vaishu_ultimate@yahoo.com,20-255077261,7/25/2014,2668
+COEP,531408069,mayur mohan sanas,0,Production Engineering and Industrial Management,Male,,,,,7/12/1990,mayur.sanas@gmail.com,20-25507281,7/25/2014,2668
+COEP,531408070,mayur mohan sanas,0,Production Engineering and Industrial Management,Male,,,,,7/12/1990,mds12m006@iiitdm.ac.in,20-25507281,7/25/2014,2668
+COEP,531408071,anjali rajan palliyil,0,Production Engineering and Industrial Management,Female,,,,,4/4/1991,anjalirmenon91@gmail.com,20-25507281,7/25/2014,2668
+COEP,531408072,mayur mohan sanas,0,Production Engineering and Industrial Management,Male,,,,,7/12/1990,amolsanas88@gmail.com,20-25507281,7/25/2014,2668
+COEP,451302066,NAVNEET DINANATH NAIK,0,Computer Engineering and Information Technology,Male,,,,"B-40, KESHAV HOUSING SOCUETY, BEHIND P.M.C. OFFICE,  DHANKAWADI, PUNE 411043",8/3/1991,navneet.comp@coep.ac.in,20-25507091,7/25/2014,137
+COEP,50004057,VINAY BHARAT NARAYANE,0,Electronics and TeleCommunication Engineering ,Male,,,,,2/21/1989,vinaynarayane21@gmail.com,20-25507141,7/25/2014,133
+COEP,501317087,NAVNEET DINANATH NAIK,0,Applied Science,Male,,,,"B-40,KESHAV HOUSING SOCIETY,NEAR PMC OFFICE, A/P DHANKAWDI",3/8/1991,ndn.comp@coep.ac.in,20-25507032,7/25/2014,633
+COEP,461401095,nilesh ashok more,0,Civil Engineering ,Male,,,,,1/16/1990,nmore17@yahoo.com,20-25507041,7/25/2014,138
+COEP,481409008,devendra vitthal khandzode,0,Administration ,Male,,,,,2/24/1993,devendrakhandzode@gmail.com,20-25507281,7/25/2014,140
+COEP,481409009,nima baban pacharne,0,Library ,Female,,,,,3/19/1986,jjjj@gmail.com,20-25507191,7/25/2014,140
+COEP,489702067,SURESH PIRAJI JADHAV,0,Establishment ,Male,,,,"Mukkam Chincholi, Post Dehuroad, Tal Haveli, Dist Pune",8/27/1968,jsp@yahoo.co.in,20-25507007,7/25/2014,140
+COEP,489802068,jayraj bhagwan dikav,0,Computer Engineering and Information Technology,Male,,,,,5/5/1966,mmm@gmail.com,20-25507091,7/25/2014,140
+COEP,531305057,Nilesh Ramrao Bedade,0,Virtual Lab,Male,,,,"Plot no.14, Walhekarwadi Road, Chinchwad, Pune 44",7/26/1988,nilesh_bedade@yahoo.co.in,99999,7/25/2014,2668
+COEP,531405046,Dattatray Ramachandra Salaskar,0,Virtual Lab,Male,,,,"C/o N  R Kulkarni, 497/27 Sector, Pradhikaran, PCNT, Pune 411044",1/26/1984,datta126@yahoo.co.in,99999,7/25/2014,2668
+COEP,531405047,Ravindra Suresh Rana,0,Instrumentation and Control Engineering ,Male,,,,"102, Sainakshatra Apt.Hinjewadi, Pune 411057",1/3/1989,ranaravindra08@gmail.com,20-25507171,7/25/2014,2668
+COEP,531405048,Shilpa Rajesh Ghavte,0,Virtual Lab,Female,,,,"D204, RoyalCasa,  Near Bhondave Corner, Raver, Pune 44",1/17/1991,pawar.shilpa17@gmail.com,99999,7/25/2014,2668
+COEP,531405049,Nilima Umeshrao Thigale,0,Virtual Lab,Female,,,,"Karansanskruti Flat 13, Kothrud, Pune ",9/22/1991,nuthigale@gmail.com,99999,7/25/2014,2668
+COEP,531405050,Vaibhav Rambhau Kurhe,0,Virtual Lab,Male,,,,"Raghuvansh Residency, Deshmukhwadi, Shivne, Pune 411023",5/27/1990,vaibhav.aniket82@gmail.com,99999,7/25/2014,2668
+COEP,531405051,Roshan R More,0,Virtual Lab,Male,,,,"Flat 104, A Wing, Kanishka Hights, Manish Nagar, Kalwa, Thane",12/26/1988,roshanmr77@gmail.com,99999,7/25/2014,2668
+COEP,531405052,Govind B Zinjan,0,Virtual Lab,Male,,,,"AT 12 Aai Apt. Walhekar wadi road, Chinchwad, Pune 411044",2/27/1992,govindzinjan.@gmail.com,99999,7/25/2014,2668
+COEP,531405053,Ashwini U Arjugade ,0,Virtual Lab,Female,,,,"Harawade Bldg. Shahu Colony, Lane 11, Karve Nagar, Pune 411052",11/2/1990,ashu2shreya@gmail.com,99999,7/25/2014,2668
+COEP,531405054,Shashikant Ranganathrao Kale,0,Virtual Lab,Male,,,,"24/11, Flat 11, Ganesh Darshan Apt., Shivaji Nagar, Pune 411005",6/28/1987,shashikantkale87@gmail.com,99999,7/25/2014,2668
+COEP,531405055,Suraj R Kumbhar,0,Instrumentation and Control Engineering ,Male,,,,"C-19, Nilesh Park, Sadesataranali Road, Malwadi, Hadapsar, Pune 28",5/21/1989,surajkumbhar07@gmail.com,20-25507171,7/25/2014,2668
+COEP,531405056,Anamay Madhav Kane,0,Virtual Lab,Male,,,,"A2/8, Shiv Villa, S No. 103, Bahiratwadi,  Off Senapati Bapat Rd, Pune 411016",9/7/1989,anamaykale@yahoo.com,99999,7/25/2014,2668
+COEP,531505058,Amol Ramachandra Nikam,8793058005,Virtual Lab,Male,NULL,NULL,NULL,NULL,5/26/1987,arn.vlab@coep.ac.in,99999,7/25/2014,2668
+COEP,411417088,poorva suhas kulkarni,0,Applied Science,Female,,,,,1/23/1986,emailpoorva@gmail.com,20-25507032,7/25/2014,133
+COEP,411502069,shikha vijay gupta,0,Computer Engineering and Information Technology,Female,,,,,2/5/1989,shikhagupta38@gmail.com,20-25507091,7/25/2014,133
+COEP,411502070,radhika amit adki,0,Computer Engineering and Information Technology,Female,radhika_hn@yahoo.co.in,India,Solapur,"14 guruwar peth , Samachar chowk , Solapur",5/18/1988,raa.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,461404058,bhalchandra narayan kulkarni,0,Electronics and TeleCommunication Engineering ,Male,,,,,12/10/1957,kbn@gmail.com,20-25507141,7/25/2014,138
+COEP,469404059,shashikant hanamant deshmukh,0,Electronics and TeleCommunication Engineering ,Male,,,,,2/5/1974,dsh@gmail.com,20-25507141,7/25/2014,138
+COEP,411507053,SHIRISH CHANDRAKANT BALI,0,Metallurgy and Material Science ,Male,,,,,5/15/1981,shirishbali@gmail.com,20-255077261,7/25/2014,133
+COEP,419902022,Vandana Shridhar Inamdar,0,Computer Engineering and Information Technology,Female,s.inamdar@zensar.com,,,"C-401 Suncity, Sinhagad Road, Anand nagar Pune-51",9/3/1967,vhj.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,41017060,pratibha prashantrao shingare,0,Applied Science,Female,,,,,5/27/1976,pps.extc@coep.ac.in,20-25507032,7/25/2014,133
+COEP,411417089,SHALAKA DILIP DESHPANDE,0,Applied Science,Female,,,,,6/29/1970,shalaka@aristotal.com,20-25507032,7/25/2014,133
+COEP,411507055,S.V.S.NARAYANA,0,Metallurgy and Material Science ,Male,,,,,11/4/1954,sriravana8294@yahoo.in,20-255077261,7/25/2014,133
+COEP,431408075,Deepak Narayan Dhiwar,0,Production Engineering and Industrial Management,Male,,,,,10/2/1974,ddn@gmail.com,20-25507281,7/25/2014,135
+COEP,441406060,nandakumar sukhdeo thorat,0,Mechanical Engineering ,Male,,,,,6/1/1962,nst@gmail.com,20-25507221,7/25/2014,136
+COEP,461307054,RAVINDRA ABAJI HUMBARE,0,Metallurgy and Material Science ,Male,,,,,6/1/1957,hra@gmail.com,20-255077261,7/25/2014,138
+COEP,461308076,rajendra gangaram rathod,0,Production Engineering and Industrial Management,Male,,,,,7/14/1970,rrg@gmail.com,20-25507281,7/25/2014,138
+COEP,461408077,ramdas bhanudas sutar,0,Production Engineering and Industrial Management,Male,,,,,4/4/1967,rbs@gmail.com,20-25507281,7/25/2014,138
+COEP,461408078,BALABHAU RAMRAO DESHMUKH,0,Production Engineering and Industrial Management,Male,,,,,5/24/1961,brd@gmail.com,20-25507281,7/25/2014,138
+COEP,501310021,vicky machhindra kamble,0,Accounts ,Male,,,,shivaji nagar pune,1/6/1991,kets485@gmail.com,20-25507010,7/25/2014,633
+COEP,501310022,leena ramesh moghe,0,Accounts ,Female,,,,,11/6/1975,leenamoghe@gmail.com,20-25507010,7/25/2014,633
+COEP,501411073,DAYANAND MARUTI LOHAR,0,Establishment ,Male,,,,,8/27/1973,dml@gmail.com,20-25507007,7/25/2014,633
+COEP,441007059,TANAJI BABURAO RUPNAR,0,Metallurgy and Material Science ,Male,,,,,6/1/1964,rtb@gmail.com,20-255077261,7/25/2014,136
+COEP,441301098,GOKUL MARUTI SONAWANE,0,Civil Engineering ,Male,,,,,10/20/1973,sonawanegm.civil@coep.ac.in,20-25507041,7/25/2014,136
+COEP,441307057,SHASHIKANT GURUSHANTPPA VIBHUTE,0,Metallurgy and Material Science ,Male,,,,,7/20/1957,vsg@gmail.com,20-255077261,7/25/2014,136
+COEP,441312016,ARJUN VITTHAL ANNAM,0,Library ,Male,,,,,11/9/1965,arjunannam70@gmail.com,20-25507191,7/25/2014,136
+COEP,460307058,DEEPAK SAVKAR AGALE,0,Metallurgy and Material Science ,Male,,,,,6/21/1961,deepakagale@gmail.com,20-255077261,7/25/2014,138
+COEP,461301099,DEVESH JAGDISHPRASAD DUBEY,0,Civil Engineering ,Male,,,,,10/22/1980,dubey.devesh@gmail.com,20-25507041,7/25/2014,138
+COEP,461303052,SUDHIR BHASKARRAO GANGAMASLEKAR,0,Electrical Engineering ,Male,,,,,2/15/1974,gsb@gmail.com,20-25507111,7/25/2014,138
+COEP,461307056,SACHIN RAMESH JADHAV,0,Metallurgy and Material Science ,Male,,,,,2/4/1989,sachinrjadhav89@gmail.com,20-255077261,7/25/2014,138
+COEP,461406061,BHAGWAN BAPURAO JADHAV,0,Mechanical Engineering ,Male,,,,,6/20/1985,bhagwanjadhav1985@gmail.com,20-25507221,7/25/2014,138
+COEP,461411074,AMOL PRAKASHRAO FANDE,0,Establishment ,Male,,,,,9/5/1988,vpfande@gmail.com,20-25507007,7/25/2014,138
+COEP,481301096,VANDANA VINESH SALUNKE,0,Civil Engineering ,Female,,,,,4/9/1983,salunkevandana2@gmail.com,20-25507041,7/25/2014,140
+COEP,481306062,ANIL RAMCHANDRA GHUME,0,Mechanical Engineering ,Male,,,,,7/15/1960,gar@gmail.com,20-25507221,7/25/2014,140
+COEP,481401097,VIJAY JAYRAM KEDARI,0,Civil Engineering ,Male,,,,,7/1/1982,kedarivijay@gmail.com,20-25507041,7/25/2014,140
+COEP,501210023,LATA MUKUND DIXIT,0,Accounts ,Female,,,,,10/18/1978,lmd.tequip@coep.ac.in,20-25507010,7/25/2014,633
+COEP,531403053,IRFANA JABBARA KAMATE,0,Electrical Engineering ,Female,,,,,7/23/1988,irfana.kamate@gmail.com,20-25507111,7/25/2014,2668
+COEP,531505059,Shantanu Gajanan JADHAV,0,Virtual Lab,Male,,,,"96, Gopalpura, Alandi Dewachi, Pune 412105",10/28/1988,shantanujadhav1988@gmail.com,99999,7/25/2014,2668
+COEP,531505060,Amit Ramdas Raijade,0,Virtual Lab,Male,,,,"109, Shreeprasad Smuti Apt, Bibwewadi, Pune 411037",6/13/1990,amitraijade@gmail.com,99999,7/25/2014,2668
+COEP,540115004,ANWAR LALMOHOMMAD SHAIKH,0,Training and Placement ,Male,,,,,6/13/1971,anwarshaikh1061@gmail.com,20-25507147,7/25/2014,3675
+COEP,441309010,SURYAKANT WAMANRAO MANE,0,Administration ,Male,,,,,7/1/1963,wsm0@gmail.com,20-25507281,7/25/2014,136
+COEP,480115003,MAHADEV ANANTA DHIWAR,0,Training and Placement ,Male,vashalidhiwar1@gmail.com,,,,2/6/1981,ajayadhiwar@yahoo.co.in,20-25507147,7/25/2014,140
+COEP,448511075,CHANDRAKANT RAMCHANDRA BAMBALE,0,Establishment ,Male,,,,,11/4/1965,bambalechandrakant@gmail.com,20-25507007,7/25/2014,136
+COEP,561411076,SHIVDARSHAN NILKANTH KHAJURE,0,Establishment ,Male,,,,"PLOT NO. 17-D, WARD NO. 06, ANAND NAGAR, KESHAVNAGAR, MUNDHWA, PUNE 411036",8/1/1963,ksn@gmail.com,20-25507007,7/25/2014,132
+COEP,561411077,SHIVDARSHAN NILKANTH KHAJURE,0,Establishment ,Male,,,,"PLOT NO. 17-D, WARD NO. 06, ANAND NAGAR, KESHAVNAGAR, MUNDHWA, PUNE 411036",8/1/1963,nsk00@gmail.com,20-25507007,7/25/2014,132
+COEP,561411078,MAHADEO SOPANRAO DOKE,0,Establishment ,Male,,,,,7/12/1965,dms00@gmail.com,20-25507007,7/25/2014,132
+COEP,441511080,RADHIKA MADHAV SHENDKAR,0,Establishment ,Female,,,,,10/25/1965,rm_shendkar@yahoo.co.in,20-25507007,7/25/2014,136
+COEP,461503054,VIVEK SURESH DUSANE,0,Electrical Engineering ,Male,,,,,2/8/1987,vsd.lab@coep.ac.in,20-25507111,7/25/2014,138
+COEP,461511079,VAISHALI ANKUSH KODAG,0,Establishment ,Female,,,,,7/6/1975,vaishali.office@coep.ac.in,20-25507007,7/25/2014,138
+COEP,411502071,Sheetal Devidas Rathod,0,Computer Engineering and Information Technology,Female,,,,"Plot No60,Shivaji Housing Society, Senapati Bapat Road, Pune 411016",9/24/1988,sdr.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411502072,Rohini Yogesh Sarode,0,Computer Engineering and Information Technology,Female,,,,,6/6/1989,rohini.sarode7@gmail.com,20-25507091,7/25/2014,133
+COEP,411502073,Asmita  Manna,0,Computer Engineering and Information Technology,Female,,,,"Flat-503, A wing, Shivam Majestica, S.No.127/1, Chaudhari park, Wakad, Pune-411057",1/14/1985,asmita.nag@gmail.com,20-25507091,7/25/2014,133
+COEP,411517093,Anup Atul Kale,0,Applied Science,Male,,,,,4/3/1980,aak.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,421517090,swapnil prakash shirsath,0,Applied Science,Male,,,,,4/27/1986,sps.appsci@coep.ac.in,20-25507032,7/25/2014,133
+COEP,451504060,Namdeo Vitthal Mahanawar,0,Electronics and TeleCommunication Engineering ,Male,,,,,5/20/1962,nvmahan@gmail.com,20-25507141,7/25/2014,137
+COEP,481517091,Shivaji Bajrang Bargale,0,Applied Science,Male,,,,,5/26/1986,shivajibargale@gmail.com,20-25507032,7/25/2014,140
+COEP,481517092,Santosh Dattatray Gaikwad,0,Applied Science,Male,,,,,5/2/1987,santoshgaikwad33333@gmail.com,20-25507032,7/25/2014,140
+COEP,511512017,rajaram bhaskar kamble,0,Library ,Male,,,,,5/9/1977,rajaram.kamble2012@gmail.com,20-25507191,7/25/2014,634
+COEP,511512018,Anita Laxmikant Despande,0,Library ,Female,,,,,7/10/1986,anita_deshpande@rediffmail.com,20-25507191,7/25/2014,634
+COEP,528111081,Sadanand Sukhdeo Patil,0,Establishment ,Male,,,,B 19 Sukhwani classic morwadi pimpari pune 411018,5/2/1962,sadapatil2562@gmail.com,20-25507007,7/25/2014,635
+COEP,531505061,Ganesh Baban Garje,0,Instrumentation and Control Engineering ,Male,,,,"Flat 1, Dhundiraj  Bldg., Sagar Society, Wakdewadi, Pune 411003",7/18/1989,ganesh18789@gmail.com,20-25507171,7/25/2014,2668
+COEP,531508079,SANDESH NARHARI PATIL,0,Production Engineering and Industrial Management,Male,,,,,6/24/1990,s.sandesh24061990@gmail.com,20-25507281,7/25/2014,133
+COEP,411501100,Shruti Madhav Vaishampayan,8806666506,Civil Engineering ,Female,,,,"301/B Collina Casa, Plot No. 114, Lulla Nagar, Pune 411040",11/3/1984,smv.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411501101,Amruta Prabhakar Khairnar,0,Civil Engineering ,Female,,,,"104, Golden Leaf Apartment, Veernjadra Nagar Pune 411045",10/18/1985,apk.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411502074,Nikita Vikas Mahajan,0,Computer Engineering and Information Technology,Female,anand.sadawarte@gmail.com,,,,9/18/1988,nv.mahajan18@gmail.com,20-25507091,7/25/2014,133
+COEP,411502075,Jagdish Kashinath Kamble,0,Computer Engineering and Information Technology,Male,,,,,4/15/1987,"jagdish750@gmail,com",20-25507091,7/25/2014,133
+COEP,411502076,Madhuri Appasaheb Aher,9975775284,Computer Engineering and Information Technology,Female,,,,,3/31/1987,maa.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,411502077,Snehal Shivaji Kulkarni,0,Computer Engineering and Information Technology,Female,,,,,4/30/1989,sk.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,481505062,Dattatray Keshav Mane,0,Instrumentation and Control Engineering ,Male,,,,,6/14/1970,dkmane70@gmail.com,20-25507171,7/25/2014,140
+COEP,481508080,vijaykumar Gunvantrao Patil,0,Production Engineering and Industrial Management,Male,,,,,3/1/1969,vgpatil@gmail.com,20-25507281,7/25/2014,140
+COEP,411517094,Yogesh Makarand Keskar,0,Civil Engineering ,Male,aryogesh@hotmail.com,India,Nashik,"Flat No.1, Dhankor Apts, Kalpataru Nagar, Ashoka Road, Nashik 422011",11/5/1986,ymk.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,411201078,Yogesh Makarand Keskar,9689709500,Civil Engineering ,Male,NULL,NULL,NULL,flat no.1 dhankor appt. kalpataru nagar ashoka road nashik.,11/5/1986,aryogesh@hotmail.com,20-25507041,8/6/2012,0
+COEP,431502078,Gauri Sudhir Shah,0,Computer Engineering and Information Technology,Female,,,,,7/23/1976,gaurishah.comp@coep.ac.in,20-25507091,7/25/2014,133
+COEP,481526007,Nilesh Ambadas Bijawe,0,Planning ,Male,,,,,11/11/1987,nilesh.bijawe5@gmail.com,20-25507067,7/25/2014,140
+COEP,561517095,Mrunali Balwant Patil,0,Applied Science,Female,,,,,6/24/1985,mrunali0101@ymail.com,20-25507032,7/25/2014,132
+COEP,461507061,Shantaram Kanhu Bhawari,0,Metallurgy and Material Science ,Male,,,,,8/2/1962,shantarambhawari@gmail.com,20-255077261,7/25/2014,138
+COEP,481507060,Bhushan Ambadas Ingole,0,Metallurgy and Material Science ,Male,,,,,4/12/1993,bhushaningole44@gmail.com,20-255077261,7/25/2014,140
+COEP,481511082,Dattu Baburao Kotule,0,Establishment ,Male,,,,,6/5/1989,dattu.kotule@rediffmail.com,20-25507007,7/25/2014,140
+COEP,481511084,Supriya Amol Besake,0,Establishment ,Female,,,,,10/4/1986,supriyabesake@gmail.com,20-25507007,7/25/2014,140
+COEP,481517096,Kakasaheb Aaparao Aaghade,0,Applied Science,Male,,,,,6/10/1993,kakasahebaaghade@gmail.com,20-25507032,7/25/2014,140
+COEP,540811083,Rajesh Maruti Kapase,0,Establishment ,Male,,,,,9/2/1983,rajeshmkapase@gmail.com,20-25507007,7/25/2014,3675
+COEP,541513005,Hemant Martand Dombale,0,Student Section ,Male,,,,,9/27/1982,dombale_hemant@rediffmail.com,20-25507062,7/25/2014,3675
+COEP,561525053,Kavita Anil Sable,0,Mathematics ,Female,,,,,4/26/1982,kavitasable5@gmail.com,2025507211,7/25/2014,132
+COEP,441511085,Amol Govind Unde,0,Establishment ,Male,,,,,4/30/1992,amolgunde@rediffmail.com,20-25507007,7/25/2014,136
+COEP,451506063,yogita Ganesh Bhambure,0,Mechanical Engineering ,Female,,,,,10/27/1980,ygb.mech@coep.ac.in,20-25507221,7/25/2014,137
+COEP,411601105,nikhil nayan vaiude,0,Civil Engineering ,Male,mangaonkar.priyanka@gmail.com,,,"a-10' shantiprasad soc,lane no-9 dhanukar colony,kotharud. 411038",10/18/1984,vaiude.nikhil@gmail.com,20-25507041,7/25/2014,133
+COEP,411606066,sanjay Davidas patil,0,Mechanical Engineering ,Male,sanjaypatil365@gmail.com,INDIA,DHULE,"PLOT NO 52, BHUJAL COLONY, NEAR TO KISAN PIPE FACTORY, MUMBAI AGRA EX. HIGHWAY,DEOPUR",8/12/1987,sap.mech@coep.ac.in,20-25507221,7/25/2014,133
+COEP,411628030,Omkar Gajanan parishwad,0,Planning ,Male,parishwad.omkar@gmail.com,INDIA,PUNE,"A8/17, KUMAR PADMALAYA, D.P. ROAD AUNDH, PUNE",5/7/1987,ogp.civil@coep.ac.in,20-25507067,7/25/2014,133
+COEP,421601103,Avanti Mallinath Anjungikar,8087623499,Civil Engineering ,Female,,,,,7/29/1990,ama.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,421601104,Vijay Bajirao Kakade,7709239733,Civil Engineering ,Male,,,,,8/28/1983,vbk.civil@coep.ac.in,20-25507041,7/25/2014,133
+COEP,421608081,Nilesh Krishna Dhavale,9665765533,Production Engineering and Industrial Management,Male,,,,,12/22/1989,nkd.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,451507062,Rubiya Rafik Patel,0,Metallurgy and Material Science ,Female,,,,,7/7/1989,rubiyarpatel@gmail.com,20-255077261,7/25/2014,137
+COEP,461306064,Prkash Laxman Rathod,0,Mechanical Engineering ,Female,,,,,7/13/1970,plrathod1970@gmail.com,20-25507221,7/25/2014,138
+COEP,461517097,Kacharu Haribhau Kale,0,Applied Science,Male,,,,,4/6/1980,kacharu.kale@gmail.com,20-25507032,7/25/2014,138
+COEP,481501102,Balaji Siddheshwar Salunke,0,Civil Engineering ,Male,,,,,6/5/1989,salunkebsur@gmail.com,20-25507041,7/25/2014,140
+COEP,481506065,Ramesh Keshav Gaikwad,0,Mechanical Engineering ,Male,,,,,4/6/1973,rkgaikwad.gps@gmail.com,20-25507221,7/25/2014,140
+COEP,481509011,Sangita Ramdas Shirsat,0,Administration ,Female,,,,,10/9/1992,ssshirsat@gmail.com,20-25507281,7/25/2014,140
+COEP,501517098,Prakash Tukaram Vitkar ,0,Applied Science,Male,,,,At-shindewadi post ambervet tal-mulshi pune-412108,2/10/1982,prakashvitkar@gmail.com,20-25507032,7/25/2014,633
+COEP,501617099,SAGAR MAHADEO KADAM,9765973709,Mechanical Engineering ,Male,NULL,NULL,NULL,NULL,12/13/1987,sak.mech@cope.ac.in,20-25507221,5/1/2016,133
+COEP,531505063,Malikarjun Maroti Rawale,0,Instrumentation and Control Engineering ,Male,,,,,10/10/1989,mmrawale10@gmail.com,20-25507171,7/25/2014,2668
+COEP,541511086,Dilip Hanumant Jadhav,0,Establishment ,Male,,,,,5/20/1976,djdilip7@rediffmail.com,20-25507007,7/25/2014,3675
+COEP,411607063,VILAS VISHNU GUNJAL,0,Metallurgy and Material Science ,Male,,,,"O-103,Akruti(Hubtown countrywoods) City, Off Katraj-Kondhwa Road, Tilekar nagar, Pune",10/5/1985,gunjalv.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,411607064,VAISHALI SUSHIL PODDAR,0,Metallurgy and Material Science ,Female,podiya14@gmail.com,,,"B-5, SARTHAK SOCIETY, KRISHNA NAGAR, VADGAON SHERI, PUNE-411014",6/12/1981,poddarp.meta@coep.ac.in,20-255077261,7/25/2014,133
+COEP,531402061,BHAGWAN BHASKAR SHINDE,9689683827,MIS Department,Male,NULL,NULL,NULL,NULL,5/5/1987,bhagwan1shinde@gmail.com,7107,4/3/2014,140
+COEP,411626010,Ravi SHRI.RAM.KISHAN Kant,9085596691,Production Engineering and Industrial Management,Male,shashikant529@gmail.com,,,"033,married scholar's hostel, iit guwahati-781039",10/17/1983,rk.prod@coep.ac.in,20-25507281,7/25/2014,133
+COEP,421626008,VICKY BALKISAN SARDAR,0,Planning ,Male,NA,,,"ST. MARY SCHOOL, NEAR DATTA MANDIR, VADGAON SHERI",3/24/1987,vickysardar243@gmail.com,20-25507067,7/25/2014,134
+COEP,461514007,Shashiraj raghunath patil,0,Gymkhana ,Male,,,,"morya,park.pimple gurav.pune- ",5/17/1982,shashirajpatil458@gmail.com,20-25507066,7/25/2014,138
+COEP,461601106,madhukar dattaray shinde,0,Civil Engineering ,Male,nill,,,"at-post undale,tal-karad,dist-satara-415111",2/27/1964,mds2721964@gmail.com,20-25507041,7/25/2014,138
+COEP,461602079,sopan balabhim parekar,0,Computer Engineering and Information Technology,Male,nill,,,"at-parekar wasti,[gokhali], post-bijawadi,tal- indapur,dist-pune-413106",6/1/1976,sbp.comp@coep.ac.in,20-25507091,7/25/2014,138
+COEP,461607066,SAGAR  dnyandev wanave,0,Metallurgy and Material Science ,Male,nillk,,,"at-post lakadi,tal-indapur,pune-413130",10/26/1990,sagarwanave27@gmail.com,20-255077261,7/25/2014,138
+COEP,481508082,satish namdev kalsait,0,Production Engineering and Industrial Management,Male,nill,,,"at-post bondle,tal-malshirs,solapur-413113.",1/11/1988,kalsaitsatish92@gamail.com,20-25507281,7/25/2014,140
+COEP,481508083,suraj sonaba thombre,0,Production Engineering and Industrial Management,Male,nill,,,"at-handalwadi,post-kedgoan,tal-dund,pune-412203.",11/15/1976,thombresuraj123@gamil.com,20-25507281,7/25/2014,140
+COEP,521611087,Chhaya Ashok HAgare,0,Establishment ,Female,,,,"house no-2379,pune saswad road 176 dhamalwadi,bhekarai nager fursungi pune412308",4/4/1977,nill,20-25507007,7/25/2014,635
+COEP,531607065,PRIYANKA KRISHANA LALGE,0,Metallurgy and Material Science ,Female,ravibande@gmail.com,,,"SHAKTI,NEAR GANGA HEIGHTS,BELTHIKANAGAR,THERGAON-CHINCHWAD,PUNE-411033",10/14/1988,lalgepriyanka1410@gmail.com,20-255077261,7/25/2014,2668
+COEP,531617100,Palak Anil Gupta Gupta,0,Applied Science,Female,anilguptaiitr@gmail.com,,,"Z-704, Cosmos, Magarpatta City, Pune",2/10/1994,palakg.gupta@gmail.com,20-25507032,7/25/2014,2668
+COEP,531626009,SHRAVANI RAJENDRA BARKUND,0,Planning ,Female,swati.barkund@gmail.com,,,"C-9/12, Sarita Nagari Phase II, Behind Aditya Nakoda, Sinhagad Road, Pune 411030",7/5/1993,shravani.barkund@gmail.com,20-25507067,7/25/2014,2668
+COEP,541506100,vilas keshav yadav,0,Mechanical Engineering ,Male,nill,,,"106'guruvishwa'hights'yashwant,colony,a-2,vidyanagar,karad.415124.",6/1/1962,yadavvk.support@coep.ac.in,20-25507221,7/25/2014,3675
+COEP,541517099,Kanchan Balchandra Bhosale ,0,Applied Science,Female,nill,,,"saroday,co-soc,room no-32,mundhawa,pune-36.",3/10/1964,kbb.office@coep.ac.in,20-25507032,7/25/2014,3675
+COEP,541611088,pradip prakash bhosale,0,Establishment ,Male,,,,"at-post velu,tal-bhor,dist-pune-412205",2/27/1988,pradip.teqip@coep.ac.in,20-25507007,7/25/2014,3675
+COEP,411602080,Pragati  Agrawal,0,Computer Engineering and Information Technology,Female,piyush291988@gmail.com,,,"c-202 greenfield society, near mundhwa bridge, hadapsar, Pune- 411028",12/25/2016,pragati.a.in@ieee.org,20-25507091,7/25/2014,133
+COEP,411602081,Sonal Pankaj Dubey Dubey,0,Computer Engineering and Information Technology,Female,,,,"D-801, Windwards Society, Kaspate Wasti, Wakad, Pune, Maharahtra",5/14/1990,ersonaldubey@gmail.com,20-25507091,7/25/2014,133
+COEP,411602082,Kalyani Ravindra M. Mali D R,0,Computer Engineering and Information Technology,Female,,,,"1127, Parvati Niwas, Udyam Bank Lane, Hingne Khurd, Sinhagad Road, Pune - 411051",8/5/1991,udaan.kalyani@gmail.com,20-25507091,7/25/2014,133
+COEP,411602083,Avinash Rajendra Kshirsagar,0,Computer Engineering and Information Technology,Male,rajanbksagar@gmail.com,,,"Madhuvanti T-502, Nanded City,Sinhagad Road, Pune - 411041",5/23/1990,avikshirsagar09@gmail.com,20-25507091,7/25/2014,133
+COEP,411602084,Tushar Hansdas Bhotmange,0,Computer Engineering and Information Technology,Male,,,,"C/O Ajit Penter, D-13, Shankar Chayya Society, near Mhatre Bridge, Erandawana, Nal Stop, Pune - 04",9/16/1990,tushar.janeev@gmail.com,20-25507091,7/25/2014,133
+COEP,411607067,Saurabh Sanjay Nene,0,Metallurgy and Material Science ,Male,nenesaurabh@gmail.com,India,Pune,"Bhaskar Apartment,Subhash Nagar,pune-411 002",5/27/1988,Nenesaurabh@gmail.com,20-255077261,7/25/2014,133
+COEP,411603056,Bhagyashri Rajendra Tamhane,0,Electrical Engineering ,Female,rbtamhane1953@gmail.com,,,"7, Shrinath Darshan, Sanewadi, Aundh, Pune 411007",2/25/1987,t_bhagyashri@yahoo.co.in,20-25507111,7/25/2014,133
+COEP,411603057,Trupti Prasanna Hinge,0,Electrical Engineering ,Female,prasanna.writeto@gmail.com,,,"C-706, Sonigara Vihar, Adarsh nagar, Kalewadi, Pune",4/1/1983,hande.tru@gmail.com,20-25507111,7/25/2014,133
+COEP,412712001,Anagha Uday Khiste,NULL,IIIT Pune,NULL,NULL,NULL,NULL,NULL,NULL,NULL,21545454,8/10/2016,133
+COEP,412712003,Satish Kumar Mandal,9614166164,IIIT Pune,Male,NULL,NULL,NULL,NULL,6/17/1984,satishkumar.physics@coep.ac.in,21545454,7/29/2016,133
+COEP,412712004,Sourabh Shrivastava,NULL,IIIT Pune,NULL,NULL,NULL,NULL,NULL,NULL,NULL,21545454,8/10/2016,133
+COEP,411601109,shailesh tanaji jadhav,0,Civil Engineering ,Male,,,,"at-post.medha,tal-jaoli,dist-satara,pin-415012",10/26/1988,shaileshtjadhav@gmail.com,20-25507041,7/25/2014,133
+COEP,411603055,Trupti Prasanna Hinge,0,Electrical Engineering ,Female,prasanna.writeto@gmail.com,,,"C-706, Sonigara Vihar, Adarsh Nagar, Kalewadi, Pune",4/1/1983,truptihinge1@gmail.com,20-25507111,7/25/2014,133
+COEP,411603058,sachin gopal argade,0,Electrical Engineering ,Female,,,,"c-408,ruturang apartment, kothrud,pune-411038",3/20/1980,sga16.electrical@coep.ac.in,20-25507111,7/25/2014,133
+COEP,411604061,sushil babaraoji ronghe,0,Electronics and TeleCommunication Engineering ,Male,,,,"at-post,borda, tal-teosa,dist-amravati-444709",9/30/1990,sbr.extc@coep.ac.in,20-25507141,7/25/2014,133
+COEP,411604062,Preethi S V S S N V G K Murthy Medukonduru,0,Electronics and TeleCommunication Engineering ,Female,sgkmurthy@gmail.com,,,"Qtr P-234/4, Type 5, DIAT, Girinagar, Pune -411025",3/1/1979,preethimedu@gmail.com,20-25507141,7/25/2014,133
+COEP,411604063,Sushama  Deepak  Shelke ,0,Electronics and TeleCommunication Engineering ,Female,,,,"Flat no. 7, Shreerang Heights, Near Rajaram GAs Agency, Katraj, Pune-411046.",12/14/1977,shelke.sushama@gmail.com ,20-25507141,7/25/2014,133
+COEP,411625054,Anagha Uday Khiste,0,Mathematics ,Female,,,,"C/o Mr. Ganesh N. Tarte  C-27/17, Dwarka City, Mahalunge(Ingale), Talegaon-Chakan Raod, Tal. Khed. Dist Pune. Pin-410501",4/2/1987,avanikhiste@gmail.com,2025507211,7/25/2014,133
+COEP,441609012,sudhir dattatry  bhokare,0,Administration ,Male,,,,"govt quarters,room no-3 college of engineering pune-5. ",5/3/1968,sudhir68.gmail.com.,20-25507281,7/25/2014,136
+COEP,449917101,laxman shankar gaikwad,0,Applied Science,Male,,,,"at-post,susgaon,tal-mulshi,dist-pune-410021",6/2/1970,lsg.office@coep.ac.in,20-25507032,7/25/2014,136
+COEP,461411090,hanument raosaheb jadhav,0,Establishment ,Female,,,,"at/post-undwadi,tal-baramati,dist-pune,413102.",9/12/1985,ganhanjad@rediffmail.com,20-25507007,7/25/2014,138
+COEP,461601107,rohit vijaykumar deshmukh,0,Civil Engineering ,Male,,,,"at-flat-20,a wing,zhambre heritage,chavan nagar,dhankawadi pune-43.",9/4/1987,rohitdeshmukh4687@gmail.com,20-25507041,7/25/2014,138
+COEP,461601108,bhagawan kanhu degade,0,Civil Engineering ,Male,,,,"at-post bavdhan,ta-mulshi pune-21",9/4/1965,bkdagade9216@gamil.com.   ,20-25507041,7/25/2014,138
+COEP,461602086,rahul lahu gaikwad,0,Computer Engineering and Information Technology,Female,,,,"flot no-405,mauli appt,malwadi,vadgoan sheeri,pune-",4/22/1989,gaikwadrl22@gmail.com,20-25507091,7/25/2014,138
+COEP,501617102,prashat nill kumar,0,Applied Science,Male,,,,"row house.no b-08 silver orchard,wakad pune-411057",12/15/1945,pk.mech@coep.ac.in,20-25507032,7/25/2014,633
+COEP,531302085,SUSHANT SHIVAJIRAO KULKARNI,0,Computer Engineering and Information Technology,Male,umesh.examcell@coep.ac.in,,,Kalyani Nagar Pune,8/10/1986,sushskulkani@gmail.com,20-25507091,7/25/2014,2668
+COEP,541611089,dilip baban hivarkar,0,Establishment ,Male,,,,"bhosale village,phursungi,tal-haveli,dist-pune-412308",5/7/1974,dilip.hivarkar74@gmail.com,20-25507007,7/25/2014,3675
+COEP,412712005,Shweta Ghodeswar,9969043053,IIIT Pune,Female,NULL,NULL,NULL,NULL,3/9/1987,shwetag.iiitp@coep.ac.in,21545454,8/25/2016,NULL
+COEP,412712005,Shweta Ghodeswar,9969043053,IIIT Pune,Female,NULL,NULL,NULL,NULL,3/9/1987,shwetag.iiitp@coep.ac.in,21545454,8/5/2016,133
+COEP,412712002,Rukhsheen Neville Vajifdar,9860462575,IIIT Pune,Female,NULL,NULL,NULL,NULL,12/3/1991,NULL,21545454,8/1/2016,133
+COEP,411625055,meena popat more,0,Mathematics ,Female,,,,"ganarj residency,s-4 A- wing,lane no.13,tingrenager,pune-411032.",2/1/1979,meenamores@gamil.com,2025507211,7/25/2014,133

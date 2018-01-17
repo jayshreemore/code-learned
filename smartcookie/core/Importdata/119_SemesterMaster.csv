@@ -1,0 +1,11 @@
+SchoolID, BranchID, SemesterID, SemesterName, SemesterCredit, IsRegularSemester, BranchName, DepartmentName, CourseLevel, Class, IsEnabled
+119,1,1,Semester I,,1,PHP,Software,In House,,1
+119,2,2,Semester I,,1,Android,Software,In House,,1
+119,3,3,Semester I,,1,IOS,Software,In House,,1
+119,4,4,Semester I,,1,DOTNET,Software,In House,,1
+119,5,5,Semester I,,1,Testing,Software,In House,,1
+119,6,6,Semester I,,1,PHP,Software,Client,,1
+119,7,7,Semester I,,1,Android,Software,Client,,1
+119,8,8,Semester I,,1,IOS,Software,Client,,1
+119,9,9,Semester I,,1,DOTNET,Software,Client,,1
+119,10,10,Semester I,,1,Testing,Software,Client,,1

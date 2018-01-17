@@ -1,0 +1,4 @@
+SchoolID,DegreeID,DegreeName,DegreeCode,CourseLevel
+ICAI-PUN,1,ICWA,1001,INTERMEDIATE
+ICAI-PUN,1,ICWA,1001,Foundation
+ICAI-PUN,1,ICWA,1001,Final

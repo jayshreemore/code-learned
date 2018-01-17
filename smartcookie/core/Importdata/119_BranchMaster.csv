@@ -1,0 +1,6 @@
+SchoolID, BranchID, Branch, Specialization, Duration, IsEnabled, DepartmentName, CourseName
+119,1,PHP,,,1,Software,
+119,2,Android,,,1,Software,
+119,3,IOS,,,1,Software,
+119,4,DOTNET,,,1,Software,
+119,5,Testing,,,1,Software,

@@ -1,0 +1,15 @@
+SchoolID, TeacherID, SubjectID, SubjectCode, SubjectName, YearID, DivisionID, Division, SemesterID, Semester, BranchID, Branch,DepartmentID, Department, CourseLevel, AcademicYear
+COEP,4198005007,406,IPI-11004,PG_Lab1,10,4290,Div-1,51,Semester I,18,Instrumentation and Control Engineering,5,Instrumentation and Control Engineering ,PG,2014
+COEP,4198005007,407,IPI-11005,Seminar,10,4290,Div-1,51,Semester I,18,Instrumentation and Control Engineering,5,Instrumentation and Control Engineering ,PG,2014
+COEP,4198005007,408,LL-11001,Liberal Learning Course,10,4290,Div-1,51,Semester I,18,Instrumentation and Control Engineering,5,Instrumentation and Control Engineering ,PG,2014
+COEP,4198005007,501,IE-12001,Transducers I,11,4290,Div-1,72,Semester III,6,Instrumentation and Control Engineering ,5,Instrumentation and Control Engineering ,UG,2015
+COEP,4198005007,1208,IBI(DE)-12002,Embedded Systems,11,4290,Div-1,96,Semester II,18,Instrumentation and Control Engineering,5,Instrumentation and Control Engineering ,PG,2015
+COEP,4198005007,812,IPI(DE)-15002,Process Modeling and Optimization,11,4290,Div-1,97,Semester II,30,Instrumentation and Control Engineering,5,Instrumentation and Control Engineering ,PG,2015
+COEP,4198005007,1209,IPI(DE)-12001,Embedded Systems,11,4290,Div-1,97,Semester II,30,Instrumentation and Control Engineering,5,Instrumentation and Control Engineering ,PG,2015
+COEP,4198005007,1338,IE-16001,Computational Techniques Laboratory,12,4290,Div-1,72,Semester III,6,Instrumentation and Control Engineering ,5,Instrumentation and Control Engineering ,UG,2016
+COEP,4198005007,1397,IE-13002,Microcontroller Techniques and its Applications,12,4290,Div-1,164,Semester V,6,Instrumentation and Control Engineering ,5,Instrumentation and Control Engineering ,UG,2016
+COEP,4198005007,1401,IE-13006,Microcontroller Techniques and its Applications Laboratory,12,4290,Div-1,164,Semester V,6,Instrumentation and Control Engineering ,5,Instrumentation and Control Engineering ,UG,2016
+COEP,4198005007,1714,IE-16014,Numerical Methods Laboratory,12,4290,Div-1,128,Semester IV,6,Instrumentation and Control Engineering ,5,Instrumentation and Control Engineering ,UG,2016
+COEP,4198005007,1208,IBI(DE)-12002,Embedded Systems,12,4290,Div-1,96,Semester II,18,Instrumentation and Control Engineering,5,Instrumentation and Control Engineering ,PG,2016
+COEP,4198005007,812,IPI(DE)-15002,Process Modeling and Optimization,12,4290,Div-1,97,Semester II,30,Instrumentation and Control Engineering,5,Instrumentation and Control Engineering ,PG,2016
+COEP,4198005007,1209,IPI(DE)-12001,Embedded Systems,12,4290,Div-1,97,Semester II,30,Instrumentation and Control Engineering,5,Instrumentation and Control Engineering ,PG,2016

@@ -1,0 +1,2 @@
+SchoolID, DepartmentCode, DepartmentName, DepartmentID, EstablimentYear, PhoneNo, FaxNo, EmailID, IsEnabled
+BPSITS,2101,IT,70,2008,,,,

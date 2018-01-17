@@ -1,0 +1,45 @@
+SchoolID, TeacherID, SubjectID, SubjectCode, SubjectName, YearID, DivisionID, Division, SemesterID, Semester, BranchID, Branch,DepartmentID, Department, CourseLevel, AcademicYear
+SARASWATI,2013,1ST1,1ST1,COMPUTER FUNDAMENTALS,2016,101,Div 1,2011,BCA I - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2012,1ST2,1ST2,C PROGRMMING,2016,101,Div 1,2011,BCA I - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2016,1ST3,1ST3,DIGITAL TECNIQUES,2016,101,Div 1,2011,BCA I - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2014,1ST4,1ST4,NUMERICAL METHODS,2016,101,Div 1,2011,BCA I - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2015,1ST5,1ST5,DISCREATE MATHEMATICS,2016,101,Div 1,2011,BCA I - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2011,3ST1,3ST1,DATA STRUCTURE,2016,101,Div 1,2013,BCA II - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2014,3ST2,3ST2,OBJECT ORIENTED PROGRAMMING WITH C++,2016,101,Div 1,2013,BCA II - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2015,3ST3,3ST3,DATA BASE MANAGEMENT SYSTEM,2016,101,Div 1,2013,BCA II - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2012,3ST4,3ST4,ADVANCE OPERATING SYSTEM,2016,101,Div 1,2013,BCA II - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2016,3ST5,3ST5,ELECTRONICS,2016,101,Div 1,2013,BCA II - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2011,5ST1,5ST1,CORE JAVA,2016,101,Div 1,2015,BCA III - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2012,5ST2,5ST2,NETWORK SECURITY,2016,101,Div 1,2015,BCA III - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2013,5ST3,5ST3,SOFTWARE ENGINEERING,2016,101,Div 1,2015,BCA III - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2015,5ST4,5ST4,COMPUTER GRAPHICS,2016,101,Div 1,2015,BCA III - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,2014,5ST5,5ST5,E-COMMERECE,2016,101,Div 1,2015,BCA III - SEM 1,201,BCA,373,Department of Bachelor  of Computer Application,UG,2016-17
+SARASWATI,3015,101,101,Principles of Economics,2016,101,Div 1,3011,BBA I - YEAR 1,301,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3016,102,102,Commercial Law,2016,101,Div 1,3011,BBA I - YEAR 1,301,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3012,103,103,Business Communication,2016,101,Div 1,3011,BBA I - YEAR 1,301,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3013,104,104,Fundamentals of Accounting,2016,101,Div 1,3011,BBA I - YEAR 1,301,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3017,105,105,Business Statistics,2016,101,Div 1,3011,BBA I - YEAR 1,301,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3011,106,106,Principles of Business Management,2016,101,Div 1,3011,BBA I - YEAR 1,301,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3011,107,107,Computer Fundamentals & Problems Solving.,2016,101,Div 1,3011,BBA I - YEAR 1,301,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,2016,108,108,Business Mathematics,2016,101,Div 1,3011,BBA I - YEAR 1,301,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3015,301,301,Management Accounting,2016,101,Div 1,3012,BBA II - YEAR 2,302,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3011,302,302,Marketing Management,2016,101,Div 1,3012,BBA II - YEAR 2,302,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3012,303,303,Personnel Management,2016,101,Div 1,3012,BBA II - YEAR 2,302,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3013,304,304,Cost Accounting,2016,101,Div 1,3012,BBA II - YEAR 2,302,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3014,305,305,Direct Tax Law,2016,101,Div 1,3012,BBA II - YEAR 2,302,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3014,306,306,Auditing,2016,101,Div 1,3012,BBA II - YEAR 2,302,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3011,307,307,Enterpreneurship,2016,101,Div 1,3012,BBA II - YEAR 2,302,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3012,308,308,Computer Applications,2016,101,Div 1,3012,BBA II - YEAR 2,302,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3012,501,501,Indian Economics,2016,101,Div 1,3013,BBA III - YEAR 3,303,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3013,502,502,Company Accounts,2016,101,Div 1,3013,BBA III - YEAR 3,303,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3016,503,503,Industrial Laws,2016,101,Div 1,3013,BBA III - YEAR 3,303,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3014,504,504,Company Management & Secretarial Practice,2016,101,Div 1,3013,BBA III - YEAR 3,303,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3012,505,505,Investment Management,2016,101,Div 1,3013,BBA III - YEAR 3,303,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3011,506,506,Sales & Advertising Management,2016,101,Div 1,3013,BBA III - YEAR 3,303,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3011,507,507,Economics and other Legislations,2016,101,Div 1,3013,BBA III - YEAR 3,303,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,3012,508,508,Business Data Processing,2016,101,Div 1,3013,BBA III - YEAR 3,303,BBA,373,Department of Bachelor  of Business Administration,UG,2016-17
+SARASWATI,1013,3MCA1,3MCA 1,Operating Systems,2016,101,Div 1,1013,MCA II - SEM 1,101,MCA,372,Department of Master of Computer Application,PG,2016-17
+SARASWATI,1012,3MCA2,3MCA 2,File Structure & Data Processing,2016,101,Div 1,1013,MCA II - SEM 1,101,MCA,372,Department of Master of Computer Application,PG,2016-17
+SARASWATI,1011,3MCA3,3MCA 3,Java Programming,2016,101,Div 1,1013,MCA II - SEM 1,101,MCA,372,Department of Master of Computer Application,PG,2016-17
+SARASWATI,1014,3MCA4,3MCA 4,Computer Networks,2016,101,Div 1,1013,MCA II - SEM 1,101,MCA,372,Department of Master of Computer Application,PG,2016-17
+SARASWATI,1012,3MCA5,3MCA 5,Computer Oriented Optimization Techniques,2016,101,Div 1,1013,MCA II - SEM 1,101,MCA,372,Department of Master of Computer Application,PG,2016-17

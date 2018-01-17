@@ -1,0 +1,5 @@
+SchoolID, EmployeeRegCode, EmployeeName, Mobile, Dept Name, Gender, Email ID, Country, Permanent Address, DOB, IntEmail, PhoneNo, AppointmentDate,EmployeeType
+BPSITS,5305,Monika Mane,7588469850,IT,Female,monikam@roseland.com,India,Pune,12-08-1990,monikam@roseland.com,7588469850,,133
+BPSITS,5306,Reshma Karande,7757037348,IT,Female,reshmak@roseland.com,India,Pune,11-11-1990,reshmak@roseland.com,7757037348,,133
+BPSITS,5307,Jitendra Mahajan,9028191397,IT,Male,jitendram@startupworld.us,India,Pune,06-03-1990,jitendram@startupworld.us,9028191397,,133
+BPSITS,5308,Sudhir Patil,9922449794,IT,Male,sudhirp@roseland.com,India,Pune,25-05-1990,sudhirp@roseland.com,9922449794,,133

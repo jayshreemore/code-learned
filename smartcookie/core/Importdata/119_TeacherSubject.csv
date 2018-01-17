@@ -1,0 +1,14 @@
+SchoolID, TeacherID, SubjectID, SubjectCode, SubjectName, YearID, DivisionID, Division, SemesterID, Semester, BranchID, Branch,DepartmentID, Department, CourseLevel, AcademicYear
+119,27,,SC-PHP,Smartcookie,2016,,,1,Semester I,1,PHP,5,Software,In House,2016
+119,27,,SC-AND,Smartcookie,2016,,,2,Semester I,2,Android,5,Software,In House,2016
+119,27,,SC-IOS,Smartcookie,2016,,,3,Semester I,3,IOS,5,Software,In House,2016
+119,25,,PAN,Panhealth,2016,,,4,Semester I,4,DOTNET,5,Software,In House,2016
+119,25,,VN,Virtual Nurse,2016,,,4,Semester I,4,DOTNET,5,Software,In House,2016
+119,25,,HC,Health Coach,2016,,,4,Semester I,4,DOTNET,5,Software,In House,2016
+119,27,,SCOM,Smart Communicator,2016,,,4,Semester I,4,DOTNET,5,Software,In House,2016
+119,27,,SW,Startup World,2016,,,1,Semester I,1,PHP,5,Software,In House,2016
+119,25,,PM,Panmom,2016,,,1,Semester I,1,PHP,5,Software,In House,2016
+119,27,,PMI,Portable Medical ID,2016,,,1,Semester I,1,PHP,5,Software,In House,2016
+119,27,,DD,Diet Diary,2016,,,1,Semester I,1,PHP,5,Software,In House,2016
+119,27,,DICT,Dictation,2016,,,1,Semester I,1,PHP,5,Software,In House,2016
+119,25,,EMR,Emerson,2016,,,9,Semester I,4,DOTNET,5,Software,Client,2016

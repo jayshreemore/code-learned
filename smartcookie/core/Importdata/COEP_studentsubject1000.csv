@@ -1,0 +1,1000 @@
+SchoolID, StudentID, SubjectCode, SemesterID, BranchID,SubjectMasterID, YearID, DivisionID, SubjectName, Division, Semester, Branch, Department, CourseLevel, AcademicYear,TeacherID
+COEP,5,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,5,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,5,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,5,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,7,DE-09003,21,40,7,2013,4290,BASIS,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,5,DE-09001,21,40,5,2013,4290,Human Resource Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,6,DE-09002,21,40,6,2013,4290,Project Systems,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,2,ERP-09002,21,40,2,2013,4290,Financial Accounting and Management Accounting,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,1,ERP-09001,21,40,1,2013,4290,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,4,ERP-09004,21,40,4,2013,4290,Production and Operation Management,Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,3,ERP-09003,21,40,3,2013,4290,Supply Chain Management I (Procurement / Warehousing / Sales),Div-1,Semester I,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,12,DE-09007,22,40,12,2013,4290,ABAP,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,12,DE-09007,22,40,12,2013,4290,ABAP,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,12,DE-09007,22,40,12,2013,4290,ABAP,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,12,DE-09007,22,40,12,2013,4290,ABAP,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,12,DE-09007,22,40,12,2013,4290,ABAP,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,12,DE-09007,22,40,12,2013,4290,ABAP,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,12,DE-09007,22,40,12,2013,4290,ABAP,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,12,DE-09007,22,40,12,2013,4290,ABAP,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,10,DE-09005,22,40,10,2013,4290,SAP - Sales and Distribution (Order Fulfillment),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,12,DE-09007,22,40,12,2013,4290,ABAP,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,14,DE-09009,22,40,14,2013,4290,SAP - Financial Accounting (FI) and Management Accounting (CO),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,11,DE-09006,22,40,11,2013,4290,SAP - SCM Planning and Manufacturing,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,9,DE-09004,22,40,9,2013,4290,SAP-Materials Management (Procurement),Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,8,ERP-09005,22,40,8,2013,4290,ERP Implementation Methodology,Div-1,Semester II,Enterprise Resource Planning,,2606,2013,10209001
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,19,DE-09014,23,40,19,2013,4290,SAP eAcademy NetWeaver-ABAP Basics (SAP NetWeaver),Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,16,DE-09011,23,40,16,2013,4290,SAP eAcademy Financials-Financial Accounting,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,19,DE-09014,23,40,19,2013,4290,SAP eAcademy NetWeaver-ABAP Basics (SAP NetWeaver),Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,19,DE-09014,23,40,19,2013,4290,SAP eAcademy NetWeaver-ABAP Basics (SAP NetWeaver),Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,16,DE-09011,23,40,16,2013,4290,SAP eAcademy Financials-Financial Accounting,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,20,DE-09015,23,40,20,2013,4290,SAP- eAcademy SCM ? Order Fulfillment,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,19,DE-09014,23,40,19,2013,4290,SAP eAcademy NetWeaver-ABAP Basics (SAP NetWeaver),Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,19,DE-09014,23,40,19,2013,4290,SAP eAcademy NetWeaver-ABAP Basics (SAP NetWeaver),Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,19,DE-09014,23,40,19,2013,4290,SAP eAcademy NetWeaver-ABAP Basics (SAP NetWeaver),Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,20,DE-09015,23,40,20,2013,4290,SAP- eAcademy SCM ? Order Fulfillment,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,16,DE-09011,23,40,16,2013,4290,SAP eAcademy Financials-Financial Accounting,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,16,DE-09011,23,40,16,2013,4290,SAP eAcademy Financials-Financial Accounting,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,19,DE-09014,23,40,19,2013,4290,SAP eAcademy NetWeaver-ABAP Basics (SAP NetWeaver),Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,21,DE-09016,23,40,21,2013,4290,SAP- eAcademy SCM ? Procurement,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,10209001
+COEP,22,ERP-09017,23,40,22,2013,4290,Industry Project,Div-1,Semester III,Enterprise Resource Planning,,2606,2013,30209002
+COEP,291,EE-11001,3,2,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,295,EE-11002,3,2,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,293,CH-11001,3,2,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,294,CH-11002,3,2,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,292,ME-11002,3,2,292,2014,4291,Engineering Graphics,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,296,ME-11003,3,2,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,280,MA-11001,3,2,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Civil Engineering,,30,2014,411125017
+COEP,281,PH-11001,3,2,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,287,PH-11002,3,2,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,299,PE-11001,3,2,299,2014,4291,Techshop,Div-2,Semester I,Civil Engineering,,30,2014,411008012
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,297,GY-11001,9,5,297,2014,4295,Physical Education,Div-6,Semester I,Information Technology ,,30,2014,540014001
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,291,EE-11001,3,2,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,295,EE-11002,3,2,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,293,CH-11001,3,2,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,294,CH-11002,3,2,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,292,ME-11002,3,2,292,2014,4291,Engineering Graphics,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,296,ME-11003,3,2,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,280,MA-11001,3,2,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Civil Engineering,,30,2014,411125017
+COEP,281,PH-11001,3,2,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,287,PH-11002,3,2,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,299,PE-11001,3,2,299,2014,4291,Techshop,Div-2,Semester I,Civil Engineering,,30,2014,411008012
+COEP,291,EE-11001,15,8,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Metallurgical Engineering,,30,2014,411103024
+COEP,295,EE-11002,15,8,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,411103024
+COEP,293,CH-11001,15,8,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Metallurgical Engineering,,30,2014,419817002
+COEP,294,CH-11002,15,8,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,419817002
+COEP,292,ME-11002,15,8,292,2014,4291,Engineering Graphics,Div-2,Semester I,Metallurgical Engineering,,30,2014,410306023
+COEP,296,ME-11003,15,8,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,410306023
+COEP,280,MA-11001,15,8,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Metallurgical Engineering,,30,2014,411125017
+COEP,281,PH-11001,15,8,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Metallurgical Engineering,,30,2014,410319002
+COEP,287,PH-11002,15,8,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,410319002
+COEP,299,PE-11001,15,8,299,2014,4291,Techshop,Div-2,Semester I,Metallurgical Engineering,,30,2014,411008012
+COEP,291,EE-11001,3,2,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Civil Engineering,,30,2014,410903016
+COEP,295,EE-11002,3,2,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Civil Engineering,,30,2014,410903016
+COEP,293,CH-11001,3,2,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Civil Engineering,,30,2014,411017027
+COEP,294,CH-11002,3,2,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Civil Engineering,,30,2014,411017027
+COEP,292,ME-11002,3,2,292,2014,4290,Engineering Graphics,Div-1,Semester I,Civil Engineering,,30,2014,419906016
+COEP,296,ME-11003,3,2,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Civil Engineering,,30,2014,419906016
+COEP,280,MA-11001,3,2,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Civil Engineering,,30,2014,411125017
+COEP,281,PH-11001,3,2,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Civil Engineering,,30,2014,410919005
+COEP,287,PH-11002,3,2,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Civil Engineering,,30,2014,410919005
+COEP,299,PE-11001,3,2,299,2014,4290,Techshop,Div-1,Semester I,Civil Engineering,,30,2014,4105008005
+COEP,297,GY-11001,3,2,297,2014,4290,Physical Education,Div-1,Semester I,Civil Engineering,,30,2014,540014001
+COEP,291,EE-11001,25,9,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,295,EE-11002,25,9,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,293,CH-11001,25,9,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,294,CH-11002,25,9,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,292,ME-11002,25,9,292,2014,4291,Engineering Graphics,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,296,ME-11003,25,9,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,281,PH-11001,25,9,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,287,PH-11002,25,9,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,299,PE-11001,25,9,299,2014,4291,Techshop,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411008012
+COEP,280,MA-11001,25,9,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,291,EE-11001,3,2,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,295,EE-11002,3,2,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,293,CH-11001,3,2,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,294,CH-11002,3,2,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,292,ME-11002,3,2,292,2014,4291,Engineering Graphics,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,296,ME-11003,3,2,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,280,MA-11001,3,2,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Civil Engineering,,30,2014,411125017
+COEP,281,PH-11001,3,2,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,287,PH-11002,3,2,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,299,PE-11001,3,2,299,2014,4291,Techshop,Div-2,Semester I,Civil Engineering,,30,2014,411008012
+COEP,291,EE-11001,3,2,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,295,EE-11002,3,2,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,293,CH-11001,3,2,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,294,CH-11002,3,2,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,292,ME-11002,3,2,292,2014,4291,Engineering Graphics,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,296,ME-11003,3,2,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,280,MA-11001,3,2,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Civil Engineering,,30,2014,411125017
+COEP,281,PH-11001,3,2,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,287,PH-11002,3,2,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,299,PE-11001,3,2,299,2014,4291,Techshop,Div-2,Semester I,Civil Engineering,,30,2014,411008012
+COEP,291,EE-11001,15,8,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Metallurgical Engineering,,30,2014,411103024
+COEP,295,EE-11002,15,8,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,411103024
+COEP,293,CH-11001,15,8,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Metallurgical Engineering,,30,2014,419817002
+COEP,294,CH-11002,15,8,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,419817002
+COEP,292,ME-11002,15,8,292,2014,4291,Engineering Graphics,Div-2,Semester I,Metallurgical Engineering,,30,2014,410306023
+COEP,296,ME-11003,15,8,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,410306023
+COEP,280,MA-11001,15,8,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Metallurgical Engineering,,30,2014,411125017
+COEP,281,PH-11001,15,8,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Metallurgical Engineering,,30,2014,410319002
+COEP,287,PH-11002,15,8,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,410319002
+COEP,299,PE-11001,15,8,299,2014,4291,Techshop,Div-2,Semester I,Metallurgical Engineering,,30,2014,411008012
+COEP,283,ME-11001,27,1,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electrical Engineering,,30,2014,419906054
+COEP,285,CT-11002,27,1,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,280,MA-11001,27,1,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410925008
+COEP,282,CE-11001,27,1,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electrical Engineering,,30,2014,4196001006
+COEP,281,PH-11001,27,1,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,287,PH-11002,27,1,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,284,CT-11001,27,1,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,286,ML-11001,27,1,286,2014,4295,Professional Ethics,Div-6,Semester I,Electrical Engineering,,30,2014,411117030
+COEP,283,ME-11001,5,3,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Computer Engineering,,30,2014,419906054
+COEP,285,CT-11002,5,3,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,280,MA-11001,5,3,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Computer Engineering,,30,2014,410925008
+COEP,282,CE-11001,5,3,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Computer Engineering,,30,2014,4196001006
+COEP,281,PH-11001,5,3,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,287,PH-11002,5,3,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,284,CT-11001,5,3,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,286,ML-11001,5,3,286,2014,4295,Professional Ethics,Div-6,Semester I,Computer Engineering,,30,2014,411117030
+COEP,291,EE-11001,25,9,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,295,EE-11002,25,9,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,293,CH-11001,25,9,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,294,CH-11002,25,9,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,292,ME-11002,25,9,292,2014,4291,Engineering Graphics,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,296,ME-11003,25,9,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,281,PH-11001,25,9,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,287,PH-11002,25,9,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,299,PE-11001,25,9,299,2014,4291,Techshop,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411008012
+COEP,280,MA-11001,25,9,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,283,ME-11001,27,1,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electrical Engineering,,30,2014,419906054
+COEP,285,CT-11002,27,1,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,280,MA-11001,27,1,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410925008
+COEP,282,CE-11001,27,1,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electrical Engineering,,30,2014,4196001006
+COEP,281,PH-11001,27,1,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,287,PH-11002,27,1,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,284,CT-11001,27,1,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,286,ML-11001,27,1,286,2014,4295,Professional Ethics,Div-6,Semester I,Electrical Engineering,,30,2014,411117030
+COEP,291,EE-11001,3,2,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,295,EE-11002,3,2,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,293,CH-11001,3,2,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,294,CH-11002,3,2,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,292,ME-11002,3,2,292,2014,4291,Engineering Graphics,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,296,ME-11003,3,2,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,280,MA-11001,3,2,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Civil Engineering,,30,2014,411125017
+COEP,281,PH-11001,3,2,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,287,PH-11002,3,2,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,299,PE-11001,3,2,299,2014,4291,Techshop,Div-2,Semester I,Civil Engineering,,30,2014,411008012
+COEP,291,EE-11001,25,9,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,295,EE-11002,25,9,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,293,CH-11001,25,9,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,294,CH-11002,25,9,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,292,ME-11002,25,9,292,2014,4291,Engineering Graphics,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,296,ME-11003,25,9,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,281,PH-11001,25,9,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,287,PH-11002,25,9,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,297,GY-11001,25,9,297,2014,4291,Physical Education,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,540014001
+COEP,299,PE-11001,25,9,299,2014,4291,Techshop,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411008012
+COEP,280,MA-11001,25,9,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,291,EE-11001,25,9,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,295,EE-11002,25,9,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,293,CH-11001,25,9,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,294,CH-11002,25,9,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,292,ME-11002,25,9,292,2014,4291,Engineering Graphics,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,296,ME-11003,25,9,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,281,PH-11001,25,9,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,287,PH-11002,25,9,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,297,GY-11001,25,9,297,2014,4291,Physical Education,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,540014001
+COEP,299,PE-11001,25,9,299,2014,4291,Techshop,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411008012
+COEP,280,MA-11001,25,9,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,291,EE-11001,13,7,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,295,EE-11002,13,7,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,293,CH-11001,13,7,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,294,CH-11002,13,7,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,292,ME-11002,13,7,292,2014,4291,Engineering Graphics,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,296,ME-11003,13,7,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,280,MA-11001,13,7,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,287,PH-11002,13,7,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,297,GY-11001,13,7,297,2014,4291,Physical Education,Div-2,Semester I,Mechanical Engineering,,30,2014,540014001
+COEP,299,PE-11001,13,7,299,2014,4291,Techshop,Div-2,Semester I,Mechanical Engineering,,30,2014,411008012
+COEP,291,EE-11001,13,7,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,295,EE-11002,13,7,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,293,CH-11001,13,7,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,294,CH-11002,13,7,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,292,ME-11002,13,7,292,2014,4291,Engineering Graphics,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,296,ME-11003,13,7,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,280,MA-11001,13,7,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,287,PH-11002,13,7,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,299,PE-11001,13,7,299,2014,4291,Techshop,Div-2,Semester I,Mechanical Engineering,,30,2014,411008012
+COEP,291,EE-11001,15,8,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Metallurgical Engineering,,30,2014,411103024
+COEP,295,EE-11002,15,8,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,411103024
+COEP,293,CH-11001,15,8,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Metallurgical Engineering,,30,2014,419817002
+COEP,294,CH-11002,15,8,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,419817002
+COEP,292,ME-11002,15,8,292,2014,4291,Engineering Graphics,Div-2,Semester I,Metallurgical Engineering,,30,2014,410306023
+COEP,296,ME-11003,15,8,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,410306023
+COEP,280,MA-11001,15,8,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Metallurgical Engineering,,30,2014,411125017
+COEP,281,PH-11001,15,8,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Metallurgical Engineering,,30,2014,410319002
+COEP,287,PH-11002,15,8,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Metallurgical Engineering,,30,2014,410319002
+COEP,299,PE-11001,15,8,299,2014,4291,Techshop,Div-2,Semester I,Metallurgical Engineering,,30,2014,411008012
+COEP,283,ME-11001,5,3,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Computer Engineering,,30,2014,419906054
+COEP,285,CT-11002,5,3,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,280,MA-11001,5,3,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Computer Engineering,,30,2014,410925008
+COEP,282,CE-11001,5,3,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Computer Engineering,,30,2014,4196001006
+COEP,281,PH-11001,5,3,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,287,PH-11002,5,3,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,284,CT-11001,5,3,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,286,ML-11001,5,3,286,2014,4295,Professional Ethics,Div-6,Semester I,Computer Engineering,,30,2014,411117030
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,291,EE-11001,3,2,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Civil Engineering,,30,2014,410903016
+COEP,295,EE-11002,3,2,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Civil Engineering,,30,2014,410903016
+COEP,293,CH-11001,3,2,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Civil Engineering,,30,2014,411017027
+COEP,294,CH-11002,3,2,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Civil Engineering,,30,2014,411017027
+COEP,292,ME-11002,3,2,292,2014,4290,Engineering Graphics,Div-1,Semester I,Civil Engineering,,30,2014,419906016
+COEP,296,ME-11003,3,2,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Civil Engineering,,30,2014,419906016
+COEP,280,MA-11001,3,2,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Civil Engineering,,30,2014,411125017
+COEP,281,PH-11001,3,2,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Civil Engineering,,30,2014,410919005
+COEP,287,PH-11002,3,2,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Civil Engineering,,30,2014,410919005
+COEP,299,PE-11001,3,2,299,2014,4290,Techshop,Div-1,Semester I,Civil Engineering,,30,2014,4105008005
+COEP,291,EE-11001,13,7,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,295,EE-11002,13,7,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,293,CH-11001,13,7,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,294,CH-11002,13,7,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,292,ME-11002,13,7,292,2014,4291,Engineering Graphics,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,296,ME-11003,13,7,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,280,MA-11001,13,7,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,287,PH-11002,13,7,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,299,PE-11001,13,7,299,2014,4291,Techshop,Div-2,Semester I,Mechanical Engineering,,30,2014,411008012
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,297,GY-11001,9,5,297,2014,4295,Physical Education,Div-6,Semester I,Information Technology ,,30,2014,540014001
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,283,ME-11001,7,4,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,419906054
+COEP,285,CT-11002,7,4,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,7,4,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410925008
+COEP,282,CE-11001,7,4,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,7,4,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,287,PH-11002,7,4,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,284,CT-11001,7,4,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,286,ML-11001,7,4,286,2014,4295,Professional Ethics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,411117030
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,297,GY-11001,9,5,297,2014,4295,Physical Education,Div-6,Semester I,Information Technology ,,30,2014,540014001
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,291,EE-11001,25,9,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,295,EE-11002,25,9,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,293,CH-11001,25,9,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,294,CH-11002,25,9,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,292,ME-11002,25,9,292,2014,4291,Engineering Graphics,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,296,ME-11003,25,9,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,281,PH-11001,25,9,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,287,PH-11002,25,9,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,299,PE-11001,25,9,299,2014,4291,Techshop,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411008012
+COEP,280,MA-11001,25,9,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,283,ME-11001,27,1,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electrical Engineering,,30,2014,419906054
+COEP,285,CT-11002,27,1,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,280,MA-11001,27,1,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410925008
+COEP,282,CE-11001,27,1,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electrical Engineering,,30,2014,4196001006
+COEP,281,PH-11001,27,1,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,287,PH-11002,27,1,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,284,CT-11001,27,1,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,286,ML-11001,27,1,286,2014,4295,Professional Ethics,Div-6,Semester I,Electrical Engineering,,30,2014,411117030
+COEP,291,EE-11001,25,9,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,295,EE-11002,25,9,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,293,CH-11001,25,9,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,294,CH-11002,25,9,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,292,ME-11002,25,9,292,2014,4291,Engineering Graphics,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,296,ME-11003,25,9,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,281,PH-11001,25,9,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,287,PH-11002,25,9,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,297,GY-11001,25,9,297,2014,4291,Physical Education,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,540014001
+COEP,299,PE-11001,25,9,299,2014,4291,Techshop,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411008012
+COEP,280,MA-11001,25,9,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,283,ME-11001,5,3,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Computer Engineering,,30,2014,419906054
+COEP,285,CT-11002,5,3,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,280,MA-11001,5,3,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Computer Engineering,,30,2014,410925008
+COEP,282,CE-11001,5,3,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Computer Engineering,,30,2014,4196001006
+COEP,281,PH-11001,5,3,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,287,PH-11002,5,3,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,284,CT-11001,5,3,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,286,ML-11001,5,3,286,2014,4295,Professional Ethics,Div-6,Semester I,Computer Engineering,,30,2014,411117030
+COEP,283,ME-11001,7,4,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,419906054
+COEP,285,CT-11002,7,4,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,7,4,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410925008
+COEP,282,CE-11001,7,4,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,7,4,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,287,PH-11002,7,4,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,284,CT-11001,7,4,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,286,ML-11001,7,4,286,2014,4295,Professional Ethics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,411117030
+COEP,291,EE-11001,13,7,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,295,EE-11002,13,7,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,293,CH-11001,13,7,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,294,CH-11002,13,7,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,292,ME-11002,13,7,292,2014,4291,Engineering Graphics,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,296,ME-11003,13,7,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,280,MA-11001,13,7,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,287,PH-11002,13,7,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,299,PE-11001,13,7,299,2014,4291,Techshop,Div-2,Semester I,Mechanical Engineering,,30,2014,411008012
+COEP,283,ME-11001,7,4,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,419906054
+COEP,285,CT-11002,7,4,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,7,4,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410925008
+COEP,282,CE-11001,7,4,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,7,4,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,287,PH-11002,7,4,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,284,CT-11001,7,4,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,286,ML-11001,7,4,286,2014,4295,Professional Ethics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,411117030
+COEP,283,ME-11001,27,1,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electrical Engineering,,30,2014,419906054
+COEP,285,CT-11002,27,1,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,280,MA-11001,27,1,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410925008
+COEP,282,CE-11001,27,1,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electrical Engineering,,30,2014,4196001006
+COEP,281,PH-11001,27,1,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,287,PH-11002,27,1,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,284,CT-11001,27,1,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,286,ML-11001,27,1,286,2014,4295,Professional Ethics,Div-6,Semester I,Electrical Engineering,,30,2014,411117030
+COEP,283,ME-11001,27,1,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electrical Engineering,,30,2014,419906054
+COEP,285,CT-11002,27,1,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,280,MA-11001,27,1,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410925008
+COEP,282,CE-11001,27,1,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electrical Engineering,,30,2014,4196001006
+COEP,281,PH-11001,27,1,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,287,PH-11002,27,1,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,284,CT-11001,27,1,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,286,ML-11001,27,1,286,2014,4295,Professional Ethics,Div-6,Semester I,Electrical Engineering,,30,2014,411117030
+COEP,297,GY-11001,27,1,297,2014,4295,Physical Education,Div-6,Semester I,Electrical Engineering,,30,2014,540014001
+COEP,291,EE-11001,25,9,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,295,EE-11002,25,9,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,293,CH-11001,25,9,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,294,CH-11002,25,9,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,292,ME-11002,25,9,292,2014,4291,Engineering Graphics,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,296,ME-11003,25,9,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,281,PH-11001,25,9,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,287,PH-11002,25,9,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,299,PE-11001,25,9,299,2014,4291,Techshop,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411008012
+COEP,280,MA-11001,25,9,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,291,EE-11001,25,9,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,295,EE-11002,25,9,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,293,CH-11001,25,9,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,294,CH-11002,25,9,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,292,ME-11002,25,9,292,2014,4291,Engineering Graphics,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,296,ME-11003,25,9,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,281,PH-11001,25,9,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,287,PH-11002,25,9,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,297,GY-11001,25,9,297,2014,4291,Physical Education,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,540014001
+COEP,299,PE-11001,25,9,299,2014,4291,Techshop,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411008012
+COEP,280,MA-11001,25,9,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,291,EE-11001,13,7,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,295,EE-11002,13,7,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,411103024
+COEP,293,CH-11001,13,7,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,294,CH-11002,13,7,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,419817002
+COEP,292,ME-11002,13,7,292,2014,4291,Engineering Graphics,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,296,ME-11003,13,7,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410306023
+COEP,280,MA-11001,13,7,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,287,PH-11002,13,7,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Mechanical Engineering,,30,2014,410319002
+COEP,299,PE-11001,13,7,299,2014,4291,Techshop,Div-2,Semester I,Mechanical Engineering,,30,2014,411008012
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,283,ME-11001,7,4,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,419906054
+COEP,285,CT-11002,7,4,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,7,4,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410925008
+COEP,282,CE-11001,7,4,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,7,4,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,287,PH-11002,7,4,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,284,CT-11001,7,4,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,286,ML-11001,7,4,286,2014,4295,Professional Ethics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,411117030
+COEP,283,ME-11001,7,4,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,419906054
+COEP,285,CT-11002,7,4,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,7,4,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410925008
+COEP,282,CE-11001,7,4,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,7,4,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,287,PH-11002,7,4,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,284,CT-11001,7,4,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,297,GY-11001,7,4,297,2014,4295,Physical Education,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,540014001
+COEP,286,ML-11001,7,4,286,2014,4295,Professional Ethics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,411117030
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,297,GY-11001,9,5,297,2014,4295,Physical Education,Div-6,Semester I,Information Technology ,,30,2014,540014001
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,291,EE-11001,25,9,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,295,EE-11002,25,9,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411103024
+COEP,293,CH-11001,25,9,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,294,CH-11002,25,9,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,419817002
+COEP,292,ME-11002,25,9,292,2014,4291,Engineering Graphics,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,296,ME-11003,25,9,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410306023
+COEP,281,PH-11001,25,9,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,287,PH-11002,25,9,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,410319002
+COEP,297,GY-11001,25,9,297,2014,4291,Physical Education,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,540014001
+COEP,299,PE-11001,25,9,299,2014,4291,Techshop,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411008012
+COEP,280,MA-11001,25,9,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,283,ME-11001,11,6,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,419906054
+COEP,285,CT-11002,11,6,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,11,6,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,410925008
+COEP,282,CE-11001,11,6,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,11,6,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,410819003
+COEP,287,PH-11002,11,6,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,410819003
+COEP,284,CT-11001,11,6,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,4198002005
+COEP,297,GY-11001,11,6,297,2014,4295,Physical Education,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,540014001
+COEP,286,ML-11001,11,6,286,2014,4295,Professional Ethics,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,411117030
+COEP,283,ME-11001,5,3,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Computer Engineering,,30,2014,419906054
+COEP,285,CT-11002,5,3,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,280,MA-11001,5,3,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Computer Engineering,,30,2014,410925008
+COEP,282,CE-11001,5,3,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Computer Engineering,,30,2014,4196001006
+COEP,281,PH-11001,5,3,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,287,PH-11002,5,3,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,284,CT-11001,5,3,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,286,ML-11001,5,3,286,2014,4295,Professional Ethics,Div-6,Semester I,Computer Engineering,,30,2014,411117030
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,283,ME-11001,27,1,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electrical Engineering,,30,2014,419906054
+COEP,285,CT-11002,27,1,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,280,MA-11001,27,1,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410925008
+COEP,282,CE-11001,27,1,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electrical Engineering,,30,2014,4196001006
+COEP,281,PH-11001,27,1,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,287,PH-11002,27,1,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,284,CT-11001,27,1,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,286,ML-11001,27,1,286,2014,4295,Professional Ethics,Div-6,Semester I,Electrical Engineering,,30,2014,411117030
+COEP,283,ME-11001,11,6,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,419906054
+COEP,285,CT-11002,11,6,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,11,6,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,410925008
+COEP,282,CE-11001,11,6,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,11,6,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,410819003
+COEP,287,PH-11002,11,6,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,410819003
+COEP,284,CT-11001,11,6,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,4198002005
+COEP,286,ML-11001,11,6,286,2014,4295,Professional Ethics,Div-6,Semester I,Instrumentation and Control Engineering ,,30,2014,411117030
+COEP,283,ME-11001,5,3,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Computer Engineering,,30,2014,419906054
+COEP,285,CT-11002,5,3,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,280,MA-11001,5,3,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Computer Engineering,,30,2014,410925008
+COEP,282,CE-11001,5,3,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Computer Engineering,,30,2014,4196001006
+COEP,281,PH-11001,5,3,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,287,PH-11002,5,3,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Computer Engineering,,30,2014,410819003
+COEP,284,CT-11001,5,3,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Computer Engineering,,30,2014,4198002005
+COEP,297,GY-11001,5,3,297,2014,4295,Physical Education,Div-6,Semester I,Computer Engineering,,30,2014,540014001
+COEP,286,ML-11001,5,3,286,2014,4295,Professional Ethics,Div-6,Semester I,Computer Engineering,,30,2014,411117030
+COEP,283,ME-11001,7,4,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,419906054
+COEP,285,CT-11002,7,4,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,7,4,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410925008
+COEP,282,CE-11001,7,4,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,7,4,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,287,PH-11002,7,4,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,284,CT-11001,7,4,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,286,ML-11001,7,4,286,2014,4295,Professional Ethics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,411117030
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,283,ME-11001,9,5,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Information Technology ,,30,2014,419906054
+COEP,285,CT-11002,9,5,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,280,MA-11001,9,5,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Information Technology ,,30,2014,410925008
+COEP,282,CE-11001,9,5,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Information Technology ,,30,2014,4196001006
+COEP,281,PH-11001,9,5,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,287,PH-11002,9,5,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Information Technology ,,30,2014,410819003
+COEP,284,CT-11001,9,5,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Information Technology ,,30,2014,4198002005
+COEP,297,GY-11001,9,5,297,2014,4295,Physical Education,Div-6,Semester I,Information Technology ,,30,2014,540014001
+COEP,286,ML-11001,9,5,286,2014,4295,Professional Ethics,Div-6,Semester I,Information Technology ,,30,2014,411117030
+COEP,291,EE-11001,25,9,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410903016
+COEP,295,EE-11002,25,9,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410903016
+COEP,293,CH-11001,25,9,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,411017027
+COEP,294,CH-11002,25,9,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,411017027
+COEP,292,ME-11002,25,9,292,2014,4290,Engineering Graphics,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,419906016
+COEP,296,ME-11003,25,9,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,419906016
+COEP,280,MA-11001,25,9,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,281,PH-11001,25,9,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410919005
+COEP,287,PH-11002,25,9,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410919005
+COEP,299,PE-11001,25,9,299,2014,4290,Techshop,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,4105008005
+COEP,283,ME-11001,7,4,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,419906054
+COEP,285,CT-11002,7,4,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,7,4,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410925008
+COEP,282,CE-11001,7,4,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,7,4,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,287,PH-11002,7,4,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,284,CT-11001,7,4,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,286,ML-11001,7,4,286,2014,4295,Professional Ethics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,411117030
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,297,GY-11001,13,7,297,2014,4290,Physical Education,Div-1,Semester I,Mechanical Engineering,,30,2014,540014001
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,283,ME-11001,27,1,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electrical Engineering,,30,2014,419906054
+COEP,285,CT-11002,27,1,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,280,MA-11001,27,1,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410925008
+COEP,282,CE-11001,27,1,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electrical Engineering,,30,2014,4196001006
+COEP,281,PH-11001,27,1,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,287,PH-11002,27,1,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electrical Engineering,,30,2014,410819003
+COEP,284,CT-11001,27,1,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electrical Engineering,,30,2014,4198002005
+COEP,286,ML-11001,27,1,286,2014,4295,Professional Ethics,Div-6,Semester I,Electrical Engineering,,30,2014,411117030
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,297,GY-11001,13,7,297,2014,4290,Physical Education,Div-1,Semester I,Mechanical Engineering,,30,2014,540014001
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,25,9,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410903016
+COEP,295,EE-11002,25,9,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410903016
+COEP,293,CH-11001,25,9,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,411017027
+COEP,294,CH-11002,25,9,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,411017027
+COEP,292,ME-11002,25,9,292,2014,4290,Engineering Graphics,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,419906016
+COEP,296,ME-11003,25,9,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,419906016
+COEP,280,MA-11001,25,9,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,281,PH-11001,25,9,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410919005
+COEP,287,PH-11002,25,9,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410919005
+COEP,299,PE-11001,25,9,299,2014,4290,Techshop,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,4105008005
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,15,8,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Metallurgical Engineering,,30,2014,410903016
+COEP,295,EE-11002,15,8,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,410903016
+COEP,293,CH-11001,15,8,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Metallurgical Engineering,,30,2014,411017027
+COEP,294,CH-11002,15,8,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,411017027
+COEP,292,ME-11002,15,8,292,2014,4290,Engineering Graphics,Div-1,Semester I,Metallurgical Engineering,,30,2014,419906016
+COEP,296,ME-11003,15,8,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,419906016
+COEP,280,MA-11001,15,8,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Metallurgical Engineering,,30,2014,411125017
+COEP,281,PH-11001,15,8,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Metallurgical Engineering,,30,2014,410919005
+COEP,287,PH-11002,15,8,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,410919005
+COEP,299,PE-11001,15,8,299,2014,4290,Techshop,Div-1,Semester I,Metallurgical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,3,2,291,2014,4291,Basic Electrical Engineering ,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,295,EE-11002,3,2,295,2014,4291,Basic Electrical Engineering -LAB,Div-2,Semester I,Civil Engineering,,30,2014,411103024
+COEP,293,CH-11001,3,2,293,2014,4291,Engineering Chemistry,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,294,CH-11002,3,2,294,2014,4291,Engineering Chemistry LAB,Div-2,Semester I,Civil Engineering,,30,2014,419817002
+COEP,292,ME-11002,3,2,292,2014,4291,Engineering Graphics,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,296,ME-11003,3,2,296,2014,4291,Engineering Graphics-LAB,Div-2,Semester I,Civil Engineering,,30,2014,410306023
+COEP,280,MA-11001,3,2,280,2014,4291,Engineering Mathematics-I,Div-2,Semester I,Civil Engineering,,30,2014,411125017
+COEP,281,PH-11001,3,2,281,2014,4291,Engineering Physics-I,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,287,PH-11002,3,2,287,2014,4291,Engineering Physics-I LAB,Div-2,Semester I,Civil Engineering,,30,2014,410319002
+COEP,299,PE-11001,3,2,299,2014,4291,Techshop,Div-2,Semester I,Civil Engineering,,30,2014,411008012
+COEP,297,GY-11001,3,2,297,2014,4291,Physical Education,Div-2,Semester I,Civil Engineering,,30,2014,540014001
+COEP,291,EE-11001,15,8,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Metallurgical Engineering,,30,2014,410903016
+COEP,295,EE-11002,15,8,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,410903016
+COEP,293,CH-11001,15,8,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Metallurgical Engineering,,30,2014,411017027
+COEP,294,CH-11002,15,8,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,411017027
+COEP,292,ME-11002,15,8,292,2014,4290,Engineering Graphics,Div-1,Semester I,Metallurgical Engineering,,30,2014,419906016
+COEP,296,ME-11003,15,8,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,419906016
+COEP,280,MA-11001,15,8,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Metallurgical Engineering,,30,2014,411125017
+COEP,281,PH-11001,15,8,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Metallurgical Engineering,,30,2014,410919005
+COEP,287,PH-11002,15,8,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,410919005
+COEP,299,PE-11001,15,8,299,2014,4290,Techshop,Div-1,Semester I,Metallurgical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,283,ME-11001,7,4,283,2014,4295,Basic Mechanical Engineering,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,419906054
+COEP,285,CT-11002,7,4,285,2014,4295,Computer Programming LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,280,MA-11001,7,4,280,2014,4295,Engineering Mathematics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410925008
+COEP,282,CE-11001,7,4,282,2014,4295,Engineering Mechanics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4196001006
+COEP,281,PH-11001,7,4,281,2014,4295,Engineering Physics-I,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,287,PH-11002,7,4,287,2014,4295,Engineering Physics-I LAB,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,410819003
+COEP,284,CT-11001,7,4,284,2014,4295,Fundamentals of Computer Programminng,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,4198002005
+COEP,286,ML-11001,7,4,286,2014,4295,Professional Ethics,Div-6,Semester I,Electronics and Telecommunication Engineering ,,30,2014,411117030
+COEP,291,EE-11001,15,8,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Metallurgical Engineering,,30,2014,410903016
+COEP,295,EE-11002,15,8,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,410903016
+COEP,293,CH-11001,15,8,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Metallurgical Engineering,,30,2014,411017027
+COEP,294,CH-11002,15,8,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,411017027
+COEP,292,ME-11002,15,8,292,2014,4290,Engineering Graphics,Div-1,Semester I,Metallurgical Engineering,,30,2014,419906016
+COEP,296,ME-11003,15,8,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,419906016
+COEP,280,MA-11001,15,8,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Metallurgical Engineering,,30,2014,411125017
+COEP,281,PH-11001,15,8,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Metallurgical Engineering,,30,2014,410919005
+COEP,287,PH-11002,15,8,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Metallurgical Engineering,,30,2014,410919005
+COEP,297,GY-11001,15,8,297,2014,4290,Physical Education,Div-1,Semester I,Metallurgical Engineering,,30,2014,540014001
+COEP,299,PE-11001,15,8,299,2014,4290,Techshop,Div-1,Semester I,Metallurgical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,25,9,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410903016
+COEP,295,EE-11002,25,9,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410903016
+COEP,293,CH-11001,25,9,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,411017027
+COEP,294,CH-11002,25,9,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,411017027
+COEP,292,ME-11002,25,9,292,2014,4290,Engineering Graphics,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,419906016
+COEP,296,ME-11003,25,9,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,419906016
+COEP,280,MA-11001,25,9,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,411125017
+COEP,281,PH-11001,25,9,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410919005
+COEP,287,PH-11002,25,9,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,410919005
+COEP,297,GY-11001,25,9,297,2014,4290,Physical Education,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,540014001
+COEP,299,PE-11001,25,9,299,2014,4290,Techshop,Div-1,Semester I,Production Engineering (Sandwich),,30,2014,4105008005
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,297,GY-11001,13,7,297,2014,4290,Physical Education,Div-1,Semester I,Mechanical Engineering,,30,2014,540014001
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,297,GY-11001,13,7,297,2014,4290,Physical Education,Div-1,Semester I,Mechanical Engineering,,30,2014,540014001
+COEP,299,PE-11001,13,7,299,2014,4290,Techshop,Div-1,Semester I,Mechanical Engineering,,30,2014,4105008005
+COEP,291,EE-11001,13,7,291,2014,4290,Basic Electrical Engineering ,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,295,EE-11002,13,7,295,2014,4290,Basic Electrical Engineering -LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410903016
+COEP,293,CH-11001,13,7,293,2014,4290,Engineering Chemistry,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,294,CH-11002,13,7,294,2014,4290,Engineering Chemistry LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,411017027
+COEP,292,ME-11002,13,7,292,2014,4290,Engineering Graphics,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,296,ME-11003,13,7,296,2014,4290,Engineering Graphics-LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,419906016
+COEP,280,MA-11001,13,7,280,2014,4290,Engineering Mathematics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,411125017
+COEP,281,PH-11001,13,7,281,2014,4290,Engineering Physics-I,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,287,PH-11002,13,7,287,2014,4290,Engineering Physics-I LAB,Div-1,Semester I,Mechanical Engineering,,30,2014,410919005
+COEP,297,GY-11001,13,7,297,2014,4290,Physical Education,Div-1,Semester I,Mechanical Engineering,,30,2014,540014001

@@ -1,0 +1,7 @@
+SchoolID, Introduce_YearID, SubjectTitle, SubjectCode,SubjectType,SubjectShortName,IsEnabled,UpdatedBy,CourseLevelID,CourseLevel, DeptID,DeptName,BranchID,BranchName,SemesterID,SemesterName,DivisionId,DivisionName,Year
+JSPM,2016,Fundamentals of Computer   ,12,Theory,FOC,1,Renuka,11,PG,22, IT,22,MCA,1,Sem-1,23,A,2016
+JSPM,2016,C Programming with Data Structure ,13,Theory,CPDS,1,Renuka,11,PG,22, IT,22,MCA,1,Sem-1,23,A,2016
+JSPM,2016,Software Engineering,14,Theory,SE,1,Renuka,11,PG,22, IT,22,MCA,1,Sem-1,23,A,2016
+JSPM,2016,Database Management System ,15,Theory,DBMS,1,Renuka,11,PG,22, IT,22,MCA,1,Sem-1,23,A,2016
+JSPM,2016,Principles and Practices of Management and Organizational Behavior ,16,Theory,PPMOB,1,Renuka,11,PG,22, IT,22,MCA,1,Sem-1,23,A,2016
+JSPM,2016,Business Process Domains,17,Theory,BPD,1,Renuka,11,PG,22, IT,22,MCA,1,Sem-1,23,A,2016

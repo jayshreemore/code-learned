@@ -1,0 +1,23 @@
+SchoolID, StudentPRN,StudentName,PhoneNo,BranchName,YearID,Gender,EmailID,Country,FatherName,DOB,Class,PermanentAddress,City,TemporaryAddress,PermanentVillage,PermanentTaluka,PermanentDistrict,PermanentPincode,InternalEmailID,Specialization,CourseLevel,AcademicYear,Department
+119,1,Shreyas Gosavi,8390892555,Testing,2016,Male,shreyasg@roseland.com,India,,,,Pune,Pune,,,,,,shreyasg@roseland.com,,In House,2016,Software
+119,2,Minakshi Lungase,8625827479,Testing,2016,Female,minakshil@roseland.com,India,,,,Pune,Pune,,,,,,minakshil@roseland.com,,In House,2016,Software
+119,3,Virendra Bora,9860815971,Testing,2016,Male,virendrab@roseland.com,India,,,,Pune,Pune,,,,,,virendrab@roseland.com,,Client,2016,Software
+119,4,Reshma Karande,7757037348,PHP,2016,Female,reshmak@roseland.com,India,,,,Pune,Pune,,,,,,reshmak@roseland.com,,In House,2016,Software
+119,5,Sanjay Gaikwad,9970021600,PHP,2016,Male,sanjayg@roseland.com,India,,,,Pune,Pune,,,,,,sanjayg@roseland.com,,In House,2016,Software
+119,6,Sudhir Patil,9922449794,PHP,2016,Male,sudhirp@roseland.com,India,,,,Pune,Pune,,,,,,sudhirp@roseland.com,,In House,2016,Software
+119,7,Parag Chougule,9028719046,IOS,2016,Male,paragc@roseland.com,India,,,,Pune,Pune,,,,,,paragc@roseland.com,,In House,2016,Software
+119,8,Swarup Jadhav,8482998074,DOTNET,2016,Male,swarupj@roseland.com,India,,,,Pune,Pune,,,,,,swarupj@roseland.com,,Client,2016,Software
+119,9,Sayali Raghojiwar,8888406762,Android,2016,Female,sayalir@roseland.com,India,,,,Pune,Pune,,,,,,sayalir@roseland.com,,In House,2016,Software
+119,10,Pramod Shelake,9823810924,Android,2016,Male,pramods@roseland.com,India,,,,Pune,Pune,,,,,,pramods@roseland.com,,In House,2016,Software
+119,11,Ritesh Adulkar,8793834829,Android,2016,Male,ritesha@roseland.com,India,,,,Pune,Pune,,,,,,ritesha@roseland.com,,In House,2016,Software
+119,12,Monika Magdum,7588469850,PHP,2016,Male,monikam@roseland.com,India,,,,Pune,Pune,,,,,,monikam@roseland.com,,In House,2016,Software
+119,13,Dhanashree Ghayal,9503119841,Android,2016,Female,,India,,,,Pune,Pune,,,,,,-,,In House,2016,Software
+119,14,Nilesh Wasatkar,9028611050,DOTNET,2016,Male,nileshw@roseland.com,India,,,,Pune,Pune,,,,,,nileshw@roseland.com,,Client,2016,Software
+119,15,Ashwini Patil,9860621874,DOTNET,2016,Female,ashwinip@roseland.com,India,,,,Pune,Pune,,,,,,ashwinip@roseland.com,,In House,2016,Software
+119,16,Sarika Nitore,9975298996,DOTNET,2016,Female,sarikan@roseland.com,India,,,,Pune,Pune,,,,,,sarikan@roseland.com,,In House,2016,Software
+119,17,Nikhil Borkar,9595462383,DOTNET,2016,Male,nikhilb@roseland.com,India,,,,Pune,Pune,,,,,,nikhilb@roseland.com,,In House,2016,Software
+119,18,Shweta Pagare,8308692207,Testing,2016,Female,shwetap@startupworld.us,India,,,,Pune,Pune,,,,,,shwetap@startupworld.us,,In House,2016,Software
+119,19,Swapnil Ramtekkar,9881130674,Android,2016,Male,swapnilr@roseland.com,India,,,,nagpur,nagpur,,,,,,swapnilr@roseland.com,,In House,2016,Software
+119,20,Robin Humne ,8446137239,IOS,2016,Male,robinhumne@gmail.com,India,,,,nagpur,nagpur,,,,,,robinhumne@gmail.com,,In House,2016,Software
+119,21,Pratik Tambekar,9579337525,PHP,2016,Male,pratik.tambekar91@gmail.com,India,,,,nagpur,nagpur,,,,,,pratik.tambekar91@gmail.com,,In House,2016,Software
+119,22,Deepak Pandey,8446759656,IOS,2016,Male,pandeydeepakpandey93@gmail.com,India,,,,nagpur,nagpur,,,,,,pandeydeepakpandey93@gmail.com,,In House,2016,Software

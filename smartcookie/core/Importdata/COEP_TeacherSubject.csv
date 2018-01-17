@@ -1,0 +1,2 @@
+SchoolID, TeacherID, SubjectID, SubjectCode, SubjectName, YearID, DivisionID, Division, SemesterID, Semester, BranchID, Branch,DepartmentID, Department, CourseLevel, AcademicYear
+,123,,123,,2015,a,,,,,,,cse,,2015

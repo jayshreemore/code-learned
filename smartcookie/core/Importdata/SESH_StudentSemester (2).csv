@@ -1,0 +1,123 @@
+SchoolID, StudentID, SemesterID, SemesterName, YearID, AcdemicYear, ExtDivisionID, Division, BranchID, Branch, Specialization, DepartmentID, Department, CourseLevelID, CourseLevel, IsCurrentSemester
+SESH,845,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,777,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,789,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,815,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,781,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,830,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,846,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,817,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,853,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,793,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,814,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,857,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,764,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,770,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,852,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,847,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,854,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,773,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,761,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,834,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,768,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,835,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,795,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,790,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,816,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,832,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,786,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,778,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,797,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,782,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,779,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,840,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,819,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,762,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,849,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,763,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,780,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,783,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,813,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,850,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,811,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,851,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,774,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,767,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,785,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,796,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,812,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,792,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,758,2013,BCA II - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,723,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,608,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,721,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,574,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,718,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,750,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,579,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,601,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,602,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,572,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,600,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,586,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,646,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,616,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,647,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,656,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,599,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,588,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,581,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,743,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,844,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,634,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,612,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,653,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,620,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,605,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,618,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,660,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,585,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,620,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,575,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,716,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,590,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,654,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,741,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,742,2015,BCA III - SEM 1,2017,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,587,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,650,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,573,2015,BCA III - SEM 1,2016,2016-17,101,Div 1,201,BCA,COMPUTER,373,Department of Bachelor  of Computer Application,373,UG,1
+SESH,775,3012,BBA II - YEAR 2,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,771,3012,BBA II - YEAR 2,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,759,3012,BBA II - YEAR 2,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,827,3012,BBA II - YEAR 2,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,825,3012,BBA II - YEAR 2,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,794,3012,BBA II - YEAR 2,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,580,3013,BBA III - YEAR 3,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,584,3013,BBA III - YEAR 3,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,610,3013,BBA III - YEAR 3,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,598,3013,BBA III - YEAR 3,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,637,3013,BBA III - YEAR 3,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,829,3013,BBA III - YEAR 3,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,630,3013,BBA III - YEAR 3,2016,2016-17,101,Div 1,301,BBA,MANAGEMENT,374,Department of Bachelor  of Business Administration,373,UG,1
+SESH,800,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,823,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,828,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,841,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,821,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,842,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,826,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,803,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,822,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,802,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,809,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,808,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,805,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,843,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,799,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,810,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,820,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,801,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,804,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,824,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1
+SESH,831,1013,MCA II - SEM 1,2016,2016-17,101,Div 1,101,MCA,COMPUTER APPLICATION,372,Department of Master of Computer Application,372,PG,1

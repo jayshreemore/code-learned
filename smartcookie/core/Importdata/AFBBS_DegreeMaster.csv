@@ -1,0 +1,8 @@
+SchoolID,DegreeID,DegreeName,DegreeCode,CourseLevel
+AFBBS,1,Class-VI,C-001,6 th 
+AFBBS,2,Class-VII,C-002,7 th
+AFBBS,3,Class-VIII,C-003, 8 th
+AFBBS,4,Class-IX,C-004,9 th
+AFBBS,5,Class-X,C-005,S.S.C
+AFBBS,6,Class-XI,C-006,11 th
+AFBBS,7,Class-XII,C-007,H.S.C

@@ -1,0 +1,1315 @@
+SchoolID, SubjectID, SubjectCode, Subject, SubjectType, SubjectShortName, SubjectCredit
+COEP,1,ERP-09001,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Theory,Introduction to ERP,4
+COEP,1,ERP-09001,Introduction to ERP (Navigation / Basis / Architecture / ABAP),Theory,Introduction to ERP,3
+COEP,2,ERP-09002,Financial Accounting and Management Accounting,Theory,FAMA,4
+COEP,3,ERP-09003,Supply Chain Management I (Procurement / Warehousing / Sales),Theory,SCM,4
+COEP,4,ERP-09004,Production and Operation Management,Theory,POC,4
+COEP,5,DE-09001,Human Resource Management,Theory,HRM,3
+COEP,6,DE-09002,Project Systems,Theory,PS,3
+COEP,7,DE-09003,BASIS,Theory,BASIS,3
+COEP,8,ERP-09005,ERP Implementation Methodology,Theory,ERP Implementation,4
+COEP,9,DE-09004,SAP-Materials Management (Procurement),Theory,SAP-MM,3
+COEP,10,DE-09005,SAP - Sales and Distribution (Order Fulfillment),Theory,SAP-SD,3
+COEP,11,DE-09006,SAP - SCM Planning and Manufacturing,Theory,SAP-SCM,3
+COEP,12,DE-09007,ABAP,Theory,ABAP,3
+COEP,12,DE-09007,ABAP,Theory,ABAP,3
+COEP,13,DE-09008,BASIS,Theory,BASIS,3
+COEP,14,DE-09009,SAP - Financial Accounting (FI) and Management Accounting (CO),Theory,SAP-FICO,3
+COEP,15,DE-09010,SAP-Human Capital Management,Theory,SAP-HCM,3
+COEP,16,DE-09011,SAP eAcademy Financials-Financial Accounting,Mini Project,SAP-FI,9
+COEP,17,DE-09012,SAP eAcademy Financials-Management Accounting,Mini Project,SAP-CO,9
+COEP,18,DE-09013,SAP eAcademy Human Resources (HCM)-Management & Administration,Mini Project,SAP-HCM,9
+COEP,19,DE-09014,SAP eAcademy NetWeaver-ABAP Basics (SAP NetWeaver),Mini Project,SAP-ABAP,9
+COEP,20,DE-09015,SAP- eAcademy SCM – Order Fulfillment,Mini Project,SAP-SD,9
+COEP,21,DE-09016,SAP- eAcademy SCM – Procurement,Mini Project,SAP-MM,9
+COEP,22,ERP-09017,Industry Project,Mini Project,IP,6
+COEP,23,DE-09017,SAP- eAcademy SCM – Planning and Manufacturing ,Mini Project,SAP-PP,9
+COEP,34,CE-14006,Design of RCC Structures Laboratory,Laboratory,DRCC LAB,3
+COEP,280,MA-11001,Engineering Mathematics-I,Theory,Maths-I,4
+COEP,281,PH-11001,Engineering Physics-I,Theory,Physics-1,3
+COEP,282,CE-11001,Engineering Mechanics,Theory,EM,3
+COEP,283,ME-11001,Basic Mechanical Engineering,Theory,EM,3
+COEP,284,CT-11001,Fundamentals of Computer Programminng,Theory,FCP,3
+COEP,285,CT-11002,Computer Programming Laboratory,Laboratory,CP-LAB,2
+COEP,285,CT-11002,Computer Programming Laboratory,Laboratory,CP-LAB,2
+COEP,286,ML-11001,Professional Ethics,Theory,PE,1
+COEP,287,PH-11002,Engineering Physics-I LAB,Laboratory,EP-LAB,1
+COEP,288,MA-11002,Engineering Mathematics-II,Theory,MA-102,4
+COEP,289,PH-11003,Engineering Physics-II LAB,Laboratory,EP-II LAB,1
+COEP,290,ET-11001,Basic Electronics,Theory,BE,3
+COEP,291,EE-11001,Basic Electrical Engineering ,Theory,BE,3
+COEP,292,ME-11002,Engineering Graphics,Theory,EG,2
+COEP,293,CH-11001,Engineering Chemistry,Theory,EC,3
+COEP,294,CH-11002,Engineering Chemistry LAB,Laboratory,EC-LAB,1
+COEP,295,EE-11002,Basic Electrical Engineering Laboratory,Laboratory,EE-103,1
+COEP,295,EE-11002,Basic Electrical Engineering Laboratory,Laboratory,EE-103,1
+COEP,296,ME-11003,Engineering Graphics-LAB,Laboratory,EG,1
+COEP,297,GY-11001,Physical Education,Training,PE,0
+COEP,299,PE-11001,Techshop,Laboratory,Techshop,2
+COEP,300,CE-12001,Fundamentals of Building Structures,Theory,FBS,3
+COEP,301,CE-12002,Materials and Principles of Construction,Theory,MPC,3
+COEP,302,CE-12003, Mathematics and Statistics in Planning-I,Theory,MS-1,3
+COEP,303,BP-12001,Basic Architectural Design,Laboratory,BAD,2
+COEP,303,BP-12001,Basic Architectural Design,Laboratory,BAD,2
+COEP,304,BP-12002,Planning and Design Lab I,Laboratory,PDL-1,5
+COEP,305,PH-13001,Basic Physics,Theory,BP,3
+COEP,306,CH-13001,Basic Chemistry,Theory,BC,3
+COEP,307,CGE-13001,Soil Engineering - I,Theory,SE-I,3
+COEP,308,CGE-13002,Earthen Dam & Retaining Structures,Theory,EDRS,3
+COEP,309,CGE-13003,Geotechnical Aspects in Earthquake Engineering,Theory,GAEE,3
+COEP,310,CGE-13004,FEM in Geomechanics,Theory,FEM in Geomechanics,3
+COEP,311,CGE(DE)-13001,Reinforced Earth and Geotextiles,Theory,REG,3
+COEP,312,CGE(ILE)-13001,Advanced Mathematical Methods,Theory,AMM,3
+COEP,313,CGE-13005,Laboratory Practice - I,Laboratory,Lab - I,4
+COEP,356,PME(DE)-11005,Terotechnology and Maintenance Management,Theory,TMM,3
+COEP,400,MA(ILE)-11001,Advanced Mathematics,Theory,Adv. Maths,3
+COEP,401,IPI-11001,Transducer Design,Theory,TD,3
+COEP,402,IPI-11002,Instrument Design Engineering,Theory,IDE,3
+COEP,403,IPI-11003,Modern Control Theory,Theory,MCT,3
+COEP,404,IPI(DE)-11001,Process System Engineering,Theory,PSE,3
+COEP,405,IPI(DE)-11002,Industrial Automation,Theory,IA,3
+COEP,406,IPI-11004,PG_Lab1,Laboratory,PG_Lab,3
+COEP,407,IPI-11005,Seminar,Seminar,Seminar,1
+COEP,408,LL-11001,Liberal Learning Course,Theory,LLC,1
+COEP,409,IBI(DE)-11001,Anatomy and Physiology,Theory,AAP,3
+COEP,410,IBI(DE)-11002,Physiological Modeling,Theory,PM,3
+COEP,411,PH-11004,Engineering Physics-II,Theory,PH,3
+COEP,412,CE-11002,Engineering Mechanics Laboratory,Laboratory,CELab,1
+COEP,412,CE-11002,Engineering Mechanics Laboratory,Laboratory,CELab,1
+COEP,413,EE-11003,Basic Electrical Engineering,Theory,BEE,4
+COEP,414,BP-11001,Fundamentals Of Urban and Regional Planning ,Theory,FURP,3
+COEP,414,BP-11001,Fundamentals Of Urban and Regional Planning ,Theory,FURP,3
+COEP,415,BP-11002,Surveying and Photogrammetry ,Theory,S&P,2
+COEP,416,BP-13001,Surveying and Photogrammetry Lab,Laboratory,S&PL,1
+COEP,417,BP-13002,"Specifications, Estimation and Valuation ",Theory,SEV,3
+COEP,418,BP-13003,Mathematics and Statistics II for planners  ,Theory,M&SII,3
+COEP,419,BP-13004,"Evolution of Aesthetic, Culture and Technology",Theory,EACT,2
+COEP,419,BP-13004,"Evolution of Aesthetic, Culture and Technology",Theory,EACT,3
+COEP,420,BP-13005,Techniques of Planning -I ,Theory,TP-I,3
+COEP,421,BP-13006,Applied Geology and Hydrology ,Theory,AGH,2
+COEP,422,BP-13007,Planning and Design Lab-II ,Laboratory,PDL-II,5
+COEP,423,MA-15001,Linear Algebra,Theory,LASS,3
+COEP,424,PH-15001,Optics and Modern Physics,Theory,OMP,3
+COEP,425,PH-15002,Optics and Modern Physics Laboratory,Laboratory,OMPL,1
+COEP,426,MA-15002,Univariate Calculus,Theory,Cal,3
+COEP,427,PH-15003,Solid State Physics and Statistical Thermodynamics ,Theory,SSPST,3
+COEP,428,CH-15001,Applied Chemistry,Theory,AC,3
+COEP,429,PH-15004,Solid State Physics Laboratory ,Laboratory,SSPL,1
+COEP,431,CH-15002,Applied Chemistry Laboratory  ,Laboratory,ACL,1
+COEP,432,PH-15005,Semiconductor Physics and Electromagnetism  ,Theory,SPE,3
+COEP,433,PH-15006,Semiconductor Physics Laboratory ,Laboratory,SPL,1
+COEP,434,EF-15001,Basic Electrical Engineering,Theory,BEE,3
+COEP,435,EF-15003,Computer Aided Engineering Drawing ,Theory,CAED,2
+COEP,435,EF-15003,Computer Aided Engineering Drawing ,Theory,CAED,3
+COEP,436,PE-15001,Mechanical Fab Shop,Laboratory,MFS,2
+COEP,437,HS-15001,Professional Communication ,Theory,PC,2
+COEP,438,EF-15002,Foundation of Mechanical Engineering,Theory,FME,3
+COEP,439,EF-15004,Computer Programming,Theory,CP,3
+COEP,440,ETC-15001,Electronics and Computer Workshop,Laboratory,ECW,1
+COEP,441,EF-15005,Basic Electronics Engineering,Theory,BEE,3
+COEP,442,EF-15006,Engineering Mechanics,Theory,EM,3
+COEP,443,MA-15003,Computational Methods in Engineering,Theory,CME,3
+COEP,445,MA-15005,"Experimental Designs, Data Analysis and Quality Control",Theory,EDDAQC,3
+COEP,446,MA-12004,Engineering Mathematics-III,Theory,M-III,4
+COEP,447,CE-15001,Building Construction and Materials,Theory,BCM,3
+COEP,448,MA-12005,Foundation of Mathematics-I,Theory,FOM-I,4
+COEP,449,CE-15002,Strength of Materials,Theory,SOM,3
+COEP,449,CE-15002,Strength of Materials,Theory,SOM,3
+COEP,451,CE-15003,Concrete Technology,Theory,CT,3
+COEP,451,CE-15003,Concrete Technology,Theory,CT,3
+COEP,452,MA-12006,Foundation of Mathematics-II,Theory,FOM-II,4
+COEP,452,MA-12006,Foundation of Mathematics-II,Theory,FOM-II,4
+COEP,454,MA-12007,Mathematics and Statistics -III for Planners,Theory,Stats-III,4
+COEP,456,ET-12001,Electonic Devices and Circuits,Theory,EDC,4
+COEP,458,ET-12002,Digital System Design,Theory,DSD,3
+COEP,459,ET-12003,Signals and Systems,Theory,SS,3
+COEP,460,ET-12004,Network Synthesis and Analog Filters,Theory,NSAF,3
+COEP,461,ET-12005,Electronic Devices and Circuits Lab,Laboratory,EDCL,1
+COEP,462,ET-12006,Digital System Design Lab,Laboratory,DSDL,1
+COEP,463,ET-12007,Network Synthesis and Analog Filters Lab,Laboratory,NSAFL,1
+COEP,464,ML-12001,Environmental Studies,Theory,ES,2
+COEP,464,ML-12001,Environmental Studies,Theory,ES,2
+COEP,464,ML-12001,Environmental Studies,Theory,ES,0
+COEP,465,BP-12001,Mathematics and Statistics III for planners,Theory,Quant techniques,3
+COEP,466,BP-12002,Planning Theory-I,Theory,PT,3
+COEP,467,HS-12001,Settlement  Geography and Urbanization,Theory,SGU,3
+COEP,468,BP-12003,Techniques of planning - II,Theory,TOP I,3
+COEP,469,BP-12004,Computer Aided Design In Planning,Tutorial,CADP,2
+COEP,470,BP-12005,Traffic and Transportation Planning -I,Theory,TTP I,3
+COEP,471,BP-12006,Planning and Design Lab - III,Studio,PDL III,5
+COEP,472,BP-12007,Introduction to Economics,Theory,Eco,2
+COEP,473,EE-12001,Solid State Devices and Linear Circuits,Theory,SDLC,4
+COEP,474,EE-12002,Electrical Circuit Analysis,Theory,ECA,4
+COEP,475,EE-12003,Solid State Devices and Linear Circuit lab,Laboratory,SDLC-LAB,2
+COEP,477,EE-12004,Numerical Methods and Computer Programming Lab,Laboratory,NMCP-LAB,3
+COEP,478,EE-12005,Electrical and Electronics Measurements,Theory,EEM,3
+COEP,480,EE-15001,Measurement Lab,Laboratory,EEM-LAB,1
+COEP,489,CT-12001,Digital Systems,Theory,DS,3
+COEP,490,CT-12002,Data Structures ,Theory,Data Structures,4
+COEP,501,IE-12001,Transducers I,Theory,TR1,3
+COEP,502,IE-12002,Analog Techniques,Theory,AT,3
+COEP,503,IE-12003,Electrical Measurement and Instrumentation,Theory,EMI,3
+COEP,504,IE-12004,Transducers I Laboratory ,Laboratory,TR1-LAB,2
+COEP,505,IE-12005,Analog Techniques Laboratory,Laboratory,AT-LAB,2
+COEP,506,IE-12006,Electrical Measurement and Instrumentation Laboratory,Laboratory,EMI-LAB,2
+COEP,508,MT-12001,Structure & Properties Of Materials ,Theory,SPM,3
+COEP,511,MT-12002,Principles Of Physical Metallurgy,Theory,PPM,3
+COEP,512,PE-15004,Production Processes,Theory,PP,3
+COEP,512,PE-15004,Production Processes,Theory,PP,4
+COEP,513,MT-12003,Geology & Ore Dressing,Theory,GOD,3
+COEP,514,AS-12001,Foundation of Physics ,Theory,FOP,3
+COEP,516,MT-12004,Electrical & Instrumentation Technology,Theory,EIT,3
+COEP,517,ME-12001,Engineering Thermodynamics,Theory,ET,3
+COEP,519,PE-15007,Production Processes Laboratory,Laboratory,PP LAB,1
+COEP,520,MT-12005,Principles Of Physical Metallurgy Laboratory ,Laboratory,PPM Lab,1
+COEP,521,PE-15008,Product and System Graphics Laboratory,Laboratory,PSG LAB,2
+COEP,521,PE-15008,Product and System Graphics Laboratory,Laboratory,PSG LAB,1
+COEP,522,MT-12006,Structures And Properties Of Material Laboratory ,Laboratory,SPM Lab,1
+COEP,523,ME-12002,Machine Drawing and Computer Graphics ,Theory,MDCG,2
+COEP,524,MT-12007,Geology & Ore Dressing Laboratory,Laboratory,GOD Lab,1
+COEP,526,MT-12008,Electrical & Instrumentation Technology Laboratory,Laboratory,EIT Lab,1
+COEP,528,ME-15001,Engineering Thermodynamics Lab,Laboratory,ET Lab,1
+COEP,529,LL-12001,Liberal Learning Course,Theory,LLC,1
+COEP,530,ME-12003,Machine Drawing and Computer Graphics Lab,Laboratory,MDCG LAB,2
+COEP,532,PE-12001,Manufacturing Engineering-I ,Theory,ME-1,3
+COEP,533,CT-12003,Discrete Structures and Graph Theory,Theory,DSGT,3
+COEP,534,CT-12004,Digital System Laboratory ,Laboratory,DS Lab,2
+COEP,535,CT-12005,Data Structure Laboratory,Laboratory,Data Stucture Lab,2
+COEP,536,CE-12001,Strength of Materials Lab,Laboratory,SOM-Lab,1
+COEP,537,PE-12002,Manufacturing Engineering - I Lab,Laboratory,ME-1 Lab,1
+COEP,538,ETC(ILE)-12001,Principles of Electronics Communication,Theory,PEC,3
+COEP,539,ICE(ILE)-12001,Engineering Instrumentation,Theory,EI,3
+COEP,540,AS(ILE)-12001,Analytical  Instrumentation and Laboratory Management,Theory,AILM,3
+COEP,541,AS(ILE)-11001,Advanced Engineering Materials,Theory,AEM,3
+COEP,542,EE(ILE)-12001,Electrical Technology,Theory,ET,3
+COEP,543,MM-12001,Material Science and Technology,Theory,MST,4
+COEP,544,MM-12002,Material Science and Technology Laboratory ,Laboratory,MST LAB,1
+COEP,545,ME-15001,Theory of Machines,Theory,TOM,3
+COEP,546,ME-15002,Theory of Machines Laboratory,Laboratory,TOM LAB,1
+COEP,547,CE-15004,Building construction drawing studio,Laboratory,BCD,1
+COEP,548,CE-15005,Strength of materials laboratory,Laboratory,SOM LAB,2
+COEP,548,CE-15005,Strength of materials laboratory,Laboratory,SOM LAB,1
+COEP,548,CE-15005,Strength of materials laboratory,Laboratory,SOM LAB,1
+COEP,549,CE-15006,Concrete Technology Laboratory,Laboratory,CT LAB,1
+COEP,550,CE-15007,Fluid Mechanics-I Laboratory,Laboratory,FM- I LAB,1
+COEP,552,CE-15008,Fluid Mechanics-I,Theory,FM-I,3
+COEP,553,CE-15009,Strength of Materials,Theory,SOM,3
+COEP,556,LL-14001,Agriculture,Tutorial,AGRI,1
+COEP,557,LL-12002,Business ,Tutorial,Busi,1
+COEP,558,LL-12003,Defence,Tutorial,Defe,1
+COEP,559,LL-12004,Education,Tutorial,Edu,1
+COEP,560,LL-12005,Fine Arts,Tutorial,FA,1
+COEP,561,LL-12006,Language,Tutorial,Lang,1
+COEP,562,LL-12007,Medicine & Health,Tutorial,Med ,1
+COEP,563,LL-12008,Performing Arts,Tutorial,PA,1
+COEP,564,LL-12009,Philosophy,Tutorial,Phil,1
+COEP,565,LL-12010,Social Sciences,Tutorial,Soc,1
+COEP,566,EVE(ILE)-15001,Embedded System Design,Theory,ESD,3
+COEP,567,EVE-15001,Selected Topics in Mathematics,Theory,Maths,4
+COEP,568,EVE-15002,RTL Simulation and Synthesis with PLDs,Theory,RTLSSP,3
+COEP,569,EVE-15003,Microcontrollers and Programmable Digital Signal Processors,Theory,MPDSP,3
+COEP,570,EVE(DE)-15001,Communication Networks,Theory,CN,3
+COEP,570,EVE(DE)-15001,Communication Networks,Theory,CN,3
+COEP,571,EVE(DE)-15002,Digital Signal and Image Processing,Theory,DS&IP,3
+COEP,571,EVE(DE)-15002,Digital Signal and Image Processing,Theory,DS&IP,3
+COEP,572,EVE(DE)-15003,Programming Languages for Embedded Software,Theory,PLES,3
+COEP,573,EVE-15004,RTL Simulation and Synthesis with PLDs Lab ,Laboratory,RTLSSPL,1
+COEP,574,EVE-15005,Microcontrollers and Programmable Digital Signal Processors Lab,Laboratory,MPDSPL,1
+COEP,579,EVE-15009,Seminar,Seminar,Seminar,1
+COEP,582,ERP(DE)-15001,ABAP,Theory,ABAP,3
+COEP,583,ME-15003,Computer Aided Engineering Drawing Laboratory,Laboratory,CAED Lab,1
+COEP,585,EDE-15001,Advanced Topics in Computer Architecture,Theory,ACA,3
+COEP,586,EDE-15002,Digital Design and Verification,Theory,DDV,3
+COEP,587,EDE-15003,Image Processing and Computer Vision,Theory,IPCV,3
+COEP,588,EDE-15004,Mathematics for Digital Systems,Theory,MDS,3
+COEP,589,EDE-15005,Advanced Topics in Computer Architecture Lab,Laboratory,ACAL,1
+COEP,590,EDE-15006,Digital Design and Verification Lab,Laboratory,DDVL,2
+COEP,591,EDE-15007,Image Processing and Computer Vision Lab,Laboratory,IPCVL,1
+COEP,592,EDE-15008,Seminar,Seminar,SEMI,1
+COEP,596,MA-15006,Statistical and quantitative methods in Planning I,Theory,SQMP,3
+COEP,597,BP-15001,Fundamentals of Building Structures,Theory,FBS,2
+COEP,598,BP-15002,Materials and Principles of Construction,Theory,MPC,2
+COEP,599,BP-15003,Materials and Principles of Construction Lab,Laboratory,MPCL,1
+COEP,600,AS-15002,Basic Science,Theory,BS,3
+COEP,601,BP-15004,Planning and Design Studio - I,Laboratory,PDS,5
+COEP,603,EWW-15001,Statistical Information Processing,Theory,SIP,4
+COEP,604,EWW(DE)-15001,Cognitive Radio,Theory,CR,3
+COEP,605,EWW(DE)-15002,RF and Microwave Circuit Design,Theory,RFMCD,3
+COEP,606,EWW-15002,Advanced Communication Networks,Theory,ACN,3
+COEP,607,EWW-15003,Wireless and Mobile Communication,Theory,WMC,3
+COEP,610,EWW-15006,Advanced Communication Networks Lab,Laboratory,ACNL,1
+COEP,611,EWW-15007,Wireless and Mobile Communication Lab,Laboratory,WMCL,1
+COEP,612,EWW-15008,Seminar,Seminar,Seminar,1
+COEP,615,ESP-15001,Mathematical Techniques in Signal Processing,Theory,MTSP,4
+COEP,616,ESP-15002,DSP Architecture,Theory,DSPA,3
+COEP,617,ESP-15003,Multirate and Adaptive Signal Processing,Theory,MASP,3
+COEP,618,ESP(DE)-15001,Audio Processing,Theory,AP,3
+COEP,620,ESP-15004,DSP Architecture Lab,Laboratory,DSPAL,1
+COEP,621,ESP-15005,Multirate and Adaptive Signal Processing Lab,Laboratory,MASPL,1
+COEP,622,ESP-15006,Audio Processing Lab,Laboratory,APL,1
+COEP,623,ESP-15007,Seminar,Seminar,Seminar,1
+COEP,625,COC-15001,"Probability, Statistics and Queuing Theory",Theory,PSQT,3
+COEP,626,COC-15002,Topics in Databases,Theory,TDB,3
+COEP,627,COC-15003,Advanced Computer  Networks,Theory,ACN,3
+COEP,628,COC-15004,Advanced Computer Architecture,Theory,ACA,3
+COEP,633,COC-15005,PG Laboratory - I,Laboratory,PGL-I,2
+COEP,637,COC-15007,Security in Computing,Theory,SIC,3
+COEP,638,COC-15008,Data Mining and Machine Learning,Theory,DM&ML,3
+COEP,648,COC-15009,PG Laboratory - II,Laboratory,PGL-II,2
+COEP,659,ML-15001,Research Methodology,Theory,RM,0
+COEP,660,ML-15002,Humanities,Theory,Humanities,0
+COEP,661,EPS-15001,Engineering Optimization,Theory,EO,3
+COEP,662,EPS-15002,Power System Analysis,Theory,PSA,4
+COEP,663,EPS-15003,Analysis of Electric Machines,Theory,EMA,4
+COEP,665,EPS-15004,High Power Converters,Theory,HPC,3
+COEP,667,EPS-15005,Simulation Laboratory,Laboratory,SL,3
+COEP,669,PME-15001,Robotics and Manufacturing Automation,Theory,RMA,3
+COEP,670,PME-15002,Advanced Machine Tool Design,Theory,AMTD,3
+COEP,671,PME-15003,"Additive Manufacturing Processes, Machines and Applications",Theory,AMPMA,3
+COEP,672,PME-15004,Advanced Manufacturing Laboratory-I,Laboratory,AM LAB,2
+COEP,674,PPM-15001,Performance Modelling of Production Systems,Theory,PMPS,3
+COEP,676,PPM-15003,Financial Planning and Management,Theory,FPM,3
+COEP,677,COC(DE)-15001,Distributed Operating Systems,Theory,DOS,3
+COEP,678,COC(DE)-15002,Graphics and Visualization,Theory,GV,3
+COEP,679,COC(DE)-15003,Linux Kernel Programming,Theory,LKP,3
+COEP,680,MA-15007,"Experimental Design, Data Analysis and Quality Control Lab",Laboratory,EDDA LAB,1
+COEP,681,PPM-15004,Software Laboratory-I,Laboratory,SOFT LAB-I,2
+COEP,682,MDE-15001,Mathematical Methods in Engineering,Theory,MME,3
+COEP,683,MDE-15002,Stress Analysis,Theory,SA,3
+COEP,684,PPM-15005,Production and Operations Management,Theory,POM,3
+COEP,685,MDE-15003,Computer Aided Design,Theory,CAD,3
+COEP,686,MDE-15004,Advanced Vibrations and Acoustics,Theory,AVA,3
+COEP,687,MDE-15005,Lab Course,Laboratory,Lab,2
+COEP,688,MDE(DE)-15001,Advance Machine Design,Theory,AMD,3
+COEP,689,MDE(DE)-15002,Design of Manufacturing and Assembly,Theory,DMA,3
+COEP,690,MDE(DE)-15003,Advance Machine Tool Design,Theory,AMTD,3
+COEP,691,MDE(DE)-15004,Advance Engineering Materials,Theory,AEM,3
+COEP,692,MDE(DE)-15005,Robotics,Theory,Robo,3
+COEP,693,MAT-15001,Computational Methods in Engineering,Theory,CME,3
+COEP,694,MAT-15002,Automotive Fuels and Emission,Theory,AFE,3
+COEP,695,MAT-15003,Automotive Engineering Systems,Theory,AES,3
+COEP,696,MAT-15004,Communication Skill and Seminar,Theory,CSS,3
+COEP,697,MCH-15001,Principles of Design of Machine Elements,Theory,PDOME,3
+COEP,698,MAT-15005,Automotive Lab-I,Laboratory,Auto Lab,2
+COEP,699,ETC-15006,Principles of Electronics,Theory,POE,3
+COEP,700,MAT(DE)-15001,Automotive Materials and Composites,Theory,AMC,3
+COEP,701,MCH-15002,Mechatronics System Design,Theory,MSD,3
+COEP,702,MAT(DE)-15002,Combustion Engineering,Theory,CE,3
+COEP,703,EE-15002,Power Electronics and Drives,Theory,PED,3
+COEP,704,MCH-15003,Mechatronics System Design Laboratory,Laboratory,MSD LAB,1
+COEP,705,MAT(DE)-15003,Automotive Tribology,Theory,AT,3
+COEP,706,EE-15003,Power Electronics and Drives Laboratory,Laboratory,PED LAB,1
+COEP,707,MAT(DE)-15004,Automotive Safety and Lighting,Theory,ASL,3
+COEP,710,MAT(DE)-15005,Hybrid and Electric Vehicles,Theory,HEV,3
+COEP,711,MAT(DE)-15006,Automotive NVH,Theory,Auto NVH,3
+COEP,712,MAT(DE)-15007,Modeling of Automotive Systems,Theory,MoAS,3
+COEP,714,MHP-15001,Mathematical Methods in Engineering,Theory,MME,3
+COEP,715,MHP-15002,Thermodynamics  and Combustion,Theory,TC,3
+COEP,716,MHP-15003,Fluid Dynamics,Theory,FD,3
+COEP,717,MHP-15004,Advanced Refrigeration and Cryogenics,Theory,ARC,3
+COEP,720,MHP-15005,Advance Heat Transfer,Theory,AHT,3
+COEP,721,MHP-15006,Thermal Engineering Lab Practice,Laboratory,TE Lab,2
+COEP,722,ECE-15001,Linear System Theory and Design,Theory,LSTD,3
+COEP,723,ECE-15002,Modeling of Dynamic System,Theory,MDS,3
+COEP,724,ECE-15003,Nonlinear Dynamic Systems,Theory,NLDS,4
+COEP,725,ECE-15004,Digital Control System,Theory,DCS,4
+COEP,726,ECE-15005,PG Simulation Lab,Laboratory,Simulation Lab,3
+COEP,730,EW-15001,Advanced Hydraulics and Hydrology,Theory,AHH,4
+COEP,731,EW-10001,Advanced Treatment of Water and Waste Water,Theory,ATWWW,4
+COEP,732,EW-10002,Water Resource and Environmental Engineering Laboratory-I,Laboratory,PGL,2
+COEP,736,EW-10003,Seminar/Project,Seminar,CS-I,1
+COEP,743,CSE-15002,Solid Mechanics,Theory,SM,3
+COEP,744,CSE-15003,Theory of Thin Plates and Shells,Theory,TTPS,3
+COEP,745,CSE-15004,Advanced Analysis of Structures,Theory,AAS,3
+COEP,749,CSE-15005,Lab Practice-I,Theory,SELP-I,3
+COEP,749,CSE-15005,Lab Practice-I,Theory,SELP-I,3
+COEP,750,CM-15001,Construction Equipment & Machinery ,Theory,CEM,4
+COEP,751,CM-15002,Construction Materials and Materials Management,Theory,CMMM,4
+COEP,752,CM(DE)-15001,Professional Practice in Construction,Theory,PPC,3
+COEP,753,CM-15003,Post Graduate Lab-I,Laboratory,PGL-I,3
+COEP,755,CSE-15006,Structural Dynamics,Theory,STD,3
+COEP,756,CM-15004,Probability and Data Analysis,Theory,PDA,4
+COEP,757,CGE-15001,Soil Engineering - I,Theory,SE-I,3
+COEP,758,CGE-15002,Earth Dam and Retaining Structures,Theory,EDRS,3
+COEP,763,MPH-15001,Mathematical Modeling in Metallurgical Processes,Theory,MMMP,4
+COEP,766,MPH-15002,Theory and Practice of Sintering,Theory,TPS,3
+COEP,767,MPH-15003,Corrosion Engineering,Theory,CE,3
+COEP,768,MPH-06001,Phase Transformations,Theory,PT,4
+COEP,769,MPH-06002,Lab Practice 1,Laboratory,LP 1,1
+COEP,770,MPH-06003,Seminar 1,Seminar,S 1,1
+COEP,778,MPR-11001,Concepts in Materials Science,Theory,CMS,3
+COEP,779,MPR-15001,Theory and Practice of Sintering,Theory,TPS,3
+COEP,781,MPR-06002,Advances in Iron and Steel Making,Theory,AISM,4
+COEP,782,MPR-06003,Lab Practice 1,Laboratory,LP 1,1
+COEP,783,MPR-06004,Seminar 1,Seminar,S 1,1
+COEP,786,CM-15005,Laboratory-I,Laboratory,PGL,3
+COEP,788,CGE-15004,FEM in Geomechanics,Theory,FEMG,3
+COEP,790,CGE(ILE)-15001,Environmental Geotechnology,Theory,EG,3
+COEP,791,CSE-15007,Structural Engineering Lab Practice-I,Theory,SELP-I,3
+COEP,792,CGE-15005,Geotechnical Engineering Lab Practice-I,Laboratory,GELP-I,4
+COEP,795,EW(DE)-15001,Channel and River Hydraulics,Theory,CRH,3
+COEP,796,EW-15002,Seminar,Seminar,Seminar,1
+COEP,797,EW(DE)-15002,Design of Reactors and Environmental Chemistry,Theory,DREC,3
+COEP,798,ICE-15001,Transducers Design,Theory,TD,3
+COEP,799,ICE-15002,Instrument Design Engineering,Theory,IDE,3
+COEP,800,IPI-15001,Modern Control Theory,Theory,MCT,3
+COEP,801,TCP-15001,Quantitative Methods in Urban Planning ,Theory,QMUP,3
+COEP,802,ICE-15003,Lab Course,Laboratory,LC,4
+COEP,803,TCP-15002,Planning History and Theories,Theory,PHT,3
+COEP,804,ICE-15004,Seminar,Seminar,Seminar,1
+COEP,805,IPI-15002,Advanced Process Instrumentation,Theory,API,3
+COEP,806,TCP-15003,Socio-Economic Basis of Planning,Theory,SEBP,3
+COEP,807,TCP-15004,Traffic and Transportation Planning ,Theory,TTP,3
+COEP,808,IPI-15003,Advanced Control System,Theory,ACS,3
+COEP,809,TCP-15005,Planning Studio-I,Laboratory,PS-I,4
+COEP,810,TCP(DE)-15001,Rural Development and Inclusive Planning,Theory,RDIP,3
+COEP,811,IPI(DE)-15001,Industrial Automation ,Theory,IA,3
+COEP,812,IPI(DE)-15002,Process Modeling and Optimization,Theory,PMO,3
+COEP,813,IPI(DE)-15003,Smart Cities Instrumentation and Automation,Theory,SCIA,3
+COEP,814,IPI(DE)-15004,Batch Process Control,Theory,BPC,3
+COEP,815,IPI(DE)-15005,Process System Engineering,Theory,PSE,3
+COEP,816,IPI(DE)-15006,Process  Dynamics and Identification,Theory,PDI,3
+COEP,817,IPI(DE)-15007,Soft Computing,Theory,SC,3
+COEP,818,IPI(DE)-15008,Optical Instrumentation,Theory,OI,3
+COEP,819,ICE(DE)-15001,Embedded System,Theory,ES,3
+COEP,820,ICE-15005,M. Tech Dissertation I,Project,Dissertation I,16
+COEP,821,ICE-15006,M. Tech Dissertation II,Project,Dissertation II,18
+COEP,822,IBI-15001,Anatomy and Physiology,Theory,AP,3
+COEP,823,IBI-15002,Biomedical Signal Processing,Theory,BSP,3
+COEP,824,IBI-15003,Advanced Medical Instrumentation,Theory,AMI,3
+COEP,825,IBI(DE)-15001,Physiological Modeling,Theory,PM,3
+COEP,826,IBI(DE)-15002,Clinical Engineering,Theory,CE,3
+COEP,827,IBI(DE)-15003,Medical Imaging Techniques,Theory,MIT,3
+COEP,828,IBI(DE)-15004,Ultrasonic Applications in Bioengineering,Theory,UAIB,3
+COEP,829,IBI(DE)-15005,Hospital Management,Theory,HM,3
+COEP,830,IBI(DE)-15006,Rehabilitation Engineering,Theory,RE,3
+COEP,831,IBI(DE)-15007,Robotics,Theory,Robotics,3
+COEP,832,ML-15001,Humanities,Theory,Humanities,1
+COEP,833,ML-15003,Research Methodology,Theory,RM,0
+COEP,834,MA-15008,Statistics,Theory,Stat,3
+COEP,835,ME(ILE)-15001,Steam Engineering,Theory,SE,3
+COEP,836,ME(ILE)-15002,Finite Element Method,Theory,FEM,3
+COEP,837,PE(ILE)-15002,Micro Controller and its Application,Theory,MCIA,3
+COEP,838,ICE(ILE)-15001,Smart Sensors and Systems,Theory,SSS,3
+COEP,839,CE(ILE)-15001,Environmental Impact Assessment ,Theory,EIA,3
+COEP,840,CE(ILE)-15002,Sustainable Smart Cities ,Theory,SSC,3
+COEP,841,CE(ILE)-15003,Numerical Methods,Theory,NM,3
+COEP,842,PE(ILE)-15003,Supply Chain and Logistic Management,Theory,SCLM,3
+COEP,843,CE(ILE)-15004,Matlab for Engineering Applications,Theory,MEA,3
+COEP,844,PE(ILE)-15004,Project Planning and Control ,Theory,PPC,3
+COEP,845,PE(ILE)-15005,Reliability Engineering ,Theory,RE,3
+COEP,846,CT(ILE)-15001,Data Structures ,Theory,DS,3
+COEP,847,MM(ILE)-15001,NanoMaterials & NanoTechnology ,Theory,NMNT,3
+COEP,848,EE(ILE)-15001,Engineering Optimization ,Theory,EO,3
+COEP,849,ETC(ILE)-15001,Artificial Intelligence,Theory,AI,3
+COEP,850,MM(ILE)-15002,Laser Materials Processing,Theory,LMP,3
+COEP,851,ETC(ILE)-15002,Image Processing and Applications,Theory,IPA,3
+COEP,852,MM(ILE)-15003,Advanced Composites,Theory,AC,3
+COEP,853,MPH-15004,Mathematical Modeling in Metallurgical Processes,Theory,MMMP,4
+COEP,854,MPH-15005,Corrosion Engineering,Theory,CE,3
+COEP,855,MPH-15006,Phase Transformations,Theory,PT,4
+COEP,856,MPH-15007,Lab Practice – I,Laboratory,LP-I,2
+COEP,857,MPH-15008,Seminar–I,Seminar,SE-I,1
+COEP,858,MPH-15009,Lab Practice–I,Laboratory,LP-I,2
+COEP,859,MPH(DE)-15001,Concepts in Materials Science,Theory,CMS,3
+COEP,860,MPH(DE)-15002,Electronic and Magnetic Materials,Theory,EMM,3
+COEP,861,MPH(DE)-15003,Theory and Practice of Sintering,Theory,TPS,3
+COEP,862,MPR-15003,Heat and Mass Transfer,Theory,HMT,4
+COEP,863,EVE(DE)-15004,Communication Network Lab,Laboratory,CN Lab,1
+COEP,864,MPR-15004,Solidification Processing & Material Joining,Theory,SPMJ,3
+COEP,865,EVE(DE)-15005,Digital Signal and Image Processing Lab,Laboratory,DS and IP Lab,1
+COEP,866,MPR-15005,Advances In Iron and Steel making,Theory,AISM,4
+COEP,867,EVE(DE)-15006,Programming Languages for Embedded Software Lab ,Laboratory,PLES Lab,1
+COEP,871,MPR(DE)-15001,Theory and Practice of Sintering,Theory,TPS,3
+COEP,873,MPR(DE)-15002,Electronic and Magnetic Materials,Theory,EMM,3
+COEP,876,EWW(DE)-15003,Cognitive Radio Lab ,Laboratory,CRL,1
+COEP,877,EWW(DE)-15004,RF and Microwave Circuit Design Lab,Laboratory,RFMCDL,1
+COEP,879,MPR-15007,Lab Practice I,Laboratory,LP1,2
+COEP,880,MPR-15008,Seminar I,Seminar,Seminar,1
+COEP,883,MPR(DE)-15006,Concepts in Materials Science,Theory,CMS,3
+COEP,884,EW-15003,Water Resource and Environmental Engineering Laboratory-I,Laboratory,EWRELP,2
+COEP,887,ML-15004,Intellectual Property Rights,Theory,IPR,0
+COEP,888,LL-15002,Liberal Learning Course,Theory,LLC,1
+COEP,889,EPS-15006,Power System Dynamics,Theory,PSD,4
+COEP,891,ET-15001,Analog Communications Systems,Theory,ACS,3
+COEP,892,EPS-15007,HVDC and FACTS,Theory,FACTS,3
+COEP,893,EPS-15008,Digital Protection,Theory,DP,3
+COEP,894,EPS-15009,Hardware Laboratory ,Laboratory,HL,3
+COEP,895,EPS(DE)-15001,Power Systems Transients,Theory,PST,3
+COEP,896,EPS(DE)-15002,Smart Grid,Theory,SG,3
+COEP,897,EPS(DE)-15003,Computational Electromagnetic,Theory,CE,3
+COEP,898,EDE-15009,DSP Architecture,Theory,DSPA,3
+COEP,899,EPS(DE)-15004,Energy Auditing and Conservation ,Theory,EAC,3
+COEP,900,EPS(DE)-15005,PM and SR Motors ,Theory,PMSR,3
+COEP,901,EDE-15010,Real Time Operating Systems,Theory,RTOS,3
+COEP,902,EDE-15011,Digital CMOS VLSI Design,Theory,DCVD,4
+COEP,903,EDE(DE)-15001,Pattern Recognition and Classification ,Theory,PRC,3
+COEP,904,EDE(DE)-15002,Low Power VLSI Design,Theory,LPVD,3
+COEP,905,EDE(DE)-15003, Contemporary Computational Methodologies and Practices,Theory,CCMP,3
+COEP,907,EDE(DE)-15005, High Performance Network ,Theory,HPN,3
+COEP,908,EDE(DE)-15006,Crypto-processors,Theory,Crypto,3
+COEP,909,EDE-15012,DSP Architecture Lab,Laboratory,DSPAL,1
+COEP,910,EDE-15013,Real Time Operating Systems Lab ,Laboratory,RTOSL,1
+COEP,911,EDE-15014,Digital CMOS VLSI Design Lab ,Laboratory,DCVDL,1
+COEP,912,ML-15005,Intellectual Property Rights,Theory,IPR,1
+COEP,915,BP-15005,Statistical and Quantitative Methods in Planning-II ,Theory,SQMP,3
+COEP,916,BP-15006,Settlement Geography and Urbanization,Theory,SGU,2
+COEP,921,BP-15011,Planning and Design Studio - II,Studio,PDL-II,5
+COEP,923,ET-15002,Micro –controllers and Applications,Theory,MCA,4
+COEP,924,ET-15003,Integrated Circuits and Applications,Theory,ICA,3
+COEP,925,ET-15004,Data Structures and Algorithms ,Theory,DSA,3
+COEP,927,AS-15003,Applied Biology,Theory,AppBio,3
+COEP,927,AS-15003,Applied Biology,Theory,AppBio,3
+COEP,928,ET-15005,Analog Communications Systems Lab,Laboratory,ACSL,1
+COEP,929,ET-15006,Micro –controllers and Applications Lab,Laboratory,MCAL,1
+COEP,930,ET-15007,Integrated Circuits and Applications Lab,Laboratory,ICAL,1
+COEP,931,ET-15008,Data Structures and Algorithms Lab,Laboratory,DSAL,1
+COEP,932,EVE-15010,Analog and Digital CMOS VLSI Design,Theory,ADCVD,4
+COEP,933,EVE-15011,System Design with Embedded Linux,Theory,SDEL,3
+COEP,934,EVE-15012,VLSI Design Verification and Testing,Theory,VDVT,3
+COEP,935,EVE(DE)-15007,Memory Technologies,Theory,MT,3
+COEP,936,EVE(DE)-15008,SoC Design ,Theory,SoCD,3
+COEP,937,EVE(DE)-15009,Parallel Processing,Theory,PP,3
+COEP,938,EVE(DE)-15010,Communication Busses and Interfaces,Theory,CBI,3
+COEP,939,EVE(DE)-15011,Network Security and Cryptography ,Theory,NSC,3
+COEP,940,EVE-15013,Analog and Digital CMOS VLSI Design Lab ,Laboratory,ADCVDL,1
+COEP,941,EVE-15014,System Design with Embedded Linux Lab ,Laboratory,SDELL,1
+COEP,943,EVE-15015,VLSI Design Verification and Testing Lab,Laboratory,VDVTL,1
+COEP,944,EWW-15009,Advances in Digital Communication,Theory,ADC,3
+COEP,945,EWW-15010,Antennas and Radiating Systems ,Theory,ARS,3
+COEP,946,EWW-15011,High Performance Networks,Theory,HPN,3
+COEP,947,EWW(DE)-15005, Internet of Things,Theory,IoT,3
+COEP,949,EWW(DE)-15006,Satellite Communication,Theory,SatCom,3
+COEP,950,EWW(DE)-15007,Optical Networks,Theory,OptNet,3
+COEP,951,EWW(DE)-15008,Wireless Sensor Network ,Theory,WSN,3
+COEP,952,EWW(DE)-15009,Markov Chain and Queuing System,Theory,MCQS,3
+COEP,953,EWW(DE)-15010,MIMO System,Theory,MIMOS,3
+COEP,954,EWW-15012,Advances in Digital Communication Lab ,Laboratory,ADCL,1
+COEP,955,EWW-15013,Antennas and Radiating Systems Lab ,Laboratory,ARSL,1
+COEP,956,EWW-15014,High Performance Networks Lab ,Laboratory,HPNL,1
+COEP,957,EWW-15015,Mini Project,Laboratory,MPDE,1
+COEP,958,ESP-15008,Digital Image and Video Processing,Theory,DIVP,4
+COEP,959,ESP-15009,Biomedical Signal Processing ,Theory,BSP,3
+COEP,960,ESP-15010,Computer Vision and Machine Learning ,Theory,CVML,3
+COEP,961,ESP(DE)-15002,Multispectral Signal Analysis,Theory,MSA,3
+COEP,962,ESP(DE)-15003,Signal Acquisition Devices and System,Theory,SADS,3
+COEP,963,ESP(DE)-15004,Voice and Data Network,Theory,VDN,3
+COEP,964,ESP(DE)-15005,JTFA and MRA Techniques,Theory,JTFAMRA,3
+COEP,965,ESP(DE)-15006,Soft Computing System,Theory,SCS,3
+COEP,966,ESP(DE)-15007,Multimedia Signal Processing,Theory,MSP,3
+COEP,967,ESP-15011,Digital Image and Video Processing Lab ,Laboratory,DIVPL,1
+COEP,968,ESP-15012,Biomedical Signal Processing Lab ,Laboratory,BSPL,1
+COEP,969,ESP-15013,Computer Vision and Machine Learning Lab,Laboratory,CVMLL,1
+COEP,970,ME-12004,Theory of Machines-I,Theory,TOM-I,3
+COEP,970,ME-12004,Theory of Machines-I,Theory,TOM-I,3
+COEP,971,ME-12005,Fluid Mechanics,Theory,FM,3
+COEP,971,ME-12005,Fluid Mechanics,Theory,FM,3
+COEP,972,ME-12006,Manufacturing Engineering -II,Theory,ME-II,3
+COEP,972,ME-12006,Manufacturing Engineering -II,Theory,ME-II,1
+COEP,973,ME-12007,Material Science and Technology,Theory,MST,3
+COEP,974,ME-12008,Theory of Machines-I Laboratory,Laboratory,TOM-I Lab,1
+COEP,975,ME-12009,Fluid Mechanics Laboratory,Laboratory,FM Lab,1
+COEP,975,ME-12009,Fluid Mechanics Laboratory,Laboratory,FM Lab,1
+COEP,976,ME-12010,Manufacturing Engineering -II Laboratory,Laboratory,ME-II Lab,1
+COEP,977,ME-12011,Material Science and Technology Laboratory,Laboratory,MST Lab,1
+COEP,981,EE-12006,Fundamentals of Electric Machinery,Theory,EMc,4
+COEP,982,EE-12007,Digital Electronics,Theory,DE,3
+COEP,983,EE-12008,Electromagnetic Fields,Theory,EMF,4
+COEP,984,EE-12009,Electrical Machines Lab I,Laboratory,EMc-Lab,1
+COEP,985,EE-12010,Digital Electronics Lab,Laboratory,DE-Lab,1
+COEP,986,EE-12011,Data Structures and Computer Programming Lab,Laboratory,DS&CP-Lab,3
+COEP,995,ECE-15006,Sliding Mode Control,Theory,SMC,3
+COEP,996,ECE-15007,Multivariable Control System,Theory,MVCS,4
+COEP,997,ECE-15008,Optimal Control System,Theory,OCS,3
+COEP,998,ECE(DE)-15001,Intelligent Control,Theory,IC,3
+COEP,999,ECE(DE)-15002,Model Predictive Control,Theory,MPC,3
+COEP,1000,ECE(DE)-15003,Fractional Order Modelling and Control,Theory,FOM&C,3
+COEP,1001,ECE(DE)-15004,Control Related Estimations,Theory,CRE,3
+COEP,1002,ECE(DE)-15005,Power Electronics and Control,Theory,PE & C,3
+COEP,1003,ECE-15009,PG Hardware Lab,Laboratory,HL,3
+COEP,1004,MAT-15006,Vehicle Dynamics,Theory,VD,3
+COEP,1005,MAT-15007,Automotive Electronics,Theory,AE,3
+COEP,1006,MAT-15008,I. C. Engine Modelling,Theory,I C Engine Mod.,3
+COEP,1008,MAT-15009,Automotive Engine Design,Theory,AED,3
+COEP,1009,MAT(DE)-15008,Finite Element Method,Theory,FEM,3
+COEP,1010,MAT(DE)-15009,Computational Fluid Dynamics,Theory,CFD,3
+COEP,1011,MAT(DE)-15010,Automotive Aerodynamics,Theory,AA,3
+COEP,1012,MT-15001,Heat Treatment Technology,Theory,HTT,3
+COEP,1013,MT-15002,Metallurgical Thermodynamics,Theory,MT,4
+COEP,1014,MT-15003,Principles of Metal Working,Theory,PMW,3
+COEP,1015,MT-15004,Modeling in Materials Engineering,Theory,MME,3
+COEP,1015,MT-15004,Modeling in Materials Engineering,Theory,MME,3
+COEP,1016,MT-15005,Mechanical Technology,Theory,Mech Tech,3
+COEP,1016,MT-15005,Mechanical Technology,Theory,Mech Tech,3
+COEP,1017,MT-15006,Heat Treatment Technology Laboratory,Laboratory,HTT Lab,1
+COEP,1018,MAT(DE)-15011,Automotive HVAC,Theory,Auto HVAC,3
+COEP,1019,MT-15007,Principles of Metal Working Laboratory,Laboratory,PMW Lab,1
+COEP,1020,MT-15008,Mechanical Technology Laboratory,Laboratory,Mech Tech Lab,1
+COEP,1020,MT-15008,Mechanical Technology Laboratory,Laboratory,Mech Tech Lab,1
+COEP,1021,MAT-15010,Mini Project,Mini Project,MP,2
+COEP,1022,HS-15002,Professional Communication,Theory,PC,2
+COEP,1024,MAT-15011,Automotive Lab-II,Laboratory,Auto Lab- II,2
+COEP,1025,ML-15006,Environmental Studies,Theory,ES,2
+COEP,1026,MPH-15010,Characterization Techniques,Theory,CT,4
+COEP,1027,MPH-15011,Physical Metallurgy of Advanced Materials,Theory,PMAM,3
+COEP,1028,MPH-15012,Mechanical Behavior of Materials,Theory,MBM,3
+COEP,1029,MPH(DE)-15004,Light Metals and Alloys,Theory,LMA,3
+COEP,1030,MPH(DE)-15005,Amorphous Materials,Theory,AM,3
+COEP,1031,MPH(DE)-15006,Nuclear Materials,Theory,NM,3
+COEP,1032,MPH(DE)-15007,Advances in Metal Working,Theory,AMW,3
+COEP,1033,MPH-15013,Lab Practice-II,Laboratory,Lab Practice II,2
+COEP,1034,MPH-15014,Seminar-II,Laboratory,Seminar II,1
+COEP,1038,LL-15004,Liberal Learning Course,Theory,LLC,1
+COEP,1039,LL-15005,Liberal Learning Course,Theory,LLC,1
+COEP,1040,MPR-15009,Characterization Techniques,Theory,CT,4
+COEP,1041,MPR-15010,Surface Processing of Materials,Theory,SPM,3
+COEP,1042,MPR-15011,Mechanical Behavior of Materials,Theory,MBM,3
+COEP,1043,MPR(DE)-15007,Light Metals and Alloys,Theory,LMA,3
+COEP,1044,MPR(DE)-15008,Secondary Steel Making,Theory,SSM,3
+COEP,1045,MPR(DE)-15009,Nuclear Materials,Theory,NM,3
+COEP,1046,MPR(DE)-15010,Advances in Metal Working,Theory,AMW,3
+COEP,1047,MPR-15012,Lab Practice II,Laboratory,Lab Practice II,2
+COEP,1048,MPR-15013,Seminar II,Laboratory,Seminar II,1
+COEP,1057,EE-15004,Industrial Electronics and Electrical Drive Systems,Theory,IEEDS,3
+COEP,1058,CT-11003,Theory of Computer Science,Theory,TCS,3
+COEP,1059,CT-11004,Microprocessor Techniques,Theory,MPT,3
+COEP,1059,CT-11004,Microprocessor Techniques,Theory,MPT,3
+COEP,1060,CT-11005,Principles of Programming Languages,Theory,PPL,3
+COEP,1061,CT-11006,Data Communication,Theory,DC,3
+COEP,1062,CT-11007,Microprocessor Techniques Laboratory,Laboratory,MPT-PR,2
+COEP,1063,ME-15004,Engineering Thermodynamics and Heat Transfer,Theory,ETHT,3
+COEP,1064,CT-11008,Principles of Programming Languages Laboratory,Laboratory,PPL-PR,2
+COEP,1065,ME-15005,Fluid Power,Theory,FP,3
+COEP,1066,ME-15006,Design of Machine Elements,Theory,DOME,3
+COEP,1067,PE-15009,Machining Science and Technology,Theory,MST,3
+COEP,1068,EE-15005,Industrial Electronics and Electrical Drive Systems Laboratory,Laboratory,IEEDS LAB,1
+COEP,1069,ME-15007,Engineering Thermodynamics and Heat Transfer Laboratory,Laboratory,ETHT LAB,1
+COEP,1070,ME-15008,Fluid Power Laboratory,Laboratory,FP LAB,1
+COEP,1071,CE-15010,Surveying I,Theory,Survey-I,3
+COEP,1071,CE-15010,Surveying I,Theory,Survey-I,3
+COEP,1073,CE-15011,Building Design & Drawing,Theory,BDD,3
+COEP,1074,CE-15012,Fluid Mechanics II ,Theory,FM-II,3
+COEP,1075,CE-15013,Structural Mechanics I ,Theory,SM-I,3
+COEP,1076,CE-15014,Engineering Geology,Theory,EG,3
+COEP,1077,CE-15015,Surveying­I Laboratory,Laboratory,Survey-I Lab,1
+COEP,1078,CE-15016,Building Design & Drawing  Studio.,Laboratory,BDD Lab,2
+COEP,1080,CE-15017,Engineering Geology Lab ,Laboratory,EG Lab,1
+COEP,1089,PME-15005,Advanced Materials and Processing,Theory,AMP,3
+COEP,1090,PME-15006,Manufacturing Systems Design and Optimization,Theory,MSDO,3
+COEP,1091,PME-15007,Advanced Manufacturing Technology,Theory,AMT,3
+COEP,1093,PME-15008,Metrology and Computer Aided Inspection,Theory,MCAI,3
+COEP,1094,PME-15009,Advanced Manufacturing Laboratory-II,Laboratory,AM LAB-II,2
+COEP,1095,PME-15010,Decision Making and Optimization Laboratory,Laboratory,DMO LAB,1
+COEP,1096,PME(DE)-15001,Sustainable Manufacturing,Theory,SM,3
+COEP,1098,CGE-15006,Soil Engineering-II,Theory,SE-II,3
+COEP,1099,PME(DE)-15002,Tribology,Theory,TRIBO,3
+COEP,1100,CGE-15007,Analysis and Design of Foundations,Theory,ADF,3
+COEP,1101,MAT-15012,Dissertation Phase - II,Project,Project,18
+COEP,1102,CGE-15008,Soil Dynamics,Theory,SD,3
+COEP,1103,CGE-15009,Elective- I (Core),Theory,Elective-I,3
+COEP,1104,COC-15010,Advanced Algorithms,Theory,AA,3
+COEP,1107,CGE-15011,Geotechnical Engineering Lab Practice-II,Laboratory,GE Lab Practice-II,4
+COEP,1108,CE-15018,Fluid Mechanics­II Laboratory,Laboratory,FM-II Lab,1
+COEP,1109,COC(DE)-15004,Advanced Graph Theory,Theory,AGT,3
+COEP,1110,COC(DE)-15005,"Cloud, Virtualization and Big Data",Theory,CVB,3
+COEP,1111,MDE-15006,Finite Element- Boundary Element Methods,Theory,FE-BEM,3
+COEP,1112,COC(DE)-15006,Business Analytics,Theory,BA,3
+COEP,1113,MDE-15007,Analysis and Synthesis of Mechanisms,Theory,ASM,3
+COEP,1114,COC(DE)-15007,Embedded Systems,Theory,ES,3
+COEP,1115,MDE-15008,Fracture Mechanics,Theory,FM,3
+COEP,1116,PME(DE)-15003,Human Factors in Design and Manufacturing,Theory,HFDM,3
+COEP,1117,COC(DE)-15008,Bioinformatics,Theory,BI,3
+COEP,1118,COC(DE)-15009,Advanced Compiler Construction,Theory,ACC,3
+COEP,1119,CSE-15008,Elective- II(core),Theory,Elective-II,3
+COEP,1119,CSE-15008,Elective- II(core),Theory,Elective-II,3
+COEP,1119,CSE-15008,Elective- II(core),Theory,Elective-II,3
+COEP,1120,PME(DE)-15004,Mechatronics,Theory,MTX,3
+COEP,1121,CSE-15009,Finite Element Method,Theory,FEM,3
+COEP,1124,CSE-15010,Advanced Design of Structures,Theory,ADS,3
+COEP,1125,CSE-15011,Earthquake Analysis and Design of Structures,Theory,EADS,3
+COEP,1126,PME(DE)-15006,Reliability Engineering,Theory,RE,3
+COEP,1127,PME(DE)-15007,Precision Engineering,Theory,PE,3
+COEP,1128,MDE-15009,Optimization Techniques in Design,Theory,OTD,3
+COEP,1129,CSE(DE)-15001,Elective-I,Theory,ELE-I,3
+COEP,1130,PME(DE)-15008,Advanced Material Forming,Theory,AMF,3
+COEP,1131,PME(DE)-15009,Computer Aided Design and Manufacturing,Theory,CADM,3
+COEP,1132,CSE-15012,Structural Engineering Lab Practice-II,Laboratory,SE Lab Practice-II,3
+COEP,1133,MDE-15010,Seminar,Laboratory,Semi,2
+COEP,1135,MDE-15011,Lab Course,Laboratory,Lab- Design,2
+COEP,1136,MDE(DE)-15006,Mechanics of Composite Materials,Theory,MCM-Design,3
+COEP,1137,CGE-15012,Elective-II (Core),Theory,Elective-II,3
+COEP,1138,MHP-15007,Design of Heat Exchanger,Theory,DHE,3
+COEP,1139,MHP-15008,Computational Fluid Dynamics,Theory,CFD-Thermal,3
+COEP,1140,MHP-15009,Modelling of IC Engines,Theory,MICE-Thermal,3
+COEP,1141,MHP(DE)-15001,Nuclear Engineering,Theory,NE-Thermal,3
+COEP,1142,CM-15006,Environmental Impact Assessment ,Theory,EIA,4
+COEP,1142,CM-15006,Environmental Impact Assessment ,Theory,EIA,4
+COEP,1143,MHP(DE)-15002,Air Conditioning System Design,Theory,ACSD-Thermal- DE II,3
+COEP,1144,EW-15007,Urban Hydrology and Drainage,Theory,UHD,4
+COEP,1145,EW-15008,Stochastic Hydrology,Theory,SH,4
+COEP,1146,MHP-15010,Mini Project,Mini Project,Mini Proj. Thermal,2
+COEP,1147,EW(DE)-15003,Departmental Elective Course-III,Theory,DEC-III,3
+COEP,1148,MHP-15011,Thermal Engineering Lab Practice,Laboratory,Lab- Thermal,2
+COEP,1149,EW(DE)-15004,Departmental Elective Course-IV,Theory,DEC-IV,3
+COEP,1151,PPM-15006,Quantitative Techniques in Project Management,Theory,QTPM,3
+COEP,1152,PPM-15007,Computer Simulation and Analytical Tools,Theory,CSAT,3
+COEP,1153,PPM-15008,Human Resource Development,Theory,HRD,3
+COEP,1154,PPM-15009,Human Factors in Project Management,Theory,HFPM,3
+COEP,1157,PPM-15011,Computer Simulation and Analytical Tools Laboratory,Laboratory,CSAT LAB,1
+COEP,1158,EW-15010,Mini Project,Mini Project,Mini Project,1
+COEP,1159,PPM-15012,Software Laboratory-II,Laboratory,SOFT LAB-II,2
+COEP,1160,PPM(DE)-15001,Supply Chain and Logistics Management,Theory,SCLM,3
+COEP,1161,PPM(DE)-15002,Management Information System,Theory,MIS,3
+COEP,1162,PPM(DE)-15003,Safety Engineering and Hazard Analysis,Theory,SEHA,3
+COEP,1163,PPM(DE)-15004,Project Planning and Control,Theory,PPC,3
+COEP,1164,PPM(DE)-15005,Reliability Engineering,Theory,RE,3
+COEP,1165,PPM(DE)-15006,Plant Engineering and Maintenance,Theory,PEM,3
+COEP,1166,PPM(DE)-15007,Commercial Laws,Theory,CL,3
+COEP,1167,PPM(DE)-15008,Six Sigma,Theory,Six Sigma,3
+COEP,1168,CM-15011,Construction Project Planning & Management,Theory,CPPM,4
+COEP,1169,CM-15012,Construction Techniques ,Theory,CT,4
+COEP,1170,CM-15013,Operation Research ,Theory,OR,3
+COEP,1171,CM(DE)-15005,Elective-II,Theory,Elective-II,3
+COEP,1172,CM(DE)-15006,Elective-III,Theory,Elective-III,3
+COEP,1173,CM-15014,construction Management Lab-II,Laboratory,CM Lab-II,2
+COEP,1174,EW-15015,Environmental Impact Assessment ,Theory,EIA,4
+COEP,1175,EW-15016,Environmental and Water Resource Engineering  Laboratory-II,Laboratory,EWRE Lab,2
+COEP,1176,CSE-15014,Mini Project,Mini Project,Mini Project,2
+COEP,1177,MCH-15004,Robot Dynamics and Analysis,Theory,RDA,3
+COEP,1178,MCH-15005,Embedded System Design,Theory,ESD,3
+COEP,1179,MCH-15006,Industrial Instrumentation and Control,Theory,IIC,3
+COEP,1180,MCH-15007,Fluid Power Systems & Factory Automation,Theory,FPSFA,3
+COEP,1181,MCH-15008,Embedded System Design Laboratory,Laboratory,ESD LAB,1
+COEP,1182,MCH-15009,Fluid Power Systems & Factory Automation Laboratory,Laboratory,FPSFA LAB,2
+COEP,1183,MCH(DE)-15001,Advanced Computer Programming,Theory,ACP,3
+COEP,1184,MCH(DE)-15002,Digital Signal Processing and Machine Vision,Theory,DSPMV,3
+COEP,1185,MCH(DE)-15003,Advanced Control System,Theory,ACS,3
+COEP,1186,MCH(DE)-15004,Advanced Sensor Systems & Instrumentation,Theory,ASSI,3
+COEP,1187,MCH(DE)-15005,Computer Integrated Manufacturing,Theory,CIM,3
+COEP,1188,MCH(DE)-15006,Fuzzy Logic and Neural Networks,Theory,FLNN,3
+COEP,1189,MCH(DE)-15007,Autotronics and Vehicle Intelligence,Theory,AVI,3
+COEP,1190,MCH(DE)-15008,Micro Electro-Mechanical Systems,Theory,MEMS,3
+COEP,1191,MCH(DE)-15009,Microfluidics,Theory,MF,3
+COEP,1193,ML-15009,Intellectual Property Rights,Theory,IPR,2
+COEP,1194,ETC(DE)-15001,Automotive Electronics ,Theory,AutoE,3
+COEP,1199,IE-12007,Transducers II,Theory,TR2,3
+COEP,1200,IE-12008,Transducers II Laboratory,Laboratory,TR2-LAB,2
+COEP,1201,IE-12009,Automatic Control Systems,Theory,ACS,3
+COEP,1202,IE-12010,Automatic Control Systems Laboratory,Laboratory,ACS-LAB,2
+COEP,1203,IE-12011,Digital Techniques ,Theory,DT,3
+COEP,1204,IE-12012,Digital Techniques Laboratory,Laboratory,DT-LAB,2
+COEP,1205,IE-12013,Computational Techniques Laboratory,Laboratory,CT-LAB,2
+COEP,1206,IPI(DE)-15009,Flow Engineering and Control Valve,Theory,FE,3
+COEP,1207,IBI(DE)-12001,Soft Computing,Theory,SC-B,3
+COEP,1208,IBI(DE)-12002,Embedded Systems,Theory,ES-B,3
+COEP,1209,IPI(DE)-12001,Embedded Systems,Theory,ES-P,3
+COEP,1210,CE(ILE)-15005,Basic Civil Engineering,Theory,BSC,3
+COEP,1211,CT(ILE)-15002,Computer Oriented Numerical Methods,Theory,CONM,3
+COEP,1212,MM(ILE)-15004,Device Materials,Theory,DM,3
+COEP,1213,PE(ILE)-15006,Production Processes and Metrology,Theory,PPM,3
+COEP,1214,ME(ILE)-15003,Basic Automobile Engineering,Theory,BAE,3
+COEP,1215,CM(DE)-15007,Construction Safety & Human Resource Development in Construction,Theory,CSHRDC,3
+COEP,1216,CM(DE)-15008,Underground Opening,Theory,UO,3
+COEP,1217,ICE-15007,Lab Course,Laboratory,LC,4
+COEP,1218,CSE(DE)-15002,Structural Health Monitoring ,Theory,SHM,3
+COEP,1219,CSE(DE)-15003,Computer Aided Analysis of Structures ,Theory,CAAS,3
+COEP,1220,CGE(DE)-15001,Geotechnical Earthquake Engineering,Theory,GEE,3
+COEP,1220,CGE(DE)-15001,Geotechnical Earthquake Engineering,Theory,GEE,3
+COEP,1221,CGE(DE)-15002,Ground Improvement,Theory,GE,3
+COEP,1221,CGE(DE)-15002,Ground Improvement,Theory,GE,3
+COEP,1221,CGE(DE)-15002,Ground Improvement,Theory,GE,3
+COEP,1222,EW(DE)-15009,Computational Fluid Mechanics,Theory,CFD,3
+COEP,1223,EW(DE)-15010,Solid and Hazardous Waste Management,Theory,SHWM,3
+COEP,1224,TCP-15006,Infrastructure Planning,Theory,IP,3
+COEP,1225,TCP-15007,Laws in Relation to Planning,Theory,LRP,3
+COEP,1226,TCP-15008,Planning Techniques,Theory,PT,3
+COEP,1227,TCP-15009,Geoinformatics,Theory,GIS,2
+COEP,1228,TCP(DE)-15002,Urban Design & Landscape Design,Theory,UD,3
+COEP,1229,TCP(DE)-15003,Urban Regeneration and Renewal,Theory,URR,3
+COEP,1230,TCP-15010,Planning Studio-II,Laboratory,PS2,4
+COEP,1231,BP-14001,Planning Theory II,Theory,PT II,3
+COEP,1232,BP-14002,Planning Practice I,Theory,PP I,3
+COEP,1233,BP-14003,Traffic And Transportation Planning II,Theory,TTP II,3
+COEP,1234,BP-14004,"Ecology,Environment And Resource Development And Mamagement",Theory,EERDM ,3
+COEP,1235,BP-14005,Housing And Community Planning,Theory,HCP,2
+COEP,1236,BP-14006,Settlement Sociology,Theory,SS,3
+COEP,1237,ML-14001,Technical Report Writing,Theory,TRW,1
+COEP,1240,BP-14007,Planning And Design Studio IV,Laboratory,PDL IV,5
+COEP,1242,COC(DE)-15010,Optimization,MOOC,OPT,2
+COEP,1243,CE-16001,"Building Planning, Design and Construction ",Theory,BDC,4
+COEP,1248,CE-16002,Strength of Materials,Theory,SOM (C),3
+COEP,1249,CE-16003,Advanced Surveying,Theory,ADV SUR,3
+COEP,1250,CE-16004,Structural Analysis,Theory,SA,3
+COEP,1251,CE-16005,Design of Steel Structures,Theory,DSS,3
+COEP,1253,CE-16006,"Tunnel,Docks & Harbour and Railway Engineering",Theory,TDHR,3
+COEP,1254,CE-16007,Geotechnical Engineering,Theory,GTE,3
+COEP,1255,CE-16008,Geotechnical Engineering Laboratory,Laboratory,GTE LAB,1
+COEP,1256,CE-16009,Advanced Surveying Laboratory,Laboratory,ADV SUR,1
+COEP,1257,CSE(DE)-16001,BRIDGE ENGINEERING ,Theory,BE,3
+COEP,1258,CSE-16001,Dissertation Phase-I,Project,PROJECT,14
+COEP,1259,EW-16001,Economics Planning and Management of Systems,Theory,EPMS,4
+COEP,1260,EW-16002,Dissertation Phase-I,Project,PROJECT WORK,13
+COEP,1262,CE-16010,Fluid Mechanics,Theory,FM(C),4
+COEP,1263,CE-16011,"Building Planning, Design and Drawing Lab ",Laboratory,BDDS,2
+COEP,1264,CE-16012,Strength of Materials Lab,Laboratory,SOM(C)-Lab,1
+COEP,1265,CE-10002,Fluid Mechanics Lab,Laboratory,FM(C)-LAB,2
+COEP,1266,MA-16001,Ordinary Differential Equations and Multivariate Calculus,Theory,ODEMC,3
+COEP,1267,AS-16001,Applied Biology,Theory,AB,3
+COEP,1268,HS-08001,Entrepreneurship Development,Theory,ED,1
+COEP,1268,HS-08001,Entrepreneurship Development,Theory,ED,1
+COEP,1269,CT(DE)-13001,Computer Organization,Theory,CO,3
+COEP,1270,CT-13001,Design and Analysis of Algorithms,Theory,DAA,3
+COEP,1271,CT-13002,Database Management Systems,Theory,DMS,3
+COEP,1272,CT-13003,System Programming,Theory,SP,3
+COEP,1273,CT-13004,Computer Networks,Theory,CN,3
+COEP,1274,CT-13005,Design and Analysis of Algorithm Lab,Laboratory,DAA Lab,1
+COEP,1275,CT-13006,Database Management Systems Lab,Laboratory,DMS Lab,2
+COEP,1276,CT-13007,System Programming Lab,Laboratory,SP Lab,1
+COEP,1277,CT-13008,Computer Networks Lab,Laboratory,CN Lab,2
+COEP,1280,IT(DE)-13001,Human Computer Interaction,Theory,HCI,3
+COEP,1281,IT-13001,Network Architecture and Wireless Protocol,Theory,NAWP,3
+COEP,1282,IT-13002,System Programming and Operating System,Theory,SPOS,3
+COEP,1283,IT-13003,Graphics and Multimedia,Theory,GM,3
+COEP,1284,IT-13004,Network Architecture and Wireless Protocol Lab,Laboratory,NAWP Lab,1
+COEP,1285,ET-16001,Ordinary Differential Equations and Multivariance Calculus,Theory,ODEM,3
+COEP,1286,IT-13005,System Programming and Operating System Lab,Laboratory,SPOS Lab,2
+COEP,1287,IT-13006,Graphics and Multimedia Lab,Laboratory,GM Lab,1
+COEP,1289,COC-16001,Dissertation Phase-I,Project,Dissertation I,14
+COEP,1289,COC-16001,Dissertation Phase-I,Project,Dissertation I,14
+COEP,1290,ML-16001,Professional Ethics and Values ,Theory,PEV,0
+COEP,1291,COC-16002,Dissertation Phase-II,Project,Dissertation II,20
+COEP,1292,HS-16001,Innovation,Theory,Innovation,1
+COEP,1293,CT-16001,Ordinary Differential Equations and Multivariate Calculus,Theory,ODEMC,3
+COEP,1294,CT-16002,Science of Living Systems,Theory,SLS,3
+COEP,1297,ET-16002,Data Structure Lab,Laboratory,DSLAB,3
+COEP,1298,CT-16003,Programming Laboratory,Laboratory,PL,1
+COEP,1299,ET-16003,Electronic Devices and Circuits ,Theory,EDC,3
+COEP,1300,CT-16004,Data Structure and Algorithms,Theory,DSA,4
+COEP,1301,ET-16004,Electronic Devices and Circuits Lab,Laboratory,EDC Lab,1
+COEP,1302,CT-16005,Digital Logic Design,Theory,DLD,3
+COEP,1304,CT-16006,Discrete Structures and Graph Theory,Theory,DSGT,3
+COEP,1305,ET-16005,Digital System Design,Theory,DSD,3
+COEP,1306,CT-16007,Data Structures and Algorithm Laboratory,Laboratory,DSA Lab,2
+COEP,1307,CM(DE)-16001,Sustainable Construction,Theory,SC,3
+COEP,1308,CT-16008,Digital Logic Design Laboratory,Laboratory,DLD Lab,1
+COEP,1309,ET-16006,Digital System Design Lab,Laboratory,DSD Lab,1
+COEP,1310,CM-16003,Field Visit and Laboratory-I,Laboratory,FV Lab-1,3
+COEP,1311,ML-16002,Research Methodology,Theory,RM,0
+COEP,1312,ET-16007,Signals and Systems,Theory,SS,3
+COEP,1313,ML-16003,Humanities(Constitution of India),Theory,HCOI,0
+COEP,1314,ET-16008,Network Synthesis and Aanlog Filters,Theory,NSAF,3
+COEP,1315,CM-16004,Dissertation Phase-I,Project,DP-I,13
+COEP,1316,ET-16009,Network Synthesis and Aanlog Filters Lab,Laboratory,NSAF Lab,1
+COEP,1317,CM-16005,Site Preliminaries and Laboratory-III,Laboratory,SP Lab-III,3
+COEP,1318,ML-13002,Constitution of India,Theory,CoI,2
+COEP,1318,ML-13002,Constitution of India,Theory,CoI,2
+COEP,1319,CGE(DE)-16001,Rock Mechanics,Theory,RM,3
+COEP,1320,HS-13002,Applied Psychology,Theory,HC,2
+COEP,1320,HS-13002,Applied Psychology,Theory,HC,2
+COEP,1321,COC-16003,Foundation of Cryptography,Theory,FoC,3
+COEP,1322,COC-16004,Advanced Operating System,Theory,AOS,3
+COEP,1323,COC-16005,Information Theory and Coding,Theory,ITC,3
+COEP,1324,COC(DE)-16001,System Security Management,Theory,SSM,3
+COEP,1325,LL-16001,Liberal Learning Course,Theory,LLC,1
+COEP,1326,COC(DE)-16002,Advancement in Networking,Theory,AN,3
+COEP,1327,COC(DE)-16003,Machine Learning,Theory,ML,3
+COEP,1328,COC-16006,Security Laboratory,Laboratory,Security Lab,2
+COEP,1329,CGE-16001,Dissertation Phase-I,Project,DS-I,14
+COEP,1330,LL-16002,Liberal Learning Course,Theory,LLC,1
+COEP,1331,ML-16004,Research Methodology,Theory,RM,0
+COEP,1332,ET(DE)-13001,Random Signals and Stochastic Processes,Theory,RSSP,3
+COEP,1333,ET-13001,Digital Communication Systems,Theory,DCS,4
+COEP,1334,ET-13002,Digital Communication Systems Lab,Laboratory,DCSLab,1
+COEP,1337,ET-13004,Computer Organisation and Advanced Microprocessors Lab,Laboratory,COAM Lab,1
+COEP,1338,IE-16001,Computational Techniques Laboratory,Laboratory,CT-LAB,3
+COEP,1339,IE-16002,Transducer I,Theory,TR-I,3
+COEP,1340,IE-16003,Analog Techniques,Theory,AT,3
+COEP,1341,IE-16004,Electrical Measurement and Instrumentation,Theory,EMI,3
+COEP,1342,IE-16005,Transducer I Laboratory,Laboratory,TR I LAB,1
+COEP,1343,IE-16006,Analog Techniques Laboratory,Laboratory,AT LAB,1
+COEP,1344,IE-16007,Electrical Measurement and Instrumentation Laboratory,Laboratory,EMI LAB,1
+COEP,1346,IE(DE)-13001,Signals and Systems,Theory,SS,3
+COEP,1346,IE(DE)-13001,Signals and Systems,Theory,SS,3
+COEP,1347,IE-13001,Process Plant Operations,Theory,PPO,3
+COEP,1348,ME-16001,Engineering Thermodynamics,Theory,ET,3
+COEP,1349,ME-16002,Machine Drawing and Computer Graphics,Theory,MDCG,2
+COEP,1350,PE-16011,Manufacturing Engineering-I,Theory,ME-I,3
+COEP,1351,ME-16004,Strength of Materials,Theory,SOM,3
+COEP,1352,ME-16005,Machine Drawing and Computer Graphics Lab,Laboratory,MDCG LAB,2
+COEP,1353,PE-16012,Manufacturing Engineering-I Lab,Laboratory,ME-I Lab,1
+COEP,1354,ME-16007,Strength of Materials Lab,Laboratory,SOM Lab,1
+COEP,1355,EW-16006,Dissertation Phase-I,Project,DS-I,10
+COEP,1356,ME-13001,Numerical Methods and Computer Programming,Theory,NMCP,4
+COEP,1357,ME-13002,Heat Transfer,Theory,HT,4
+COEP,1358,ME-13003,Theory of Machine-II,Theory,TOM-II,4
+COEP,1359,ME-13004,Machine Design-I,Theory,MD-I,3
+COEP,1360,ME-13005,Heat Transfer Laboratory,Laboratory,HT Lab,1
+COEP,1361,ME-13006,Theory of Machine-II Laboratory,Laboratory,TOM-II Lab,1
+COEP,1362,CSE-16002,Numerical Methods in Structural Engineering,Theory,NMSE,3
+COEP,1363,ME-13007,Machine Design-I Laboratory,Laboratory,MD-I Lab,1
+COEP,1364,MHP-16001,Dissertation Phase-I,Project,DP-I,14
+COEP,1365,ET-13005,Electronic Measurments and Instruments,Theory,EMI,2
+COEP,1366,MAT-16001,Dissertation Phase-I,Project,DP-I,14
+COEP,1367,MDE-16001,Dissertation Phase-I,Project,DP-I,14
+COEP,1368,ET-13006,Electronic Measurments and Instruments Lab,Laboratory,EMI Lab,1
+COEP,1369,ET-13007,Digital Signal Procesing ,Theory,DSP,4
+COEP,1370,ET-13008,Digital Signal Procesing Lab,Laboratory,DSP Lab,1
+COEP,1372,EDE-16001,Dissertation Phase-I,Project,Dissertation ,14
+COEP,1374,EWW-16001,Dissertation Phase-I,Project,Dissertation ,14
+COEP,1375,ESP-16001,Dissertation Phase-I,Project,Dissertation,14
+COEP,1376,EVE-16001,Dissertation Phase-I,Project,Dissertation ,14
+COEP,1377,ET-13009,Computer Organisation and Advanced Microprocessors,Theory,COAM,3
+COEP,1378,PEPS-16001,Power System Analysis,Theory,PSA,3
+COEP,1388,EE-16002,Advanced Power Electronics,Theory,APE,4
+COEP,1389,PEPS-16002,Analysis of Electrical Machines,Theory,AEM,4
+COEP,1390,PEPS-16003,Simulation Laboratory,Laboratory,S Lab,3
+COEP,1392,PEMD-16001,Fundamentals of Electrical Machines and Drives,Theory,FEMD,3
+COEP,1393,PEMD-16002,Embedded System,Theory,ES,3
+COEP,1394,PEMD-16003,Machines Lab,Laboratory,M/c Lab,3
+COEP,1395,PEMD-16004,Embedded System Lab,Laboratory,E Lab,3
+COEP,1396,CE-16013,Science of Living Systems,Theory,SLS,3
+COEP,1397,IE-13002,Microcontroller Techniques and its Applications,Theory,MTA,3
+COEP,1398,IE-13003,Control System Design,Theory,CSD,3
+COEP,1399,IE-13004,Control System Components,Theory,CSC,2
+COEP,1399,IE-13004,Control System Components,Theory,CSC,2
+COEP,1400,IE-13005,Numerical Methods Laboratory,Laboratory,NMLab,2
+COEP,1401,IE-13006,Microcontroller Techniques and its Applications Laboratory,Laboratory,MTA Lab,2
+COEP,1402,IE-13007,Control System Design Laboratory,Laboratory,CSD Lab,2
+COEP,1403,IE-13008,Control System Components Laboratory,Laboratory,CSC Lab,2
+COEP,1404,PEMD-16005,Advanced Power Electronic Lab,Laboratory,APE LAB,3
+COEP,1405,ECS-16001,Modeling of Dynamic Systems,Theory,MDS,4
+COEP,1406,ECS-16002,Advance Linear Control System,Theory,ALCS,3
+COEP,1407,ECS-16003,Digital Control Systems,Theory,DCS,4
+COEP,1408,ECS-16004,Control System Simulation Lab,Laboratory,CSS Lab,3
+COEP,1409,ECS-16005,Embedded Control Lab I,Laboratory,EC Lab,3
+COEP,1410,PEMD-16006,Analysis of Electrical Machines,Theory,AEM,4
+COEP,1411,PEPS-16004,Engineering Optimization,Theory,EO,3
+COEP,1414,MM-16001,Fundamentals of Metallurgy,Theory,FOM,3
+COEP,1415,MM-16002,Fundamentals of Metallurgy Laboratory,Laboratory,FOM LAB,1
+COEP,1416,MA-16003,Linear Algebra and Univariate Calculus,Theory,LAUC,5
+COEP,1417,MT(DE)-16001,Iron Making,Theory,IM,3
+COEP,1418,MT-16001,Transport Phenomena,Theory,TP,4
+COEP,1418,MT-16001,Transport Phenomena,Theory,TP,4
+COEP,1418,MT-16001,Transport Phenomena,Theory,TP,4
+COEP,1419,MT-16002,Extractive Metallurgy,Theory,EM,3
+COEP,1419,MT-16002,Extractive Metallurgy,Theory,EM,3
+COEP,1419,MT-16002,Extractive Metallurgy,Theory,EM,3
+COEP,1420,MT-16003,Modern Chemical Analysis of Materials,Theory,MCAM,2
+COEP,1420,MT-16003,Modern Chemical Analysis of Materials,Theory,MCAM,2
+COEP,1420,MT-16003,Modern Chemical Analysis of Materials,Theory,MCAM,2
+COEP,1421,MT-16004,Applied Biology,Theory,AB,3
+COEP,1421,MT-16004,Applied Biology,Theory,AB,3
+COEP,1421,MT-16004,Applied Biology,Theory,AB,3
+COEP,1422,MT-16005,Polymers and Composites,Theory,PAC,3
+COEP,1422,MT-16005,Polymers and Composites,Theory,PAC,3
+COEP,1422,MT-16005,Polymers and Composites,Theory,PAC,3
+COEP,1422,MT-16005,Polymers and Composites,Theory,PAC,3
+COEP,1423,MT-16006,Transport Phenomena Laboratory,Laboratory,TP Lab,1
+COEP,1423,MT-16006,Transport Phenomena Laboratory,Laboratory,TP Lab,1
+COEP,1423,MT-16006,Transport Phenomena Laboratory,Laboratory,TP Lab,1
+COEP,1424,MT-16007,Extractive Metallurgy Laboratory,Laboratory,EM Lab,1
+COEP,1424,MT-16007,Extractive Metallurgy Laboratory,Laboratory,EM Lab,1
+COEP,1425,MT-16008,Polymers and Composites Laboratory,Laboratory,PAC Lab,1
+COEP,1425,MT-16008,Polymers and Composites Laboratory,Laboratory,PAC Lab,1
+COEP,1434,EE-16003,Circuit Simulation Lab,Laboratory,Ckt Simulation Lab,1
+COEP,1435,EE-16004,Solid State Devices and Linear Circuits,Theory,SDLC,4
+COEP,1436,EE-16005,Electrical Circuit Analysis,Theory,ECA,4
+COEP,1437,EE-16006,Electrical and Electronic Measurements,Theory,EEM,3
+COEP,1438,EE-16007,Solid State Devices and Linear Circuits Lab,Laboratory,SDLC Lab,1
+COEP,1439,EE-16008,Numerical Methods and Computer Programming Lab,Laboratory,NMCP Lab,3
+COEP,1440,EE-16009,Measurement Lab,Laboratory,EEM Lab,1
+COEP,1441,PE-16001,Industrial In-plant Training,Project,IIPT,16
+COEP,1442,MT-16009,Ordinary Differential Equation and Multivariate Calculus,Theory,ODEMC,3
+COEP,1442,MT-16009,Ordinary Differential Equation and Multivariate Calculus,Theory,ODEMC,3
+COEP,1444,ME-16009,Mechanical Technology,Theory,MT,3
+COEP,1445,MT-16012,Structure and Properties of Materials,Theory,SPM,3
+COEP,1446,MT-16013,Principles of Physical Metallurgy,Theory,PPM,3
+COEP,1447,MT-16014,Introduction to Ceramics Engineering ,Theory,ICE,3
+COEP,1448,EE-16016,Electrical & Instrumentation Technology,Theory,EIT,3
+COEP,1449,MT-16016,Materials Testing Laboratory,Laboratory,MTL,1
+COEP,1450,ME-16010,Mechanical Technology Laboratory ,Laboratory,MechTech Lab,1
+COEP,1451,MT-16018,Principles of Physical Metallurgy Laboratory ,Laboratory,PPM Lab,1
+COEP,1452,EE-16017,Electrical & Instrumentation Technology Laboratory,Laboratory,EIT Lab,1
+COEP,1453,MT-16020,Foundation of Physics,Theory,FOP ,3
+COEP,1454,PE-16002,Industrial Engineering and Management,Theory,IEM,3
+COEP,1455,PE-16003,Seminar-I,Seminar,Seminar,2
+COEP,1456,PME-16001,Dissertation Phase-I,Project,DP-1,16
+COEP,1457,PPM-16001,Dissertation Phase-I,Project,DP-1,16
+COEP,1458,MCH-16001,Dissertation Phase-I,Project,DP-1,16
+COEP,1462,EPS-15010,Dissertation Phase-I,Project,Project Stage I,16
+COEP,1463,ECE-15010,Dissertation Phase-I,Project,Project Stage I,16
+COEP,1464,MPH-16001,Dissertation Phase-I,Project,DP I,16
+COEP,1465,MPR-16001,Dissertation Phase-I,Project,DP I,16
+COEP,1466,EE-13001,Microcontrollers,Theory,Microcontrollers,3
+COEP,1467,EE-13002,Electrical Machinery II,Theory,EMc- II,4
+COEP,1468,EE-13003,Power Systems I,Theory,PS I,4
+COEP,1472,BP-14008,Planning and management of Utilities and Services,Theory,PMUS,3
+COEP,1475,BP-14011,Planning Legislation,Theory,PL,3
+COEP,1476,BP-14012,Landscape Planning and Design,Theory,LPD,3
+COEP,1477,BP-14013,Geo-Informatics for Planning,Theory,GIP,2
+COEP,1478,BP(DE)-14001,"Infrastructure Planning, Development and Management",Theory,IPDM,2
+COEP,1479,BP(DE)-14002,Rural Development and Management,Theory,RDM,2
+COEP,1480,BP-14014,Training Seminar-I,Training,TS,2
+COEP,1481,BP-14015,Planning and Design Lab-V,Laboratory,PDL V,5
+COEP,1484,EE-13004,Signal Processing,Theory,SP,3
+COEP,1485,EE-13005,Power Systems Lab I,Laboratory,PS I - Lab,1
+COEP,1486,EE-13006,Electrical Machinery Lab II,Laboratory, E- M/c II Lab,1
+COEP,1487,EE-13007,Industrial Electric System Lab,Laboratory,IES Lab,3
+COEP,1489,EE-13008,Microcontroller Lab,Laboratory,Microcontroller Lab,1
+COEP,1490,AS-16002,Science of Living Systems,Theory,SLS,3
+COEP,1492,EE(DE)-13001,Engineering Optimization,Theory,EO,3
+COEP,1493,EE(DE)-13002,Mini Project,Mini Project,MP,3
+COEP,1494,ME(DE)-13001,Steam Engineering ,Theory,SE,3
+COEP,1495,ME(DE)-13002,Operation Research,Theory,OR,3
+COEP,1496,ME(DE)-13003,Advanced Manufacturing Technology,Theory,AMT,3
+COEP,1497,ME(DE)-13004,Finite Element Method,Theory,FEM,3
+COEP,1498,ME(DE)-13005,Automobile Engineering,Theory,AE,3
+COEP,1500,TCP-15011,Professional Training in Summer ,Seminar,PTS,1
+COEP,1501,TCP-15012,"Housing, Land Market and Finance",Theory,HLMF,3
+COEP,1502,TCP-15013,Local Governance and Professional Practices,Theory,LGPP,3
+COEP,1503,TCP-15014,Planning Studio III,Laboratory,PDL III,4
+COEP,1504,TCP-15015,Dissertation Phase-I,Project,PT,8
+COEP,1513,AM-16001,CAD for Additive Manufacturing,Theory,CAM,3
+COEP,1514,AM-16002,"Additive Manufacturing Processes, Machines and Applications",Theory,AMPMA,3
+COEP,1515,AM-16003,Rapid Tooling and Industrial Applications,Theory,RTIA,3
+COEP,1516,AM-16004,Materials and Characterization Techniques,Theory,MCT,3
+COEP,1517,AM-16005,Reverse Engineering and Computer Aided Inspection,Theory,RE,3
+COEP,1518,AM-16006,CAD Lab,Laboratory,CAD Lab,1
+COEP,1519,AM-16007,Rapid Prototyping Lab,Laboratory,RP Lab,1
+COEP,1520,AM(DE)-16001,Lasers in Manufacturing Technology,Theory,LMT,3
+COEP,1521,AM(DE)-16002,Micro and Nano Manufacturing,Theory,MNM,3
+COEP,1522,AM(DE)-16003,Product Design for Manufacturing and Assembly,Theory,PDMA,3
+COEP,1523,AM(DE)-16004,Modeling and Simulation of Manufacturing Systems,Theory,MSMS,3
+COEP,1524,ERP-16001,Internet of Things,Theory,IT,1
+COEP,1525,CSE-16003,"Linear Algebra, Sequence and series",Theory,LASS,3
+COEP,1526,CSE-16004,Solid state Physics and Electromagnetism,Theory,SSPE,3
+COEP,1527,CSE-16005,Basic Electrical Engineering,Theory,BEE,3
+COEP,1528,CSE-16006,Basic Electronics,Theory,BE,3
+COEP,1529,CSE-16007,Computer Programming,Theory,CP,3
+COEP,1530,CSE-16008,Communicative English,Theory,CE,2
+COEP,1531,ECE-16001,"Linear Algebra, Sequence and series",Theory,LASS,3
+COEP,1532,ECE-16002,Solid state Physics and Electromagnetism,Theory,SSPE,3
+COEP,1533,ECE-16003,Basic Electrical Engineering,Theory,BEE,3
+COEP,1534,ECE-16004,Basic Electronics,Theory,BE,3
+COEP,1535,ECE-16005,Computer Programming,Theory,CP,3
+COEP,1536,ECE-16006,Communicative English,Theory,CE,2
+COEP,1537,MA-16004,Linear Algebra,Theory,LA,3
+COEP,1538,ETC(ILE)-16001,Measurements and Standards in Communication Systems,Theory,MSCS,3
+COEP,1539,ME(ILE)-16001,Mechanics of Composite Materials,Theory,MCM,3
+COEP,1540,MM(ILE)-16001,Powder Metallurgy,Theory,PM,3
+COEP,1541,MME-16001,Mathematical Modeling in Materials Processes,Theory,MMMP,4
+COEP,1541,MME-16001,Mathematical Modeling in Materials Processes,Theory,MMMP,4
+COEP,1542,MME-16002,Corrosion Engineering,Theory,CE,3
+COEP,1542,MME-16002,Corrosion Engineering,Theory,CE,3
+COEP,1543,MME-16003,Phase Transformations in Materials,Theory,PT,4
+COEP,1543,MME-16003,Phase Transformations in Materials,Theory,PT,4
+COEP,1544,MME-16004,Seminar – I,Seminar,SE-I,1
+COEP,1545,MME-16005,Lab Practice – I,Laboratory,LP-I,2
+COEP,1545,MME-16005,Lab Practice – I,Laboratory,LP-I,2
+COEP,1546,MME(DE)-16001,Ceramics Engineering,Theory,CE,3
+COEP,1547,MME(DE)-16002,Electronic and Magnetic Materials,Theory,EMM,3
+COEP,1548,MME(DE)-16003,Theory and Practice of Sintering,Theory,TPS,3
+COEP,1549,TCP(DE)-15004,Sustainable Urban Planning,Theory,SUP,3
+COEP,1550,CE(ILE)-15006,Environmental Geotechnology,Theory,EG,3
+COEP,1560,PEPS-16005,Optimization Techniques,Theory,OT,3
+COEP,1564,MME-16009,Ceramic Engineering,Theory,Ceram. Engg.,3
+COEP,1566,MME(ILE)-16001,Nanomaterials and Nanotechnology,Theory,NMNT,3
+COEP,1567,MME(ILE)-16002,LASER Materials Processing,Theory,LMP,3
+COEP,1568,MME(ILE)-16003,Powder Metallurgy,Theory,PM,3
+COEP,1569,PH-16001,Foundation of Physics,Theory,FOP,3
+COEP,1570,IS-16001,"Probability, Statistics and Queuing Theory",Theory,PSQT,3
+COEP,1571,IS-16002,Foundation of Cryptography,Theory,FC,3
+COEP,1572,IS-16003,Advanced Operating System,Theory,AOS,3
+COEP,1573,IS-16004,Information Theory and Coding,Theory,ITC,3
+COEP,1574,IS-16005,Security Laboratory,Laboratory,SL,2
+COEP,1575,IS(DE)-16001,System Security Management,Theory,SSM,3
+COEP,1576,IS(DE)-16002,Enterprise Computing,Theory,EC,3
+COEP,1577,IS(DE)-16003,Machine Learning,Theory,ML,3
+COEP,1578,MPR-15014,Concepts in Materials Science,Theory,CMS,3
+COEP,1578,MPR-15014,Concepts in Materials Science,Theory,CMS,3
+COEP,1579,MA-16005,Vector Calculus and Partial Differential Equations,Theory,VCPDE,3
+COEP,1580,ET(ILE)-16001,Principles of Electronic Communication,Theory,PEC,3
+COEP,1581,ET(ILE)-16002,Microcontroller Based Systems,Theory,MBS,3
+COEP,1582,MA-16006,Multivariate Calculus And Differential Equations,Theory,MCDE,5
+COEP,1583,AS-16003,Science of Living Systems,Theory,SLS,3
+COEP,1584,ET-16010,Circuit Simulation Laboratory,Laboratory,CSL,1
+COEP,1585,ET-16011,Analog Communication Systems,Theory,ACS,3
+COEP,1586,ET-16012,Microcontrollers and Applications ,Theory,MCA,4
+COEP,1587,ET-16013,Integrated Circuits and Applications,Theory,ICA,2
+COEP,1588,ET-16014,Analog Communications Systems Laboratory,Laboratory,ACSLab,1
+COEP,1589,ET-16015,Micro-contollers and Applications Laboratory,Laboratory,MCALAB,1
+COEP,1591,ET-16016,Integrated Circuits and Applications Laboratory,Laboratory,ICALab,1
+COEP,1591,ET-16016,Integrated Circuits and Applications Laboratory,Laboratory,ICALab,1
+COEP,1599,ET-13010,Coding Techniques in Communication Systems,Theory,CTCS,4
+COEP,1599,ET-13010,Coding Techniques in Communication Systems,Theory,CTCS,3
+COEP,1600,ET-13011,Electromagnetic Waves,Theory,EMW,3
+COEP,1601,ET-13012,Power Electronics,Theory,PE,4
+COEP,1602,ET-13013,PLDs and Applications,Theory,PLD,2
+COEP,1603,ET-13014,Electronic Design and Mini Project ,Laboratory,EDMP,3
+COEP,1604,ET-13015,Coding Techniques in Communication System Laboratory ,Laboratory,CTCSL,1
+COEP,1605,ET-13016,Power Electronics Laboratory,Laboratory,PELab,1
+COEP,1606,ET-13017,PLDs and Application Laboratory,Laboratory,PLDLab,2
+COEP,1607,MA-16007,Engineering Mathematics IV,Theory,M-IV,2
+COEP,1608,PE-16004,Metrology and Quality Control,Theory,MQC,3
+COEP,1609,PE-16005,Kinematics and Dynamics of Machines,Theory,KDM,3
+COEP,1610,PE-16006,Tool and Die Design,Theory,TDD,3
+COEP,1611,MM-16003,Material Forming,Theory,MF,3
+COEP,1612,PE-16007,Metrology and Quality Control Laboratory,Laboratory,MQC LAB,1
+COEP,1613,PE-16008,Kinematics and Dynamics of Machines Laboratory,Laboratory,KDM LAB,1
+COEP,1614,PE-16009,Tool and Die Design Laboratory,Laboratory,TDD LAB,1
+COEP,1615,CT-16009,Software Laboratory – I,Laboratory,SL-I,2
+COEP,1616,EDE-16002,Dissertation Phase-II,Project,DP-II,20
+COEP,1617,EWW-16002,Dissertation Phase-II,Project,DP-II,20
+COEP,1618,ESP-16002,Dissertation Phase-II,Project,DP-II,20
+COEP,1620,EVE-16002,Dissertation Phase-II,Project,DP-II,20
+COEP,1623,LL-16003,Liberal Learning Course,Theory,LLC,1
+COEP,1624,ME-14011,Machine Design-II,Theory,MD-II,3
+COEP,1626,ME-14012,Energy Conversion,Theory,EC,3
+COEP,1627,ME-14013,Fluid Mechanics and Fluid Power,Theory,FMFP,4
+COEP,1628,ME-14014,I C Engines,Theory,ICE,3
+COEP,1629,ME-14015,Machine Design-II Lab,Laboratory,MD-II Lab,1
+COEP,1630,ME-14016,Energy Conversion Lab,Laboratory,Ec Lab,1
+COEP,1631,ME-14017,Fluid Mechanics and Fluid Power Lab,Laboratory,FMFP Lab,1
+COEP,1632,ME-14018,I C Engines Lab,Laboratory,ICE Lab,1
+COEP,1633,HS-16002,Professional Ethics and Value Education,Theory,PEVE,0
+COEP,1635,ME-15009,Theory of Machines-I,Theory,TOM-I,3
+COEP,1637,ME-15011,Fundamentals of Metallurgy,Theory,FoM,3
+COEP,1639,ME-15013,Theory of Machines-I Lab,Laboratory,TOM-I Lab,1
+COEP,1643,CT(ILE)-15003,Information Systems,Theory,IS,3
+COEP,1644,ME-15017,Fundamentals of Metallurgy Lab,Laboratory,FoM Lab,1
+COEP,1645,CT-16011,Theory Of Computation,Theory,TOC,3
+COEP,1651,CT-16012,Microprocessor Techniques,Theory,MT,3
+COEP,1652,CT-16013,Principles of Programming Languages,Theory,PPL,3
+COEP,1653,EE-16010,Data Structures and Computer Programming Lab,Laboratory,DSCP Lab,2
+COEP,1654,EE-16011,Electric Machinery I,Theory,E Mc I,4
+COEP,1655,EE-16012,Digital Electronics,Theory,DE,3
+COEP,1656,EE-16013,Electromagnetic Fields,Theory,EMF,3
+COEP,1657,EE-16014,Electrical Machinery I Lab,Laboratory,E Mc I Lab,1
+COEP,1657,EE-16014,Electrical Machinery I Lab,Laboratory,E Mc I Lab,2
+COEP,1657,EE-16014,Electrical Machinery I Lab,Laboratory,E Mc I Lab,1
+COEP,1658,EE-16015,Digital Electronics Lab,Laboratory,DE Lab,1
+COEP,1659,CT-16014,DATA COMMUNICATION,Theory,DC,3
+COEP,1660,CT-16015,Microprocessor Techniques Laboratory,Laboratory,MTL,2
+COEP,1661,HS-14001,Humanities,Theory,Humanities,2
+COEP,1662,CT-16016,Principles of Programming Languages Laboratory,Laboratory,PPLLAB,1
+COEP,1663,MHP-14001,Dissertation Phase-II,Project,Dissertation,18
+COEP,1664,MDE-14001,Dissertation Phase-II,Project,Dissertation,18
+COEP,1665,MAT-14001,Dissertation Phase-II,Project,Dissertation,18
+COEP,1666,CT-16017,Operating Systems,Theory,OS,3
+COEP,1667,EE-13009,Control Systems I,Theory,CS I,4
+COEP,1668,EE-13010,Power Systems II,Theory,PS II,3
+COEP,1669,EE-13011,Power Electronics,Theory,PE,4
+COEP,1670,EE-13012,Power System Protection,Theory,PSP ,3
+COEP,1671,CT-16018,Computer Algorithms in Signal Processing,Theory,CASP,3
+COEP,1672,EE-13013,Power Systems Lab II,Laboratory,PS II Lab,1
+COEP,1673,EE-13014,Control System Lab I,Laboratory,CS I Lab,1
+COEP,1674,EE-13015,Power Electronics Lab,Laboratory,PE Lab,1
+COEP,1675,EE-13016,Digital Signal Processing Lab,Laboratory,DSP Lab,2
+COEP,1676,CT-16019,Software Engineering,Theory,SE,3
+COEP,1677,PEMD-16007,Advance Electric Drives,Theory,AED,3
+COEP,1678,PEMD-16008,Power Electronics Applications to Energy Systems,Theory,PEAES,4
+COEP,1679,PEMD-16009,DSP Applications to Power Electronics and Drives,Theory,DSP Appl. TO PE&D,3
+COEP,1680,PEMD(DE)-16001,Smart Grid,Theory,SG,3
+COEP,1680,PEMD(DE)-16001,Smart Grid,Theory,SG,3
+COEP,1682,PEMD(DE)-16002,Electric and Hybrid Vechile,Theory,E & HV,3
+COEP,1682,PEMD(DE)-16002,Electric and Hybrid Vechile,Theory,E & HV,3
+COEP,1683,PEMD-16010,Embedded Systems Lab II,Laboratory,ES Lab II,3
+COEP,1686,CT-16020,Operating Systems Lab,Laboratory,OS LAB,2
+COEP,1687,CT-16021,Computer Algorithms in Signal Processing Lab,Laboratory,CASP LAB,2
+COEP,1688,CT-16022,Software Engineering Lab,Laboratory,SE LAB,2
+COEP,1690,PEPS-16006,Power System Dynamics and Stability,Theory,PSDS,3
+COEP,1692,PEPS-16007,Power Electronics Applications to Power Systems,Theory,PEAPS,4
+COEP,1693,PEPS-16008,Digital Protection,Theory,DP,3
+COEP,1696,PEPS-16009,Hardware Laboratory,Laboratory,HL,3
+COEP,1697,IT-16001,Language Processors,Theory,LP,3
+COEP,1698,IT-16002,Algorithms and Complexity,Theory,A&C,3
+COEP,1699,IT-16003,Software Development Processes,Theory,SDP,3
+COEP,1700,IT(DE)-16001,Cloud and Big Data Platforms,Theory,CBDP,3
+COEP,1701,IT-16004,Language Processors Lab,Laboratory,LP LAB,2
+COEP,1702,IT-16005,Algorithms and Complexity Lab,Laboratory,A&C LAB,2
+COEP,1703,IT-16006,Software Development Processes Lab,Laboratory,SDP LAB,2
+COEP,1705,PME-16002,Dissertation Phase-II,Project,Dissertation-II,18
+COEP,1706,PPM-16002,Dissertation Phase-II,Project,Dissertation-II,18
+COEP,1707,MCH-16002,Dissertation Phase-II,Project,Dissertation-II,18
+COEP,1708,IE-16008,Transducer II,Theory,TR-II,3
+COEP,1709,IE-16009,Digital Techniques,Theory,DT,3
+COEP,1710,IE-16010,Automatic Control System,Theory,ACS,3
+COEP,1711,IE-16011,Transducer II Laboratory,Laboratory,TR-II Lab,1
+COEP,1712,IE-16012,Digital Techniques Laboratory,Laboratory,DT Lab,1
+COEP,1713,IE-16013,Automatic Control System Laboratory,Laboratory,ACS Lab,1
+COEP,1714,IE-16014,Numerical Methods Laboratory,Laboratory,NM Lab,2
+COEP,1715,IE-16015,Process Loop Components,Theory,PLC,3
+COEP,1716,IE-16016,Digital Signal Processing,Theory,DSP,3
+COEP,1717,IE-16017,Instrument System Design,Theory,ISD,3
+COEP,1718,IE-16018,Analytical Instrumentation,Theory,AI,3
+COEP,1719,IE-16019,Process Loop Component Laboratory,Laboratory,PLC Lab,2
+COEP,1720,IE-16020,Digital Signal Processing Laboratory,Laboratory,DSP Lab,2
+COEP,1721,IE-16021,Analytical Instrumentation Laboratory,Laboratory,AI Lab,1
+COEP,1722,IE-16022,Instrument System Design Laboratory,Laboratory,ISD Lab,1
+COEP,1724,PEPS(DE)-16001,Electrical Power Distribution Systems,Theory,EPDS,3
+COEP,1725,PEPS(DE)-16002,Electric and Hybrid Vechile,Theory,E&HV,3
+COEP,1726,IBI(DE)-16002,Optical Instrumentation,Theory,OI,3
+COEP,1727,IPI(DE)-15010,Optical Instrumentation,Theory,OI,3
+COEP,1728,ECS-16006,Sliding Mode Control,Theory,SMC,3
+COEP,1729,ECS-16007,Nonlinear Dynamical Systems,Theory,NLDS,3
+COEP,1730,ECS-16008,Embedded System Design,Theory,ESD,3
+COEP,1731,ECS(DE)-16001,Intelligent Control System,Theory,ICS,3
+COEP,1732,ECS(DE)-16002,Control Related Estimations,Theory,CRE,3
+COEP,1733,ECS-16009,Embedded Lab II,Laboratory,Emb Lab II,3
+COEP,1734,EPS-15011,Dissertation Phase-II,Project,Project- Phase II,18
+COEP,1735,ECE-15011,Dissertation Phase-II,Project,Project- Phase II,18
+COEP,1737,CE-16014,Surveying,Theory,SUR,4
+COEP,1739,CE-16015,Concrete Technology,Theory,CT,3
+COEP,1740,CE-16016,Structural Mechanics,Theory,SM,3
+COEP,1742,CE-16017,Environmental Engineering,Theory,EE,3
+COEP,1743,CE-16018,Surveying Laboratory,Laboratory,SUR LAB,2
+COEP,1744,CE-16019,Concrete Technology Lab,Laboratory,CT LAB,1
+COEP,1745,CE-16020,Environmental Engineering Lab,Laboratory,EE LAB,1
+COEP,1747,CE-16021,Environmental Engineering,Theory,EE,3
+COEP,1748,CE-16022,Construction Management ,Theory,CM,3
+COEP,1749,CE-16023,Hydrology and Irrigation Engineering,Theory,HIE,3
+COEP,1750,CE-16024,Foundation Engineering,Theory,FE,3
+COEP,1751,CE-16025,Design of Steel structures Lab,Laboratory,DSS LAB,1
+COEP,1752,CE-16026,Environmental Engineering Lab,Laboratory,EE LAB,1
+COEP,1753,CE-16027,Construction Management LAB,Laboratory,CM LAB,1
+COEP,1754,MT-16021,Modern Chemical Analysis Laboratory,Laboratory,MCAM,1
+COEP,1755,MT-16022,Fundamentals of Metal Working,Theory,FMW,3
+COEP,1757,MT-16023,Metallurgical Thermodynamics and Kinetics,Theory,MTK,4
+COEP,1758,MT-16024,Polymers and Composites,Theory,PAC,3
+COEP,1759,MT-16025,Fundamentals of Metal Working Laboratory,Laboratory,FMW Lab,1
+COEP,1760,MT-16026,Polymers and Composites Laboratory,Laboratory,PAC Lab,1
+COEP,1761,MT-16027,Foundry Technology,Theory,FT,3
+COEP,1763,MT-16028,Materials Characterization,Theory,MC,3
+COEP,1764,MT-16029,Structural Metallurgy,Theory,SM,4
+COEP,1767,MT-16030,Steel Making,Theory,Steel Making,3
+COEP,1770,MT-16031,Foundry Technology Laboratory,Laboratory,FT Lab,1
+COEP,1771,MT-16032,Materials Characterization Laboratory,Laboratory,MC Lab,1
+COEP,1772,MT-16033,Mini Project,Mini Project,Mini Project,2
+COEP,1773,MT-16034,Industrial Visits and Training,Training,IVT,2
+COEP,1775,CT(DE)-16001,Computer Graphics,Theory,CG,3
+COEP,1776,CT(DE)-16002, Data Mining,Theory,DMM,3
+COEP,1777,CT(DE)-16003,Free open Source Software,Theory,FOSS,3
+COEP,1778,CT(DE)-16004,Cloud and Big Platform ,Theory,CBP,3
+COEP,1779,CT(DE)-16005,Concurrent Programming In Embedded Systems  ,Theory,CPE,3
+COEP,1780,CT(DE)-16006, Data Mining Lab,Laboratory,DM lab,2
+COEP,1781,CT(DE)-16007,Cloud and Big Platform Lab,Laboratory,CBP lab,2
+COEP,1782,CT(DE)-16008,Computer Graphics Lab,Laboratory,CG lab,2
+COEP,1783,CT(DE)-16009,Concurrent Programming In Embedded Systems Lab,Laboratory,CPES lab,2
+COEP,1784,CT(DE)-16010,Free open Source Software Lab,Laboratory,CPES lab,2
+COEP,1785,IS-16006,Network Security ,Theory,NS,3
+COEP,1786,IS-16007,Applied Cyber Security,Theory,ACS,3
+COEP,1787,IS-16008,Wireless and Mobile Security,Theory,WMS,3
+COEP,1788,IS(DE)-16004,Advanced Database and Information Retrieval,Theory,ADIR,3
+COEP,1789,IS(DE)-16005,Cloud Computing and Security,Theory,CCS,3
+COEP,1790,IS(DE)-16006,Software Design Techniques and Security,Theory,SDTS,3
+COEP,1791,IS(DE)-16007,Internet of Things,Theory,IOT,3
+COEP,1792,IS(DE)-16008,Web Technology,Theory,WT,3
+COEP,1793,IS(DE)-16009,. Formal Methods,Theory,FM,3
+COEP,1794,IS-16009,Mini Project,Laboratory,MP,2
+COEP,1795,AS(ILE)-16001,Critical Thinking and Reasoning in Abilities,Theory,CTRA,3
+COEP,1796,CE(ILE)-16002,Basic Civil Engineering,Theory,BCE,3
+COEP,1797,CT(ILE)-16001,Information Systems,Theory,IS,3
+COEP,1798,CT(ILE)-16002,Object Oriented Programming,Theory,OOP,3
+COEP,1799,EE(ILE)-16001,Electrical Technology,Theory,ET,3
+COEP,1800,EE(ILE)-16002,Solar Thermal Systems,Theory,STS,3
+COEP,1801,ETC(ILE)-16002,Principles of Electronic Communication,Theory,PEC,3
+COEP,1802,ETC(ILE)-16003,Microcontroller Based Systems,Theory,MBS,3
+COEP,1803,ICE(ILE)-16001,Engineering Instrumentation,Theory,EI,3
+COEP,1804,MM(ILE)-16002,Device Materials,Theory,DM,3
+COEP,1805,PE(ILE)-16003,Production Processes and Metrology,Theory,PPM,3
+COEP,1806,ME(ILE)-16002,Computer Aided 3 D Geometric Modeling,Theory,AE,3
+COEP,1807,CE(ILE)-16003,Finite Elements Engineering,Theory,FEE,3
+COEP,1808,CT(ILE)-16003,Information Systems,Theory,IS,3
+COEP,1809,CT(ILE)-16004,Java Programming,Theory,JP,3
+COEP,1810,EE(ILE)-16003,Control System Engineering,Theory,CSE,3
+COEP,1811,EE(ILE)-16004,Solar Thermal Systems,Theory,STS,3
+COEP,1812,ETC(ILE)-16004,Electronics Communication Systems,Theory,ECS,3
+COEP,1813,ICE(ILE)-16002,Industrial Automation,Theory,IA,3
+COEP,1814,MM(ILE)-16003,Composite Materials,Theory,CM,3
+COEP,1815,MME-16010,Characterization Techniques,Theory,CT,4
+COEP,1816,MME-16011,Advanced Composites,Theory,AC,3
+COEP,1817,MME-16012,Mechanical Behavior of Materials,Theory,MBM,3
+COEP,1818,MME(DE)-16004,Amorphous Materials,Theory,AM,3
+COEP,1818,MME(DE)-16004,Amorphous Materials,Theory,AM,3
+COEP,1819,CE-16028,Design Of RCC Struture,Theory,DRCC,3
+COEP,1820,PE(ILE)-16004,Operations Efficiency,Theory,OE,3
+COEP,1821,MME(DE)-16005,Nuclear Materials,Theory,NM,3
+COEP,1822,PE(ILE)-16005,Introduction To ERP,Theory,IERP,3
+COEP,1824,MA(ILE)-16001,Transform Techniques,Theory,TT,3
+COEP,1825,HS-16003,Humanities,Theory,Hum,2
+COEP,1826,MME(DE)-16006,High Temperature Corrosion,Theory,HTC,3
+COEP,1827,MA(ILE)-16002,Experimental Designs and Data Analysis (Statistics),Theory,EDDA,3
+COEP,1828,MME-16013,Lab Practice II,Laboratory,Lab Practice II,2
+COEP,1829,ME(ILE)-16003,Unconventional Machining Processes,Theory,UMP,3
+COEP,1830,ME(ILE)-16004,Power Plant Engineering,Theory,PPE,3
+COEP,1831,ME(ILE)-16005,Robotics,Theory,Robotics,3
+COEP,1832,MME-16014,Seminar II,Seminar,Seminar II,1
+COEP,1833,CM(DE)-16002,Construction Cost Dynamics,Theory,CCD,3
+COEP,1834,CM(DE)-16003,Sustainability and Urban Planning,Theory,SUP,3
+COEP,1835,CM-16006,Operation Research,Theory,OR,4
+COEP,1836,CM-16007,Laboratory-II,Laboratory,CM lab II,3
+COEP,1837,CGE(DE)-16002,Soil Structure Interaction,Laboratory,SSI,3
+COEP,1838,ME(ILE)-16006,Automobile Engineering,Theory,AE,3
+COEP,1839,OC-16001,Language Processing,MOOC,LP,2
+COEP,1840,OC-16002,Bitcoin and Cryptocurrency Technologies,MOOC,BCT,2
+COEP,1842,CSE(DE)-16002,Design of High Rise Structures,Theory,DHRS,3
+COEP,1843,CE-16029,Urban Management,Theory,UM,3
+COEP,1843,CE-16029,Urban Management,Theory,UM,3
+COEP,1844,CE-16030,Urban Renewal and Conservation,Theory,URC,2
+COEP,1844,CE-16030,Urban Renewal and Conservation,Theory,URC,2
+COEP,1846,CE-16031,"Project Formulation , Appraisal and Management",Theory,PFAM,3
+COEP,1847,BP-16001,Introduction to Urban Design,Theory,IUD,3
+COEP,1848,BP-16002,Urban Management,Theory,UM,3
+COEP,1849,BP-16003,Urban Renewal and Conservation,Theory,URC,3
+COEP,1850,BP-16004,"Project Formulation , Appraisal and Management",Theory,PFAM,3
+COEP,1851,BP-16005,Planning and Management of Informal Sector,Theory,PMIS,3
+COEP,1852,BP-16006,GIS for Planning,Theory,GIS,2
+COEP,1853,BP(DE)-16001,Urban Energy Systems,Theory,URS,2
+COEP,1855,BP(DE)-16003,Energy Efficient Planning,Theory,EEP,2
+COEP,1856,BP-16007,Planning and Design Lab VI,Studio,PDL VI,5
+COEP,1857,PE(ILE)-16006,Industrial Electronics and Electrical Drive Systems,Theory,IEEDS,3
+COEP,1858,CM-16008,Dissertation Phase-II,Project,CMD-II,15
+COEP,1859,CSE-16009,Dissertation Phase-II,Project,SED-II,18
+COEP,1860,MPR(DE)-16001,High Temperature Corrosion,Theory,HTC,3
+COEP,1860,MPR(DE)-16001,High Temperature Corrosion,Theory,HTC,3
+COEP,1863,CE-16032,Dissertation Phase-II,Project,GTED-II,18
+COEP,1864,EW-16007,Dissertation Phase-II,Project,EWRED-II,18
+COEP,1865,CT(ILE)-16005,Object Oriented Programming,Theory,OOP,3
+COEP,1866,EE(ILE)-16005,Industrial Electronics,Theory,IE,3
+COEP,1867,EE(ILE)-16006,Industrial Electronics,Theory,IE,3
+COEP,1868,AS(ILE)-16002,Critical Thinking and Reasoning in Abilities,Theory,CTRA,3
+COEP,1869,ME-16008,Design of Machine Elements,Theory,DOME,4
+COEP,1870,PE-16010,Machining Science and Technology,Theory,MST,4
+COEP,1871,CSE-16010,Computer Programming Lab,Laboratory,CP lab,2
+COEP,1872,CSE-16011,Basic Electrical Engineering Lab,Laboratory,BEE Lab,1
+COEP,1873,CSE-16012, Basic Electronics Lab,Laboratory,BE Lab,1
+COEP,1874,CSE-16013,Solid state Physics and Electromagnetism Lab,Laboratory,BE Lab,1
+COEP,1875,ECE-16007,Solid state Physics and Electromagnetism Lab,Laboratory,Physics-Lab,1
+COEP,1876,ECE-16008,Computer Programming Lab,Laboratory,CP-Lab,2
+COEP,1877,ECE-16009,Basic Electrical Engineering Lab,Laboratory,CP-Lab,1
+COEP,1878,ECE-16010,Basic Electronics Lab,Laboratory,BE-Lab,1
+COEP,1880,ML-16005,Constitution of India,Theory,COI,0
+COEP,1881,ML-16006,Intellectual Property Rights,Theory,IPR,0
+COEP,1882,TCP-16001,Dissertation Phase-II,Theory,DPII,14
+COEP,1883,AM-16008,Project,Project,Project,18
+COEP,1884,AM-16009,Seminar,Seminar,Seminar,2
+COEP,1885,IBI-16001,Dissertation Phase-II,Project,Dissertation II,18
+COEP,1886,MPR-16002,Dissertation Phase-II,Project,DPII,18
+COEP,1887,IPI-16001,Dissertation Phase-II,Project,Dissertation II,18
+COEP,1888,MPH-16002,Dissertation Phase-II,Project,Dissertation II,18
+COEP,1889,CSE-16014,Univariate Calculus,Theory,UC,3
+COEP,1890,CSE-16015,Data  Structures and Algorithms,Theory,DSA,4
+COEP,1891,CSE-16016,Data  Structures and Algorithms Lab,Laboratory,DSA Lab,1
+COEP,1892,CSE-16017,Digital Electronics,Theory,DE,3
+COEP,1893,CSE-16018,Digital Electronics Lab,Laboratory,DE Lab,1
+COEP,1894,CSE-16019,D S G T,Theory,D S G T,4
+COEP,1895,ML-16007,Environmental Science,Theory,ES,2
+COEP,1896,ECE-16011,Univariate Calculus,Theory,UC,3
+COEP,1897,ECE-16012,Data  Structures and Algorithms,Theory,DSA,4
+COEP,1898,ECE-16013,Data  Structures and Algorithms Lab,Laboratory,DSA Lab,1
+COEP,1899,ECE-16014,Digital Electronics,Theory,DE,3
+COEP,1900,ECE-16015,Digital Electronics Lab,Laboratory,DE Lab,1
+COEP,1901,ECE-16016,D S G T,Theory,D S G T,4
+COEP,1903,ML-16008,Environmental Science,Theory,ES,2
+COEP,1904,ECS(DE)-16003,System Identification,Theory,SI,3
+COEP,1906,EDE(ILE)-16001,Pattern Recognition and Classification,Theory,PRC,3

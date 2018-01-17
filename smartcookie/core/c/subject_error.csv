@@ -1,0 +1,12 @@
+,School_id, Insert Count, Duplicate Count, Update Count, Wrong School ID Count,Subject Error count, Validation count,Refuse count
+, SDPS, 5,0, 0, 0,0, 0,100
+, 
+, Subjects Added 
+, 51035,Mathematics and Statistics
+, 51034,Biomedical Sciences
+, 51033,Biochemistry (Molecular and Cellular)
+, 51032,Earth Sciences (Geology)
+, 51031,Classical Archaeology and Ancient
+, 
+, Subjects Already Present
+, Subject Code,  Old Name,  New Name 

@@ -1,0 +1,7 @@
+SchoolID, DepartmentCode, DepartmentName, DepartmentID, EstablimentYear, PhoneNo, FaxNo, EmailID, IsEnabled
+119,HR,HR,1,1997,216,,sujatak@blueplanetinfosolutions.com,1
+119,OPS,Operations,2,1997,205,,aloysuis@blueplanetsolutions.com,1
+119,NW,Networking,3,1997,206,,techindia@panhealth.com,1
+119,REC,Recruitment,4,1997,214,,nikhils@blueplanetsolutions.com,1
+119,SOFT,Software,5,1997,215,,rakesh@blueplanetsolutions.com,1
+119,ACC,Accounts,6,1997,207,,vivekj@blueplanetinfosolutions.com,1

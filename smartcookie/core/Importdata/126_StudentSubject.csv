@@ -1,0 +1,11 @@
+SchoolID, StudentID, SubjectCode, SemesterID, BranchID, SubjectID, YearID, DivisionID, SubjectName, Division, Semester, Branch, Department, CourseLevel, AcademicYear, TeacherID
+126,1234567,BE-15003,2,2,1,1,4290,Computer Aided Engineering Drawing Laboratory,Div-1,Semester I,Civil Engineering,Civil,UG,2017,LHSCC2017
+126,1234569,BE-15004,2,2,3,1,4290,Computer Aided Design,Div-1,Semester I,Civil Engineering,Civil,UG,2017,LHSCC2017
+126,12345670,BE-15001,2,3,2,1,4290,Communication Networks,Div-1,Semester I,Computer Engineering,computer lab,UG,2017,LHKW2017
+126,12345671,BE-11003,2,3,4,1,4290,Theory of Computer Science,Div-1,Semester I,Computer Engineering,computer lab,UG,2017,LHKW2017
+126,12345672,BE-11004,2,3,5,1,4290,Microprocessor Techniques,Div-1,Semester I,Computer Engineering,computer lab,UG,2017,LHSCC2017
+126,12345673,BE-11005,2,3,6,1,4290,Principles of Programming Languages,Div-1,Semester I,Computer Engineering,computer lab,UG,2017,LHKW2017
+126,12345674,BE-11005,2,3,6,1,4290,Principles of Programming Languages,Div-1,Semester I,Computer Engineering,computer lab,UG,2017,LHKW2017
+126,12345675,BE-11005,2,3,6,1,4290,Principles of Programming Languages,Div-1,Semester I,Computer Engineering,computer lab,UG,2017,LHKW2017
+126,12345676,BE-11005,2,3,6,1,4290,Principles of Programming Languages,Div-1,Semester I,Computer Engineering,computer lab,UG,2017,LHKW2017
+126,1234568,BE-11005,2,3,6,1,4290,Principles of Programming Languages,Div-1,Semester I,Computer Engineering,computer lab,UG,2017,LHSCC2017

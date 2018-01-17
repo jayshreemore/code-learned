@@ -1,0 +1,12 @@
+SchoolID, StudentID, SubjectCode, SemesterID, BranchID, SubjectID, YearID, DivisionID, SubjectName, Division, Semester, Branch, Department, CourseLevel, AcademicYear, TeacherID
+119,12,SC,1,1,1,2016,,Smartcookie,,Semester I,PHP,Software,In House,2016,27
+119,6,SC,1,1,1,2016,,Smartcookie,,Semester I,PHP,Software,In House,2016,27
+119,4,SC,1,1,1,2016,,Smartcookie,,Semester I,PHP,Software,In House,2016,27
+119,5,SC,1,1,1,2016,,Smartcookie,,Semester I,PHP,Software,In House,2016,27
+119,21,SC,1,1,1,2016,,Smartcookie,,Semester I,PHP,Software,In House,2016,27
+119,11,SC,1,2,1,2016,,Smartcookie,,Semester I,Android,Software,In House,2016,27
+119,13,SC,1,2,1,2016,,Smartcookie,,Semester I,Android,Software,In House,2016,27
+119,9,SC,1,2,1,2016,,Smartcookie,,Semester I,Android,Software,In House,2016,27
+119,19,SC,1,2,1,2016,,Smartcookie,,Semester I,Android,Software,In House,2016,27
+119,20,SC,1,3,1,2016,,Smartcookie,,Semester I,IOS,Software,In House,2016,27
+119,12,SW,1,1,6,2016,,Startup World,,Semester I,PHP,Software,In House,2016,27

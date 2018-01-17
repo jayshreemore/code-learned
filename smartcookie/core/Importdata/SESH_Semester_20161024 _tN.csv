@@ -1,0 +1,2 @@
+SchoolID, BranchID, SemesterID, SemesterName, SemesterCredit, IsRegularSemester, BranchName, DepartmentName, CourseLevel, Class, IsEnabled
+SESH,COMP,10110,BCA I - SEM 1,100,YES,BCA,Department of Master of Computer Application,UG,BCA,YES

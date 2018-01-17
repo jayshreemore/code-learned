@@ -1,0 +1,7 @@
+SchoolID, SubjectID, SubjectCode, Subject, SubjectType, SubjectShortName, SubjectCredit
+126,1,BE-15003,Computer Aided Engineering Drawing Laboratory,Laboratory,CAED Lab,1
+126,2,BE-15001,Communication Networks,Theory,CN,3
+126,3,BE-15003,Computer Aided Design,Theory,CAD,3
+126,4,BE-11003,Theory of Computer Science,Theory,TCS,3
+126,5,BE-11004,Microprocessor Techniques,Theory,MPT,3
+126,6,BE-11005,Principles of Programming Languages,Theory,PPL,3

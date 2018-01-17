@@ -1,1 +1,0 @@
-var domainModule = angular.module("domainModule", []);
