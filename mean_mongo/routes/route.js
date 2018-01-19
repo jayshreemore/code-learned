@@ -8,6 +8,7 @@ var cors = require('cors');
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  res.header('Access-Control-Allow-Credentials', 'true');
   next();
 });
 var con = mysql.createConnection({
@@ -16,24 +17,6 @@ var con = mysql.createConnection({
     password: "",
     database: "mean"
   });
- 
-  var sess;
-  app.get('/',function(req,res){
-      sess=req.session;
-      /*
-      * Here we have assign the 'session' to 'sess'.
-      * Now we can create any number of session variable we want.
-      * in PHP we do as $_SESSION['var name'].
-      * Here we do like this.
-      */
-      this.sess.user_id; 
-      console.log("##########");
-      console.log(sess);
-      console.log("##########");
-      // equivalent to $_SESSION['email'] in PHP.
-       // equivalent to $_SESSION['username'] in PHP.
-  });
-
 
 router.post('/login',function(req,res){
   var username = req.body.username;
@@ -58,13 +41,7 @@ router.post('/login',function(req,res){
         "status":"200",
         "msg":"user found"
       }
-      //this.sess = "nik";
-      this.sess=req.session;
-      sess.user_id = result[0].id;
-      console.log("__________");
-      console.log(this.sess);
-      console.log("__________");
-      next();
+     
       res.json(postvalue);
     }
     else if(rows>1)
@@ -89,12 +66,7 @@ router.post('/login',function(req,res){
 
 
 router.get('/contacts',function(req,res){
-  //sess=req.session;
-  console.log("*********");
-  console.log(sess);
-  console.log("*********");
-   if(req.session.user_id!=null || req.session.user_id!=undefined)
-   {
+   
     con.query("SELECT * FROM contacts", function (err, result, fields) {
         if (err) throw err;
        postvalue = {
@@ -104,16 +76,7 @@ router.get('/contacts',function(req,res){
        //console.log(req.session);
         res.json(postvalue);
       });
-    }
-    else
-    {
-     postvalue = {
-      "status":"403",
-      "result":"user not logged in"
-      }
-      
-      res.json(postvalue);
-    }
+   
    
 });
 

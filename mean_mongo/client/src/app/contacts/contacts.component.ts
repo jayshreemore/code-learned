@@ -23,7 +23,7 @@ export class ContactsComponent implements OnInit {
       this.contactservice.addcontact(newcontact)
       .subscribe( res => {
         this.res = res;
-        this.contacts.push(newcontact);
+        this.contacts.result.push({"newcontact":newcontact});
         console.log("I CANT SEE DATA HERE: ", this.res);
       });
   
