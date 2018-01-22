@@ -297,7 +297,16 @@ router.delete('/removefromcart/:id',function(req,res){
 
 
 //**********************************************************************************************************
+
+
+var http=require('http');
 var paypal = require('paypal-rest-sdk');
+var transaction_values = [];
+var port = Number(process.env.PORT ||3000);
+
+app.locals.baseurl = 'http://localhost:3000';
+ 
+// paypal auth configuration
 var config = {
   "port" : 3000,
   "api" : {
@@ -307,61 +316,95 @@ var config = {
     "client_secret" : "EDxIJQitACq1aS8XlZ6NlJ2NYMCu9Z-h75LqcsD5UogRGWgVBOeWb1daVmIisVPYZRy_dLSfVVJD0UNF" // your paypal application secret id
   }
 }
+ 
 paypal.configure(config.api);
-transaction_values = [];
+
 router.post('/paynow', function(req, res) {
   // paypal payment configuration.
-transaction_values['total'] = parseInt(req.body.amount);
-transaction_values['currency'] = req.body.currency;
+total= parseInt(req.body.amount);
+currency = req.body.currency;
 var payment = {
 "intent": "sale",
 "payer": {
  "payment_method": "paypal"
 },
 "redirect_urls": {
- "return_url": app.locals.baseurl+"/success",
- "cancel_url": app.locals.baseurl+"/cancel"
+ "return_url": app.locals.baseurl+"/api/success",
+ "cancel_url": app.locals.baseurl+"/api/cancel"
 },
 "transactions": [{
  "amount": {
- "currency":'USD' ,
-   "total":'10'
+ "currency":currency,
+   "total":total
    
  },
  "description": req.body.description
 }]
 };
-
 paypal.payment.create(payment, function (error, payment) {
- var data = { "success":payment} 
-res.end( JSON.stringify(data));
+ //var data = { "success":payment} 
+
 
 if (error) {
- console.log(error);
+  var data = { "status":'204',"msg":"error on create payment"} 
 } else {
  
  if(payment.payer.payment_method === 'paypal') {
    req.paymentId = payment.id;
    var redirectUrl;
-   res.send(payment);
-   /*
-   console.log(payment);
+   //console.log(payment);
    for(var i=0; i < payment.links.length; i++) {
      var link = payment.links[i];
- console.log(link);
+ //console.log(link);
      if (link.method === 'REDIRECT') {
-       redirectUrl = link.href;
+      // redirectUrl = link.href;
+       var data = { "status":'200',"msg":link.href} 
  
      }
-     
    }
-   */
    //res.redirect(redirectUrl);
  }
 }
+res.end( JSON.stringify(data));
 });
 
 });
 
+//**********************************************************************************************************
+
+router.get('/success', function(req, res) {
+  /// res.send("Payment transfered successfully.");
+  console.log(req.query);
+  const payerid = req.query.PayerID;
+  const payment = req.query.paymentId;
+  const total = req.query.total;
+  const currency = req.query.currency;
+  console.log('total is'+total);
+  console.log('total is'+currency);
+  
+  const execute_payment_json = {
+    "payer_id":payerid,
+    "transactions" : [{
+      "amount" :{
+       "currency":'USD' ,
+       "total":'10'
+      }
+    }]
+    
+  }
+  
+  paypal.payment.execute(payment, execute_payment_json,function (error, payment) {
+     if (error) {
+         console.log(error.response);
+     throw error;
+     } else {
+     console.log("get response");
+     console.log(JSON.stringify(payment));
+     res.send("Payment transfered successfully.");
+     }
+ });
+  
+  
+ });
 
 module.exports = router;

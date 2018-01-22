@@ -75,4 +75,11 @@ export class ContactService {
     .map(res => res.json());
   }
 
+  paynow(productbill)
+  {
+    var headers = new Headers();
+    headers.append('Content-Type','application/json');
+    return this.http.post('http://localhost:3000/api/paynow',productbill,{headers:headers})
+    .map(res=>res.json());
+  }
 }

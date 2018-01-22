@@ -13,7 +13,7 @@ import {UserService} from './user.Service';
 import {AuthGuard} from './auth.guard';
 import { RegistrationComponent } from './registration/registration.component';
 import { CustomFormsModule } from 'ng2-validation';
-import {OnlyloggedinuserGuard} from './onlyloggedinuser.guard';
+//import {OnlyloggedinuserGuard} from './onlyloggedinuser.guard';
 import { ProductsComponent } from './products/products.component';
 import { CatfilterPipe } from './catfilter.pipe';
 import {CurrentuserinfoService} from './currentuserinfo.service';
@@ -96,7 +96,8 @@ const appRoutes:Routes = [
     RouterModule.forRoot(appRoutes),
     
   ],
-  providers: [UserService,AuthGuard,OnlyloggedinuserGuard,CurrentuserinfoService],
+  providers: [UserService,AuthGuard,CurrentuserinfoService],
+  //onlyloggedinuser
   bootstrap: [AppComponent]
 })
 export class AppModule { }
