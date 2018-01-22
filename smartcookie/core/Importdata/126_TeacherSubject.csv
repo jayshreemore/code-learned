@@ -1,7 +1,0 @@
-SchoolID, TeacherID, SubjectID, SubjectCode, SubjectName, YearID, DivisionID, Division, SemesterID, Semester, BranchID, Branch,DepartmentID, Department, CourseLevel, AcademicYear
-126,LHSCC2017,1,BE-15003,Computer Aided Engineering Drawing Laboratory,1,4290,Div-1,2,Semester I,2,Civil Engineering,D004,Civil,UG,2016
-126,LHSCC2017,3,BE-15004,Computer Aided Design,1,4290,Div-1,2,Semester I,2,Civil Engineering,D004,Civil,UG,2016
-126,LHKW2017,2,BE-15001,Communication Networks,1,4290,Div-1,2,Semester I,3,Computer Engineering,D001,computer lab,UG,2016
-126,LHKW2017,4,BE-11003,Theory of Computer Science,1,4290,Div-1,2,Semester I,3,Computer Engineering,D001,computer lab,UG,2016
-126,LHKW2017,5,BE-11004,Microprocessor Techniques,1,4290,Div-1,2,Semester I,3,Computer Engineering,D001,computer lab,UG,2016
-126,LHKW2017,6,BE-11005,Principles of Programming Languages,1,4290,Div-1,2,Semester I,3,Computer Engineering,D001,computer lab,UG,2016

@@ -15,6 +15,19 @@ export class ContactService {
     return this.http.post('http://localhost:3000/api/login',userCredentials,{headers:headers})
     .map(res=>res.json());
   }
+
+  register(newuser){
+    var headers = new Headers();
+    headers.append('Content-Type','application/json');
+    return this.http.post('http://localhost:3000/api/register',newuser,{headers:headers})
+    .map(res => res.json());
+  }
+
+  productslist(){
+    return this.http.get('http://localhost:3000/api/product_list')
+    .map(res=>res.json());
+  }
+
   
   logout()
   {
@@ -39,6 +52,26 @@ export class ContactService {
   deletecontact(id)
   {
     return this.http.delete('http://localhost:3000/api/deletcontact/'+id)
+    .map(res => res.json());
+  }
+
+  addtocart(newcartproduct)
+  {
+    var headers = new Headers();
+    headers.append('content-Type','application/json');
+    return this.http.post('http://localhost:3000/api/addtocart',newcartproduct,{headers:headers})
+    .map(res => res.json());
+  }
+
+  get_cart_products(user_id){
+    var headers = new Headers();
+    headers.append('content-Type','application/json');
+    return this.http.post('http://localhost:3000/api/get_cart_products',user_id,{headers:headers})
+    .map(res=>res.json());
+  }
+  removefromcart(id)
+  {
+    return this.http.delete('http://localhost:3000/api/removefromcart/'+id)
     .map(res => res.json());
   }
 

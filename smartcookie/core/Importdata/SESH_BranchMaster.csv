@@ -1,6 +1,0 @@
-SchoolID, BranchID, Branch, Specialization, Duration, IsEnabled, DepartmentName, CourseName
-SESH,101,MCA,Engineering & Technology,3 Year,1,Department of Master of Computer Application,PG
-SESH,201,BCA,Science,3 Year,1,Department of Bachelor  of Computer Application,UG
-SESH,301,BBA,Commerce,3 Year,1,Department of Bachelor  of Business Administration,UG
-SESH,302,BBA,Commerce,4 Year,1,Department of Bachelor  of Business Administration,UG
-SESH,303,BBA,Commerce,5 Year,1,Department of Bachelor  of Business Administration,UG

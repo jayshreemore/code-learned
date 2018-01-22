@@ -12,6 +12,12 @@ export class HeaderComponent implements OnInit {
   logout_user;
   constructor(private contactservice:ContactService,private router:Router) { }
 
+  registration(){
+    //alert('yes');
+    this.router.navigate(['/registration']);
+  }
+
+
   logout(){
     alert('hi');
     this.contactservice.logout()

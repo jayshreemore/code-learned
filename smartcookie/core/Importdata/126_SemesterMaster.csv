@@ -1,4 +1,0 @@
-SchoolID, BranchID, SemesterID, SemesterName, SemesterCredit, IsRegularSemester, BranchName, DepartmentName, CourseLevel, Class, IsEnabled
-126,3,2,Semester I,22,1,Civil Engineering,Civil Engineering ,UG,F.Y.B.E.,1
-126,6,3,Semester II,22,1,Computer Engineering,Computer Engineering and Information Technology,UG,F.Y.B.E.,1
-126,7,4,Semester I,20,1,Electronics and Telecommunication Engineering ,Electronics and TeleCommunication Engineering ,UG,F.Y.B.E.,1

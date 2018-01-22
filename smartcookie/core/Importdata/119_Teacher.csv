@@ -1,6 +1,0 @@
-SchoolID, EmployeeRegCode, EmployeeName, Mobile, DeptName, Gender, EmailID, Country, City, PermanentAddress, DOB, IntEmail, PhoneNo, AppointmentDate,EmployeeType
-119,23,Aloysius Domnic,9850568768,Operations,Male,aloysuis@blueplanetsolutions.com,India,Pune,Pune,,aloysuis@blueplanetsolutions.com,205/222,,135
-119,24,Rajesh Parekar,9881122186,Recruitment,Male,rajeshp@panhealth.com,India,Pune,Pune,,rajeshp@panhealth.com,201,,135
-119,25,Rahul Kodape,8605957657,Software,Male,rahulk@blueplanetsolutions.com,India,Pune,Pune,,rahulk@blueplanetsolutions.com,212,,134
-119,26,Ambrose Cruz ,9765065378,Networking,Male,ambrosec@panhealth.com,India,Pune,Pune,,ambrosec@panhealth.com,206,,134
-119,27,Rakesh Khatri,9960903132,Software,Male,rakesh@panhealth.com,India,Pune,Pune,,rakesh@panhealth.com,-,,134

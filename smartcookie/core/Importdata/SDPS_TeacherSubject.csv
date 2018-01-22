@@ -1,6 +1,0 @@
-SchoolID, TeacherID, SubjectID, SubjectCode, SubjectName, YearID, DivisionID, Division, SemesterID, Semester, BranchID, Branch,DepartmentID, Department, CourseLevel, AcademicYear
-SDPS,1101,,51031,Classical Archaeology and Ancient,2016,1,1,Semester I,Sem I,1,Science,1,Science,UG,2015-2016
-SDPS,1102,,51032,Earth Science(Geology),2016,1,1,Semester I,Sem I,1,Science,1,Science,UG,2015-2016
-SDPS,1103,,51033,Biochemistry(Molecular and cellular),2016,1,1,Semester I,Sem I,1,Science,1,Science,UG,2015-2016
-SDPS,1104,,51034,Biomedical Sciences,2016,1,1,Semester I,Sem I,1,Science,1,Science,UG,2015-2016
-SDPS,1105,,51035,Mthematics and Statics,2016,1,1,Semester I,Sem I,1,Science,1,Science,UG,2015-2016
